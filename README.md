@@ -1,1 +1,1 @@
-# gpt-based-pantun
+# GPT-based Pantun Generator
