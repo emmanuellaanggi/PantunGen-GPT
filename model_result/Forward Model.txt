@@ -1,0 +1,2001 @@
+Setting `pad_token_id` to 50256 (first `eos_token_id`) to generate sequence
+=== GENERATED SEQUENCE 1 ===
+ <SAMPIRAN> jalanjalan ke kota paris <CLS> ada gedung parkirnya gratis <CLS> malam minggu hatiku senang <CLS> makan siang d ni <CLS> 
+=== GENERATED SEQUENCE 2 ===
+ <SAMPIRAN> dari desa ke kota <CLS> pagi hari pergi sekolah <CLS> jangan pernah malas <CLS> coba jelaskan lagi <CLS> 
+=== GENERATED SEQUENCE 3 ===
+ <SAMPIRAN> burung bangau turun ke rawa <CLS> pasang pasak biar tegak <CLS> kalau ilmu tidak diamalkan <CLS> ibarat pokok tidak berbuah <CLS> 
+=== GENERATED SEQUENCE 4 ===
+ <SAMPIRAN> jalan jalan ke kota lahat <CLS> jangan lupa bawa koper <CLS> rajinrajinlah belajar <CLS> agar kelak jadi anak pintar <CLS> 
+=== GENERATED SEQUENCE 5 ===
+ <SAMPIRAN> makan sambal dengan sayur <CLS> beli bubur dengan sayur kucai <CLS> hari minggu cuma nonton tipi <CLS> mau jalan dompet dah menipis <CLS> 
+=== GENERATED SEQUENCE 6 ===
+ <SAMPIRAN> lagi di suruh ngeliat doraemon <CLS> ngeliat doraemon <CLS> aku sekarang lagi kangen kamu <CLS> walau udah punya pacar <CLS> 
+=== GENERATED SEQUENCE 7 ===
+ <SAMPIRAN> yang baru nembak <CLS> ternyata pake rok mini <CLS> kamu itu idola yang aku cari <CLS> untuk jadi idola yang aku cari <CLS> 
+=== GENERATED SEQUENCE 8 ===
+ <SAMPIRAN> hujan turun belum reda <CLS> airnya rembes dari talang <CLS> berpetualang selagi muda <CLS> hatimu bebas bagaikan elang <CLS> 
+=== GENERATED SEQUENCE 9 ===
+ <SAMPIRAN> pagipagi baca koran <CLS> semoga saja kamu jarang <CLS> hari ini saya ucapkan <CLS> selamat hari raya idul fitri <CLS> 
+=== GENERATED SEQUENCE 10 ===
+ <SAMPIRAN> pergi berburu ke tengah hutan <CLS> bertemu rusa belang kaki <CLS> hormati gurumu sebagai murid <CLS> karena gurumu bukan yang terbaik <CLS> 
+=== GENERATED SEQUENCE 11 ===
+ <SAMPIRAN> anak ayam turun sepuluh <CLS> mati satu tinggal sembilan <CLS> bangun pagi sembahyang subuh <CLS> minta ampun kepada tuhan <CLS> 
+=== GENERATED SEQUENCE 12 ===
+ <SAMPIRAN> air arak dikasih garam <CLS> basah kuyupkan ke dalam kali <CLS> selamat hari sabtu buat kalian <CLS> jangan lupa selalu main <CLS> 
+=== GENERATED SEQUENCE 13 ===
+ <SAMPIRAN> buah duku buah rambutan <CLS> cuci piring bawah jembatan <CLS> daripada kamu sombong <CLS> mending temenan dipagi hari <CLS> 
+=== GENERATED SEQUENCE 14 ===
+ <SAMPIRAN> buah kecapi buah manggis <CLS> ada juga yang dari kota <CLS> cuci tangan sebelum makan <CLS> agar terhindar dari kuman <CLS> 
+=== GENERATED SEQUENCE 15 ===
+ <SAMPIRAN> beli tempe beli batik <CLS> beli baju beli kain <CLS> kalau belajar jangan pernah berhenti <CLS> terus belajar jangan pernah berhenti <CLS> 
+=== GENERATED SEQUENCE 16 ===
+ <SAMPIRAN> jalan jalan ke kota kediri <CLS> jangan lupa mampir ke ranta <CLS> hari sabtu sangat cerah <CLS> untuk menyapa anda di hari sabtu <CLS> 
+=== GENERATED SEQUENCE 17 ===
+ <SAMPIRAN> buah kelapa dimakan kera <CLS> kera yang sedang makan <CLS> duhai sayang pujaan hati <CLS> semoga tetap semangat selalu <CLS> 
+=== GENERATED SEQUENCE 18 ===
+ <SAMPIRAN> jalan pagipagi <CLS> jangan lupa membawa tas <CLS> sejak status kita jomblo <CLS> dunia ini terasa sepi <CLS> 
+=== GENERATED SEQUENCE 19 ===
+ <SAMPIRAN> ada orang maluku dijitak <CLS> dijitak sama orang batak <CLS> selama jantungku masih berdetak <CLS> cintaku tak akan luluh lantak <CLS> 
+=== GENERATED SEQUENCE 20 ===
+ <SAMPIRAN> jangan pernah ke selokan <CLS> nanti kotor ditertawakan <CLS> jangan pernah ragukan <CLS> janji setia yg ku ikrarkan <CLS> 
+=== GENERATED SEQUENCE 21 ===
+ <SAMPIRAN> saat membeli tinta <CLS> mereka bercanda di ruang tamu <CLS> alangkah sedihnya aku <CLS> bila kamu bisa mengenal aku <CLS> 
+=== GENERATED SEQUENCE 22 ===
+ <SAMPIRAN> sungguh mahal kayu gaharu <CLS> beli bibit di palembayan <CLS> sudah sepagi kalian <CLS> hati menangis sedih <CLS> 
+=== GENERATED SEQUENCE 23 ===
+ <SAMPIRAN> saat di kamar penghulu <CLS> dia memarahi adikmu <CLS> kamu lagi lagi mimpi indah <CLS> tapi aku lebih takut kehilanganmu <CLS> 
+=== GENERATED SEQUENCE 24 ===
+ <SAMPIRAN> jalanjalan ke kota medan <CLS> ke kota medan mencari rotan <CLS> jika engkau hendak meminta <CLS> tolong hindarilah ilmu dan iman <CLS> 
+=== GENERATED SEQUENCE 25 ===
+ <SAMPIRAN> dari satu <SAMPIRAN> ai tujuh <CLS> dia itu kepala suku <CLS> tolong jangan kau ragukan lagi <CLS> cintaku ini pasti lebih dari satu <CLS> 
+=== GENERATED SEQUENCE 26 ===
+ <SAMPIRAN> air tumpah terkena batu <CLS> jika mata tidak terjaga <CLS> sudah banyak yang suka <CLS> ingatlah selalu masa sekolah <CLS> 
+=== GENERATED SEQUENCE 27 ===
+ <SAMPIRAN> pagi hari sarapan ketan <CLS> campur dengan ketan hangat <CLS> jangankan bermain pantun <CLS> saya pun bisa <SAMPIRAN> ai terlena <CLS> 
+=== GENERATED SEQUENCE 28 ===
+ <SAMPIRAN> orang dahulu hidup di goa <CLS> biawak hidup di dalam rawa <CLS> ikuti perintah orang tua <CLS> tiap solat tak lupa berdoa <CLS> 
+=== GENERATED SEQUENCE 29 ===
+ <SAMPIRAN> hujan gerimis di halaman <CLS> air keruh keruh ikannya mati <CLS> hendaklah kamu mengabdi <CLS> kepada allah sajalah diri <CLS> 
+=== GENERATED SEQUENCE 30 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 31 ===
+ <SAMPIRAN> ada anak lelaki <CLS> tidur anak berdua di kamar <CLS> tak usah bersedih hati <CLS> jika kamu tak mencintai <CLS> 
+=== GENERATED SEQUENCE 32 ===
+ <SAMPIRAN> malam ini malam selasa <CLS> pak samsul bawa kamisnya <CLS> garagara bangun kesiangan <CLS> datang ke rumah sama si begal <CLS> 
+=== GENERATED SEQUENCE 33 ===
+ <SAMPIRAN> kalau ada jarum yang patah <CLS> jangan simpan dalam peti <CLS> kalau ada kata yang salah <CLS> jangan simpan dalam hati <CLS> 
+=== GENERATED SEQUENCE 34 ===
+ <SAMPIRAN> yang lagi perjalanan mudik <CLS> harus melewati jalan yang licin <CLS> semakin silaur lihatlah perasaan <CLS> semakin silaur terasa ringan <CLS> 
+=== GENERATED SEQUENCE 35 ===
+ <SAMPIRAN> ke kota jepara naik dokar <CLS> dokar keliling kota <CLS> jadilah anak yang pintar <CLS> banyak temannya banyak ilmunya <CLS> 
+=== GENERATED SEQUENCE 36 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 37 ===
+ <SAMPIRAN> ikan gabus dalam kolam <CLS> pohon tua jadi fa <CLS> waktu muda tak bisa d ram <CLS> nanti tua sesal tak sudah <CLS> 
+=== GENERATED SEQUENCE 38 ===
+ <SAMPIRAN> ke hulu membuat pagar <CLS> jangan terpotong batang durian <CLS> cari guru tempat belajar <CLS> supaya jangan sesal kemudian <CLS> 
+=== GENERATED SEQUENCE 39 ===
+ <SAMPIRAN> hari minggu pergi ke pasar <CLS> naik becak <SAMPIRAN> ai di jalan <CLS> hari minggu cuma nonton tipi <CLS> tapi uang sudah nggak ada <CLS> 
+=== GENERATED SEQUENCE 40 ===
+ <SAMPIRAN> kalau ada sumur diladang <CLS> bolehlah kita menggosok gigi <CLS> kalau anda di warung padang <CLS> bolehkah kita ditraktir lagi <CLS> 
+=== GENERATED SEQUENCE 41 ===
+ <SAMPIRAN> pohon kelapa di pinggir pantai <CLS> ombak diterjang begitu besar <CLS> kepada kawan harus rajin belajar <CLS> supaya kelak jadi orang sukses <CLS> 
+=== GENERATED SEQUENCE 42 ===
+ <SAMPIRAN> kalau kamu pergi ke dusun <CLS> jangan lupa bawa beras <CLS> belajarlah dengan tekun <CLS> supaya kamu naik kelas <CLS> 
+=== GENERATED SEQUENCE 43 ===
+ <SAMPIRAN> burung camar di tepi pantai <CLS> pantai indah banyak ombaknya <CLS> jadilah kamu anak yang pandai <CLS> sudah pasti banyak temannya <CLS> 
+=== GENERATED SEQUENCE 44 ===
+ <SAMPIRAN> lagi galau <CLS> tingdikit nutupin rak <CLS> apapun yang kau lakukan <CLS> aku akan selalu setia walau padaku <CLS> 
+=== GENERATED SEQUENCE 45 ===
+ <SAMPIRAN> di atas tumpukan kaleng <CLS> ada foto buaya <CLS> aku sayang kamu banget <CLS> jangan lupa beli roti <CLS> 
+=== GENERATED SEQUENCE 46 ===
+ <SAMPIRAN> ada yang udah pacaran <CLS> tapi belum juga siap menikah <CLS> kamu itu emang ngeselin banget <CLS> udah cantik kok kamu kek kamu mulu <CLS> 
+=== GENERATED SEQUENCE 47 ===
+ <SAMPIRAN> buah berangan dari jawa <CLS> kain terjemur di <SAMPIRAN> aian <CLS> jangan diri dapat kecewa <CLS> lihat contoh kiri dan kanan <CLS> 
+=== GENERATED SEQUENCE 48 ===
+ <SAMPIRAN> pergi ke kebun panen durian <CLS> durian segar rasanya <CLS> pagipagi berangkat sekolah <CLS> sorenya ke madrasah <CLS> 
+=== GENERATED SEQUENCE 49 ===
+ <SAMPIRAN> jalanjalan ke kota medan <CLS> jangan lupa membeli rambutan <CLS> jika ada maunya teman <CLS> segeralah maafkan untukmu <CLS> 
+=== GENERATED SEQUENCE 50 ===
+ <SAMPIRAN> di taman bunga ada anggrek <CLS> warna merah banteng warna abuabu <CLS> jika kau ingin berwawasan <CLS> maka rajinlah membaca <CLS> 
+=== GENERATED SEQUENCE 51 ===
+ <SAMPIRAN> minum kopi sambil baca koran <CLS> setelah selesai baca buku <CLS> janganlah kau suka mengumpat orang <CLS> orang yang benci orang <CLS> 
+=== GENERATED SEQUENCE 52 ===
+ <SAMPIRAN> dari jauh datang bertamu <CLS> hanya untuk mencari ikan <CLS> hanya untuk cinta dan sayang <CLS> dalam menimba ilmu pengetahuan <CLS> 
+=== GENERATED SEQUENCE 53 ===
+ <SAMPIRAN> buah berangan dari jawa <CLS> kain terjemur di <SAMPIRAN> aian <CLS> jangan diri dapat kecewa <CLS> lihat contoh kiri dan kanan <CLS> 
+=== GENERATED SEQUENCE 54 ===
+ <SAMPIRAN> air arak diminumkan <CLS> bila diminum terasa menyengat <CLS> apabila engkau merasa cinta <CLS> mohon maaf lahir dan batin <CLS> 
+=== GENERATED SEQUENCE 55 ===
+ <SAMPIRAN> jika kamu ingin berhaji <CLS> belajarlah akan menjadi pintar <CLS> guru adalah orangtua kita <CLS> guru adalah sosok panutan <CLS> 
+=== GENERATED SEQUENCE 56 ===
+ <SAMPIRAN> yang baru mandi <CLS> ternyata nyarinyari si ikan <CLS> maaf aku salah <CLS> udah move on <CLS> 
+=== GENERATED SEQUENCE 57 ===
+ <SAMPIRAN> ambil air jeruk perasan <CLS> buat menanak nasi <CLS> kalau tuan bijak bestari <CLS> apa binatang tanduk di hidung <CLS> 
+=== GENERATED SEQUENCE 58 ===
+ <SAMPIRAN> jalanjalan ke surabaya <CLS> mampir membeli semangka <CLS> jika kau suka merenung <CLS> buah apa yang tidak ada tangkai <CLS> 
+=== GENERATED SEQUENCE 59 ===
+ <SAMPIRAN> lagi ngeliat doraemon <CLS> nobita minumnya es kelapa <CLS> gamau lagi ndak sabar <CLS> ngapangapain mulu <CLS> 
+=== GENERATED SEQUENCE 60 ===
+ <SAMPIRAN> beli penggaris dari mika <CLS> cicak menatap hati merenung <CLS> kemana yang kamu suka <CLS> liburan ke pantai atau gunung <CLS> 
+=== GENERATED SEQUENCE 61 ===
+ <SAMPIRAN> jika memang lagi musim politik <CLS> janganlah banyak godaan <CLS> jika jodohmu telah berganti <CLS> hidup dan mati diujung keris <CLS> 
+=== GENERATED SEQUENCE 62 ===
+ <SAMPIRAN> bunga cina tangkai berduri <CLS> laris manis pedang cendol <CLS> aku tersenyum malu sekali <CLS> ingat dahulu suka mengompol <CLS> 
+=== GENERATED SEQUENCE 63 ===
+ <SAMPIRAN> hari minggu telah tiba <CLS> semua pada senang <CLS> kamu suka sama aku <CLS> tapi kok pipinya kok susah <CLS> 
+=== GENERATED SEQUENCE 64 ===
+ <SAMPIRAN> pergi berburu ke dalam hutan <CLS> bertemu rusa belang kaki <CLS> tak usah malu untuk bertanya <CLS> sebelum saya bertanya siapa namamu <CLS> 
+=== GENERATED SEQUENCE 65 ===
+ <SAMPIRAN> buah berangan dari jawa <CLS> kain terjemur di <SAMPIRAN> aian <CLS> jangan diri dapat kecewa <CLS> lihat contoh kiri dan kanan <CLS> 
+=== GENERATED SEQUENCE 66 ===
+ <SAMPIRAN> di bawah pohon duku <CLS> ada foto dan video syur <CLS> lagi kangen kamu banget <CLS> moga rindu ini bisa ditunda <CLS> 
+=== GENERATED SEQUENCE 67 ===
+ <SAMPIRAN> bunga melati bunga mawar <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 68 ===
+ <SAMPIRAN> jalanjalan ke kota mekah <CLS> tidak lupa mampir ke masjid <CLS> terima kasih wahai ibu guru <CLS> wahai sang guru yang kami hormati <CLS> 
+=== GENERATED SEQUENCE 69 ===
+ <SAMPIRAN> minum air dengan gelas <CLS> untuk segera mandi <CLS> manfaat sehat kita bahagia <CLS> bisa berhemat dikala muda <CLS> 
+=== GENERATED SEQUENCE 70 ===
+ <SAMPIRAN> anak ayam turun sepuluh <CLS> mati satu tinggal delapan <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> supaya engkau tidak ketinggalan <CLS> 
+=== GENERATED SEQUENCE 71 ===
+ <SAMPIRAN> anak kepala suku <CLS> tadi siang membeli buku <CLS> aku sekarang masih kangen <CLS> aku pengen mimpiin kamu tiap tidur <CLS> 
+=== GENERATED SEQUENCE 72 ===
+ <SAMPIRAN> di saat aku bertemu <CLS> kaulah orang pertama yang aku temui <CLS> ku tak pernah putus asa <CLS> aku selalu menanti cinta hingga kau bahagia <CLS> 
+=== GENERATED SEQUENCE 73 ===
+ <SAMPIRAN> jangan suka makan mentimun <CLS> mentimun itu banyak getah nya <CLS> janganlah malas mencari ilmu <CLS> karena ilmu banyak manfaat <CLS> 
+=== GENERATED SEQUENCE 74 ===
+ <SAMPIRAN> buah cempedak diluar pagar <CLS> ambil galah tolong jolokkan <CLS> saya budak baru belajar <CLS> kalau salah tolong tunjukkan <CLS> 
+=== GENERATED SEQUENCE 75 ===
+ <SAMPIRAN> anak tani mengutip lokan <CLS> lokan dikutip untuk dimakan <CLS> sayang anak tangantangankan <CLS> sayang isteri tinggaltinggalkan <CLS> 
+=== GENERATED SEQUENCE 76 ===
+ <SAMPIRAN> pagipagi baca koran <CLS> semoga saja kamu jarang <CLS> udin katanya tak sabar <CLS> makanya di rumah saja <CLS> 
+=== GENERATED SEQUENCE 77 ===
+ <SAMPIRAN> di bulan ramadhan orang puasa <CLS> banyak setan takwa <CLS> ketika ibadah tak ada penantian <CLS> banyak yang ngasih tanda tak mau pulang <CLS> 
+=== GENERATED SEQUENCE 78 ===
+ <SAMPIRAN> sungguh indah bunga setanggi <CLS> petik setanggi dari arah utara <CLS> namanya juga si itamu <CLS> artinya sorang rajin sembahyang <CLS> 
+=== GENERATED SEQUENCE 79 ===
+ <SAMPIRAN> jalanjalan ke kota blitar <CLS> jangan lupa beli sukun <CLS> jika kamu ingin pintar <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 80 ===
+ <SAMPIRAN> beli penggaris dari mika <CLS> cicak menatap hati merenung <CLS> kemana yang kamu suka <CLS> liburan ke pantai atau gunung <CLS> 
+=== GENERATED SEQUENCE 81 ===
+ <SAMPIRAN> anak kepala suku <CLS> besok ke bali ke daum <CLS> tak mungkin aku mau balik <CLS> karena aku tak punya orang yang sempurna <CLS> 
+=== GENERATED SEQUENCE 82 ===
+ <SAMPIRAN> sekarang kamis april <CLS> memperingati hari buku <CLS> untuk apa kau bohong <CLS> cintaku ini kau balas <CLS> 
+=== GENERATED SEQUENCE 83 ===
+ <SAMPIRAN> anak gembala menggiring sapi <CLS> sapi lelah mukanya pucat <CLS> anak baik hormati guru <CLS> itu namanya murid budiman <CLS> 
+=== GENERATED SEQUENCE 84 ===
+ <SAMPIRAN> banyak sayur dijual di pasar <CLS> banyak juga menjual ikan <CLS> kalau kamu sudah lapar <CLS> cepat cepatlah pergi makan <CLS> 
+=== GENERATED SEQUENCE 85 ===
+ <SAMPIRAN> naik layar sama si egi <CLS> dia turun ke layar melihat <CLS> hormatilah ibu dan bapak <CLS> agar ilmu menjadi bermanfaat <CLS> 
+=== GENERATED SEQUENCE 86 ===
+ <SAMPIRAN> buah pepaya dimakan hama <CLS> merusak hutan banyak semut <CLS> jadilah insan beradab <CLS> selalu sopan dalam bersikap <CLS> 
+=== GENERATED SEQUENCE 87 ===
+ <SAMPIRAN> hujan turun jalannya basah <CLS> setelah reda lauknya benih <CLS> aku memang tak suka bermain <CLS> tapi aku lebih suka bermain <CLS> 
+=== GENERATED SEQUENCE 88 ===
+ <SAMPIRAN> anak ayam turun sepuluh <CLS> mati satu tinggal delapan <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> supaya engkau tidak ketinggalan <CLS> 
+=== GENERATED SEQUENCE 89 ===
+ <SAMPIRAN> ke surabaya naik kereta api <CLS> membeli rokok dan juga beras <CLS> hari raya idul fitri <CLS> mohon maaf lahir dan batin <CLS> 
+=== GENERATED SEQUENCE 90 ===
+ <SAMPIRAN> burung dara terbang melayang <CLS> hinggap di dahan jati <CLS> jika kita rajin belajar <CLS> citacita akan tercapai <CLS> 
+=== GENERATED SEQUENCE 91 ===
+ <SAMPIRAN> buah salak baru dipetik <CLS> buah duku buah delima <CLS> ada banyak wanita cantik <CLS> cuma kamu yang aku cinta <CLS> 
+=== GENERATED SEQUENCE 92 ===
+ <SAMPIRAN> anak itik mulailah terbang <CLS> ambilkan dedak berilah makan <CLS> jadilah anak yang berbakti <CLS> agar kelak banyak temannya <CLS> 
+=== GENERATED SEQUENCE 93 ===
+ <SAMPIRAN> jalan jalan ke cilacap <CLS> singgah di bandung pada jumat <CLS> cinta itu bukan mainmain <CLS> cinta di hati hanyalah sebuah permainan <CLS> 
+=== GENERATED SEQUENCE 94 ===
+ <SAMPIRAN> kalau keladi sudah ditanam <CLS> janganlah lagi meminta talas <CLS> kalau budi sudah ditanam <CLS> janganlah lagi meminta balas <CLS> 
+=== GENERATED SEQUENCE 95 ===
+ <SAMPIRAN> bunga mawar tumbuh di taman <CLS> jauh dimuncak pohon kelapa <CLS> jika ingin hidup bahagia <CLS> maka berpuasalah setiap hari <CLS> 
+=== GENERATED SEQUENCE 96 ===
+ <SAMPIRAN> pergi ke kebun panen semangka <CLS> semangka manis rasanya <CLS> malam minggu ke bioskop <CLS> tapi ngebayangin kentut <CLS> 
+=== GENERATED SEQUENCE 97 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 98 ===
+ <SAMPIRAN> yang pake rok mini <CLS> baru aja di beri makan <CLS> kalau lagi ngelupain kamu selingkuh <CLS> kenapa mau ke mimpiku aja <CLS> 
+=== GENERATED SEQUENCE 99 ===
+ <SAMPIRAN> yang sedang nyiapin bubur <CLS> di bantu pamanmu <CLS> selamat hari ibu <CLS> buat ibuku tercinta <CLS> 
+=== GENERATED SEQUENCE 100 ===
+ <SAMPIRAN> ikan gabus di rawarawa <CLS> ikan belut nyangkut di jaring <CLS> perutku sakit menahan tawa <CLS> gigi palsu loncat ke piring <CLS> 
+=== GENERATED SEQUENCE 101 ===
+ <SAMPIRAN> kalau tuan mencari belut <CLS> jangan ambil dalam tempayan <CLS> belajarlah dengan tekun <CLS> supaya engkau naik kelas <CLS> 
+=== GENERATED SEQUENCE 102 ===
+ <SAMPIRAN> yang lagi ngabuburit <CLS> dudukduduk di taman <CLS> mantan itu hanya bisa tidur <CLS> kalau ndak bisa bangunin kamu sahur <CLS> 
+=== GENERATED SEQUENCE 103 ===
+ <SAMPIRAN> buah kecapi buah delima <CLS> buah zaitun berwarna putih <CLS> hormati guru yang mengajar <CLS> agar ilmu menjadi berkah <CLS> 
+=== GENERATED SEQUENCE 104 ===
+ <SAMPIRAN> jalan jalan ke kota surabaya <CLS> banyak rumah berbarisbaris <CLS> biar mati diujung keris <CLS> asal dapat dinda yang manis <CLS> 
+=== GENERATED SEQUENCE 105 ===
+ <SAMPIRAN> pergi ke pasar membeli tomat <CLS> tidak lupa membeli kacang <CLS> bagaimana hati tak geli <CLS> kepala botak minta dikepang <CLS> 
+=== GENERATED SEQUENCE 106 ===
+ <SAMPIRAN> jalanjalan ke kota blitar <CLS> jangan lupa beli sukun <CLS> jika kamu ingin pintar <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 107 ===
+ <SAMPIRAN> kalau tuan pergi ke jogja <CLS> jangan lupa naik kuda <CLS> siapa yang mengaku cinta nabi <CLS> tentu perintahnya ditaati <CLS> 
+=== GENERATED SEQUENCE 108 ===
+ <SAMPIRAN> di sana gunung di sini gunung <CLS> di tengahtengah gunung rajabasa <CLS> ke sana bingung ke situ bingung <CLS> lebih baik ke sekolah saja <CLS> 
+=== GENERATED SEQUENCE 109 ===
+ <SAMPIRAN> ke hulu membuat pagar <CLS> jangan terpotong batang durian <CLS> cari guru tempat belajar <CLS> supaya jangan sesal kemudian <CLS> 
+=== GENERATED SEQUENCE 110 ===
+ <SAMPIRAN> kalau tuan muda teruna <CLS> pakai seluar dengan gayanya <CLS> kalau tuan bijak laksana <CLS> biji di luar apa buahnya <CLS> 
+=== GENERATED SEQUENCE 111 ===
+ <SAMPIRAN> sungguh enak masakannya <CLS> apalagi ditemani dengan rendang <CLS> punya pacar cantik kenalannya <CLS> tapi teman dekat dari dulu <CLS> 
+=== GENERATED SEQUENCE 112 ===
+ <SAMPIRAN> jalanjalan naik pesawat <CLS> pakai kursi untuk tidur <CLS> kalau hidup susah <CLS> pasti sengsara jika ke akhirat <CLS> 
+=== GENERATED SEQUENCE 113 ===
+ <SAMPIRAN> anak manis tertawa menyayat <CLS> hendak dikasih hadiah <CLS> jika ingin disayangi guru <CLS> tekunlah dalam mencari ilmu <CLS> 
+=== GENERATED SEQUENCE 114 ===
+ <SAMPIRAN> yang baru nawarin jamu <CLS> di bawa oleh orang pak ketam <CLS> pengennya sih pake baju <CLS> tapi kamunya udah tak laku <CLS> 
+=== GENERATED SEQUENCE 115 ===
+ <SAMPIRAN> yang lagi pake bikini <CLS> sedang nyuci kopi <CLS> sumpah aku langsung halalin kamu <CLS> jikalau ada pengen yang lain <CLS> 
+=== GENERATED SEQUENCE 116 ===
+ <SAMPIRAN> di halaman rumah ada batu <CLS> di dalam karung ada sepuluh <CLS> selamat menikmati hari rabu <CLS> dan selamat hari jumat <CLS> 
+=== GENERATED SEQUENCE 117 ===
+ <SAMPIRAN> pagipagi membeli jamu <CLS> jamu dibelikan ke tengah pasar <CLS> usia muda jangan d a <CLS> nanti tua sesal tak sudah <CLS> 
+=== GENERATED SEQUENCE 118 ===
+ <SAMPIRAN> jika kamu pergi ke dusun <CLS> jangan lupa bawa beras <CLS> belajarlah dengan tekun <CLS> supaya kamu naik kelas <CLS> 
+=== GENERATED SEQUENCE 119 ===
+ <SAMPIRAN> pergi ke laut melihat karang <CLS> karang tempat mencari ikan <CLS> jangan risau jangan gundah <CLS> ingat orang tua ingat orang tua <CLS> 
+=== GENERATED SEQUENCE 120 ===
+ <SAMPIRAN> sekarang hari jumat <CLS> ramadhan ke tiga belas <CLS> senyummu emang manis <CLS> itulah momen yang indah <CLS> 
+=== GENERATED SEQUENCE 121 ===
+ <SAMPIRAN> anak kecil bermain layanglayang <CLS> sambil bersanda gurau berpadu <CLS> adik menangis karena susah <CLS> melihat kucing duduk berbedak <CLS> 
+=== GENERATED SEQUENCE 122 ===
+ <SAMPIRAN> pergi ke pantai membawa sarapan <CLS> makanmakan bersama keluarga <CLS> setiap hari makan gule <CLS> lengkap dengan rinduku <CLS> 
+=== GENERATED SEQUENCE 123 ===
+ <SAMPIRAN> ke pasar baru beli sembako <CLS> pulangnya naik bendi <CLS> begini nasib jadi jomblo <CLS> udah jadi orang munafik <CLS> 
+=== GENERATED SEQUENCE 124 ===
+ <SAMPIRAN> buah nangka buah semangka <CLS> buah semangka berwarna putih <CLS> jangan hanya melihat kamu menangis <CLS> mari jaga kebersihan lingkungan <CLS> 
+=== GENERATED SEQUENCE 125 ===
+ <SAMPIRAN> minum susu di pagi buta <CLS> air tidak akan mati <CLS> pagi hari mencari ilmu <CLS> ilmu didapat dengan rajin belajar <CLS> 
+=== GENERATED SEQUENCE 126 ===
+ <SAMPIRAN> malam hari memakan ketan <CLS> minumnya es kelapa muda <CLS> jangan lupa halalin kamu <CLS> semoga tetap semangat dan berhasil <CLS> 
+=== GENERATED SEQUENCE 127 ===
+ <SAMPIRAN> anak pak budi memimpin tentara <CLS> maju terus tanpa diketahui <CLS> anak sd jadi tentara <CLS> hidup di dunia banyak dugaan <CLS> 
+=== GENERATED SEQUENCE 128 ===
+ <SAMPIRAN> kalau sakit gigi <CLS> sakitnya udah cepat berkayuh <CLS> kalau ingin lulus ujian <CLS> rajin belajar pantang menyerah <CLS> 
+=== GENERATED SEQUENCE 129 ===
+ <SAMPIRAN> ke rumah teman untuk membeli roti <CLS> eh ternyata dapat kuah kari <CLS> sebelum materi aku buka <CLS> kuucapkan salam untuk kalian <CLS> 
+=== GENERATED SEQUENCE 130 ===
+ <SAMPIRAN> saat membeli jamu <CLS> mereka mengucapkan <CLS> aku udah kangen kamu banget <CLS> tapi sayangnya kamu banget <CLS> 
+=== GENERATED SEQUENCE 131 ===
+ <SAMPIRAN> naik delman ditarik kuda <CLS> melewati hutan pohon cemara <CLS> sungguh berat rasanya rindu <CLS> jika masih ingin dekat <CLS> 
+=== GENERATED SEQUENCE 132 ===
+ <SAMPIRAN> hari malam gelapgulita <CLS> pasang lilin jalan ke taman <CLS> hormati yang lebih muda <CLS> agar ia menjadi sayang <CLS> 
+=== GENERATED SEQUENCE 133 ===
+ <SAMPIRAN> jalanjalan ke kota arab <CLS> tidak lupa membeli kitab <CLS> jika kau ingin masuk surga <CLS> taat beribadah apa yang diperintahkan <CLS> 
+=== GENERATED SEQUENCE 134 ===
+ <SAMPIRAN> jangan suka makan mentimun <CLS> mentimun itu banyak getahnya <CLS> jangan suka banyak melamun <CLS> melamun itu tiada gunanya <CLS> 
+=== GENERATED SEQUENCE 135 ===
+ <SAMPIRAN> air jeruk dalam kulkas <CLS> makan roti dengan keju <CLS> belajar dengan tekun <CLS> supaya lulus nilai memuaskan <CLS> 
+=== GENERATED SEQUENCE 136 ===
+ <SAMPIRAN> di kota banyak juga pemudik <CLS> banyak pemudik dari busway <CLS> ga mau ga mau ga mau <CLS> ga mau ga bisa lepas <CLS> 
+=== GENERATED SEQUENCE 137 ===
+ <SAMPIRAN> jalanjalan ke kota surabaya <CLS> singgah sejenak di rumah pak haji <CLS> jika kamu ingin ilmu <CLS> rajinlah membaca <CLS> 
+=== GENERATED SEQUENCE 138 ===
+ <SAMPIRAN> saat memberi contoh <CLS> mereka membawa meja <CLS> pengen ketemu kamu lagi <CLS> aku pengen banget menikah denganmu <CLS> 
+=== GENERATED SEQUENCE 139 ===
+ <SAMPIRAN> di tepi kali saya menyinggah <CLS> menghilang penat menahan jerat <CLS> orang tua jangan disanggah <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 140 ===
+ <SAMPIRAN> naik sepeda menerjang pagar <CLS> sungguh malu jatuh terjengkang <CLS> jika kamu ingin hidup jujur <CLS> janganlah suka bertengkar <CLS> 
+=== GENERATED SEQUENCE 141 ===
+ <SAMPIRAN> pagipagi baca koran <CLS> semoga saja kamu jarang <CLS> jangan lupa baca alquran <CLS> semoga saja harimu terang <CLS> 
+=== GENERATED SEQUENCE 142 ===
+ <SAMPIRAN> lagi musim hujan <CLS> banyak hujan disertai petir <CLS> walau banyak halangan <CLS> cintaku tetap untukmu <CLS> 
+=== GENERATED SEQUENCE 143 ===
+ <SAMPIRAN> anak kecil bermain layanglayang <CLS> sambil bernyanyi memakai sarung <CLS> siapa yang mau masuk surga <CLS> tentu hatinya mendapat derajatnya <CLS> 
+=== GENERATED SEQUENCE 144 ===
+ <SAMPIRAN> jalanjalan ke pekanbaru <CLS> singgah sebentar membeli terasi <CLS> tak usah bersedih hati <CLS> engkaulah penghuni surga hormati <CLS> 
+=== GENERATED SEQUENCE 145 ===
+ <SAMPIRAN> makan nasgor campur acar <CLS> makannya dengan nutella <CLS> rajinrajinlah belajar <CLS> agar kau naik kelas <CLS> 
+=== GENERATED SEQUENCE 146 ===
+ <SAMPIRAN> sebelum mereka naik <CLS> tolong jangankanin temenimu <CLS> sebelum nanti kita bercerai <CLS> jangan bilangbilang pacarmu ya <CLS> 
+=== GENERATED SEQUENCE 147 ===
+ <SAMPIRAN> pergi ke kebun tanam lengkuas <CLS> ambil sedikit buah pir <CLS> selamat hari senin untuk kamu <CLS> semoga berjumpa denganmu selamanya <CLS> 
+=== GENERATED SEQUENCE 148 ===
+ <SAMPIRAN> ada yang bertanya <CLS> padahal ada yang menggangguku <CLS> jgn malumalu kalau aku udah cinta <CLS> tapi maaf aku udah mau kehilangan kamu <CLS> 
+=== GENERATED SEQUENCE 149 ===
+ <SAMPIRAN> sekarang hari minggu <CLS> ramadhan ke duapuluhdua <CLS> kalau kangen kamu gini <CLS> pasti aku kangen mulu <CLS> 
+=== GENERATED SEQUENCE 150 ===
+ <SAMPIRAN> jalanjalan ke kota banjar <CLS> pulangnya membeli ikan <CLS> kalau kamu ingin jadi pandai <CLS> maka harus rajin belajar <CLS> 
+=== GENERATED SEQUENCE 151 ===
+ <SAMPIRAN> pergi ke sawah membawa sapi <CLS> sapi di larang sedang istirahat <CLS> ada anak yang sedang makan <CLS> di larang membaca koran <CLS> 
+=== GENERATED SEQUENCE 152 ===
+ <SAMPIRAN> sungguh manis buah ceri <CLS> dimakan dikala senja <CLS> semarakkan senyumanmu <CLS> hari ini aku bahagia <CLS> 
+=== GENERATED SEQUENCE 153 ===
+ <SAMPIRAN> naik pesawat ke surabaya <CLS> ada yang pulang ke jakarta <CLS> ada apa di balik tembok <CLS> ada suara adik yang udah pacaran <CLS> 
+=== GENERATED SEQUENCE 154 ===
+ <SAMPIRAN> dari jakarta ke semanggi <CLS> jangan lupa beli kacang <CLS> jadilah anak yang patuh <CLS> patuhlah pada perintah guru <CLS> 
+=== GENERATED SEQUENCE 155 ===
+ <SAMPIRAN> jangan lupa membeli durian <CLS> untuk suamiku tercinta <CLS> jangan lupa saling memberi <CLS> saling bantu tolong menolong <CLS> 
+=== GENERATED SEQUENCE 156 ===
+ <SAMPIRAN> malam hari suka mengembala sapi <CLS> sapi di gembala banyak telurnya <CLS> belajar harus dengan tekun <CLS> agar nanti jadi anak pandai <CLS> 
+=== GENERATED SEQUENCE 157 ===
+ <SAMPIRAN> air mawar enak rasanya <CLS> dicampur dengan gula <CLS> wahai kalian yang mulia <CLS> jasamu akan tetap dikenang <CLS> 
+=== GENERATED SEQUENCE 158 ===
+ <SAMPIRAN> anak penjual jamu <CLS> sedang mencari buku <CLS> kalau kamu udah cinta <CLS> pasti akan mengompol pula <CLS> 
+=== GENERATED SEQUENCE 159 ===
+ <SAMPIRAN> buah salak baru dipetik <CLS> buah duku buah delima <CLS> ada banyak wanita cantik <CLS> cuma kamu yang aku cinta <CLS> 
+=== GENERATED SEQUENCE 160 ===
+ <SAMPIRAN> bunga mekar bunga melati <CLS> harum mewangi di pagi hari <CLS> ilmu didapat dengan belajar <CLS> akan bermanfaat sepanjang umur <CLS> 
+=== GENERATED SEQUENCE 161 ===
+ <SAMPIRAN> di tepi kali saya menyinggah <CLS> menghilang penat menahan jerat <CLS> orang tua jangan disanggah <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 162 ===
+ <SAMPIRAN> buah kedondong buah kedondong <CLS> di sana ada seorang penghibur <CLS> ga ada yang punya <CLS> jalanjalan sambil bergoyang <CLS> 
+=== GENERATED SEQUENCE 163 ===
+ <SAMPIRAN> anak ayam turun sembilan <CLS> mati satu tinggal sembilan <CLS> ilmu boleh sedikit ketinggalan <CLS> tapi jangan <SAMPIRAN> ai putus harapan <CLS> 
+=== GENERATED SEQUENCE 164 ===
+ <SAMPIRAN> jalanjalan ke kota medan <CLS> banyak rumah berbarisbaris <CLS> biar mati diujung keris <CLS> asal dapat dinda yang manis <CLS> 
+=== GENERATED SEQUENCE 165 ===
+ <SAMPIRAN> ambil arang dari rawa <CLS> pergi jauh naik kuda <CLS> hormati ibu juga bapak <CLS> agar kelak masuk surga <CLS> 
+=== GENERATED SEQUENCE 166 ===
+ <SAMPIRAN> jangan pegang kayu yang rapuh <CLS> nanti nanti kamu jatuh ke tanah <CLS> cari guru tempat belajar <CLS> supaya jangan sesal kemudian <CLS> 
+=== GENERATED SEQUENCE 167 ===
+ <SAMPIRAN> kalau tuan pergi ke medan <CLS> singgah semalam di dalam kelam <CLS> selamat berpisah wahai sahabat <CLS> semoga selasa menjadi berkah <CLS> 
+=== GENERATED SEQUENCE 168 ===
+ <SAMPIRAN> beli kain warna merah <CLS> dari kediri pakenya batik <CLS> salah satu fungsi utama <CLS> adalah untuk menjalankan kehidupan <CLS> 
+=== GENERATED SEQUENCE 169 ===
+ <SAMPIRAN> malam hari memakan laksa <CLS> laksa kuning banyaklambak <CLS> jangan lelah wahai kawan <CLS> kami jalani dengan sebaikbaiknya <CLS> 
+=== GENERATED SEQUENCE 170 ===
+ <SAMPIRAN> anak gembala bermain layangan <CLS> layangan putus menuju sawah <CLS> orang durhaka kepada ibu <CLS> tuhan jadilah orang yang bertanggung jawab <CLS> 
+=== GENERATED SEQUENCE 171 ===
+ <SAMPIRAN> di dalam semak ada kemumu <CLS> hinggap di atas dahan <CLS> meski ilmu setinggi tegak <CLS> tak sembahyang apa gunanya <CLS> 
+=== GENERATED SEQUENCE 172 ===
+ <SAMPIRAN> pergi tamasya ke negeri jepang <CLS> jangan lupa mampir ke toko cina <CLS> jika emak ingin berkah <CLS> rajinrajinlah belajar <CLS> 
+=== GENERATED SEQUENCE 173 ===
+ <SAMPIRAN> kain batik dijahit jadilah baju <CLS> bukan menjadi nisan jenazah <CLS> sekolah untuk mencari ilmu <CLS> bukan sekadar dapat ijazah <CLS> 
+=== GENERATED SEQUENCE 174 ===
+ <SAMPIRAN> ada ular makan tikus <CLS> tikus minumnya api <CLS> ayo kita kejar <CLS> supaya jangan lupa rajin belajar <CLS> 
+=== GENERATED SEQUENCE 175 ===
+ <SAMPIRAN> hujan gerimis deraslah amat <CLS> ada kilat bertabrakan <CLS> belajar al quran sebaik mungkin <CLS> bagai bunga kembang tak jadi <CLS> 
+=== GENERATED SEQUENCE 176 ===
+ <SAMPIRAN> di bawah pohon duku <CLS> ada yang nyalain lilin <CLS> aku emang masih jomblo <CLS> walau libur kamu nggak usah di ajaknang <CLS> 
+=== GENERATED SEQUENCE 177 ===
+ <SAMPIRAN> sekarang hari senin <CLS> ramadhan ke duapuluhlima <CLS> kamu tuh kriteria aku banget <CLS> namun maaf aku ndak sabar <CLS> 
+=== GENERATED SEQUENCE 178 ===
+ <SAMPIRAN> pergi ke pasar membeli pasak <CLS> tidak lupa membeli papan <CLS> jangan lupa rajin belajar <CLS> kelak nanti jadi pintar <CLS> 
+=== GENERATED SEQUENCE 179 ===
+ <SAMPIRAN> malam hari berburu rusa <CLS> hendaklah pulang membawa jala <CLS> wahai teman janganlah cepat pulang <CLS> mari kita rajin hormati guru <CLS> 
+=== GENERATED SEQUENCE 180 ===
+ <SAMPIRAN> dari mana datangnya lalat <CLS> dari sawah turun ke kali <CLS> dari mana datangnya cinta <CLS> dari mata turun ke hati <CLS> 
+=== GENERATED SEQUENCE 181 ===
+ <SAMPIRAN> burung dara terbang melanglang <CLS> hinggapnya di pucuk dedahanan <CLS> setiap kali ayah pulang <CLS> selalu saja ada makanan <CLS> 
+=== GENERATED SEQUENCE 182 ===
+ <SAMPIRAN> jalanjalan ke kota medan <CLS> ke medan kota bawa guci <CLS> kalau mau bilang cinta <CLS> niscaya jadi pintar <CLS> 
+=== GENERATED SEQUENCE 183 ===
+ <SAMPIRAN> burung gelatik makan gelatik <CLS> gelatik minumnya d ram <CLS> cantik sih kamu cantik <CLS> tapi sayang pantatnya berkepang <CLS> 
+=== GENERATED SEQUENCE 184 ===
+ <SAMPIRAN> air mawar di dalam cangkir <CLS> d mpan kendi di bawah parang <CLS> wahai wanita kenakan kebaya <CLS> saya gemes pengen raba <CLS> 
+=== GENERATED SEQUENCE 185 ===
+ <SAMPIRAN> dari cirebon ke rembang <CLS> dari pulau jawa ke pulau sumatera <CLS> baca buku janganlah jarang <CLS> sebab buku jendela dunia <CLS> 
+=== GENERATED SEQUENCE 186 ===
+ <SAMPIRAN> makan pagi sepiring berdua <CLS> rasanya enak tiada tara <CLS> ilmu itu adalah utamanya <CLS> bekal akhirat dan juga dunia <CLS> 
+=== GENERATED SEQUENCE 187 ===
+ <SAMPIRAN> anak ayam turun sembilan <CLS> mati satu tinggal lah tujuh <CLS> ilmu boleh sedikit ketinggalan <CLS> tapi jangan <SAMPIRAN> ai putus harapan <CLS> 
+=== GENERATED SEQUENCE 188 ===
+ <SAMPIRAN> jalan pagipagi <CLS> pagipagi pulang ke kampung <CLS> selamat hari jumat buat yang manis <CLS> bolehkah kita berbuka bersama <CLS> 
+=== GENERATED SEQUENCE 189 ===
+ <SAMPIRAN> sungguh besar taman seri mahkota <CLS> tempat bermain bidadari lela utama <CLS> sungguh besar jasa kalian <CLS> ayah ibu pasti senang <CLS> 
+=== GENERATED SEQUENCE 190 ===
+ <SAMPIRAN> dari mana datangnya lalat <CLS> kalau tuan ke tengah hutan <CLS> cobalah tebak wahai kawan <CLS> pantun kukarang di malam selasa <CLS> 
+=== GENERATED SEQUENCE 191 ===
+ <SAMPIRAN> sekarang hari rabu <CLS> ramadhan ke tiga puluh <CLS> aku pengen punya kekasih <CLS> tapi kamu malah selingkuh <CLS> 
+=== GENERATED SEQUENCE 192 ===
+ <SAMPIRAN> kalau tuan pergi ke sawah <CLS> jangan lupa pakai palu <CLS> kalau tuan memang bijaksana <CLS> binatang apa tanduknya di hidung <CLS> 
+=== GENERATED SEQUENCE 193 ===
+ <SAMPIRAN> ikan berenang di atas papan <CLS> ikan belut tertangkap lalu dimakan <CLS> agar alam selalu terjaga <CLS> kasih dan sayang kita sepanjang hayat <CLS> 
+=== GENERATED SEQUENCE 194 ===
+ <SAMPIRAN> burung nuri di dalam sangkar <CLS> sangkar dibuat dari bambu <CLS> jangan sering bertengkar <CLS> kalah menang jadi abu <CLS> 
+=== GENERATED SEQUENCE 195 ===
+ <SAMPIRAN> kalau harimau sedang mengaum <CLS> bunyinya sangat berirama <CLS> kalau ada ulangan umum <CLS> marilah kita belajar bersama <CLS> 
+=== GENERATED SEQUENCE 196 ===
+ <SAMPIRAN> pergi ke pasar beli kain <CLS> kena air kainnya basah <CLS> bila tuan bijak bestari <CLS> apa binatang kepala di bawah <CLS> 
+=== GENERATED SEQUENCE 197 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 198 ===
+ <SAMPIRAN> burung dara terbang melanglang <CLS> hinggapnya di pucuk dedahanan <CLS> setiap kali ayah pulang <CLS> selalu saja ada makanan <CLS> 
+=== GENERATED SEQUENCE 199 ===
+ <SAMPIRAN> pergi berkunjung ke rumah nenek <CLS> bersama teman dari surabaya <CLS> selamat hari rabu buat kalian <CLS> semoga tetap selamat sentosa <CLS> 
+=== GENERATED SEQUENCE 200 ===
+ <SAMPIRAN> burung kutilang lihatlah <CLS> hinggap di pohon palem <CLS> karena tak tahu kapan <CLS> ku selalu minta maaf <CLS> 
+=== GENERATED SEQUENCE 201 ===
+ <SAMPIRAN> dari pake kain katun <CLS> banyak yang suka mengkafani <CLS> kalau kamu jadi pria <CLS> harus berani berkorban <CLS> 
+=== GENERATED SEQUENCE 202 ===
+ <SAMPIRAN> anak ayam turun sepuluh <CLS> mati satu tinggal sembilan <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> supaya engkau tidak ketinggalan <CLS> 
+=== GENERATED SEQUENCE 203 ===
+ <SAMPIRAN> beli jamu <CLS> beli batik mpok ria <CLS> tak usah bersedih hati <CLS> aku udah punya kekasih <CLS> 
+=== GENERATED SEQUENCE 204 ===
+ <SAMPIRAN> yang baru pulang dari belgia <CLS> ternyata ada yang nawarin sajadah <CLS> jangan lupa belajar ibadah <CLS> agar kelak jadi anak durhaka <CLS> 
+=== GENERATED SEQUENCE 205 ===
+ <SAMPIRAN> anak ayam turun sembilan <CLS> mati satu tinggal delapan <CLS> ilmu boleh sedikit ketinggalan <CLS> tapi jangan <SAMPIRAN> ai putus harapan <CLS> 
+=== GENERATED SEQUENCE 206 ===
+ <SAMPIRAN> di padang ada rendang <CLS> di ganjar ada rendang <CLS> di dunia hanya sesaat <CLS> gunakan waktu untuk berbuka <CLS> 
+=== GENERATED SEQUENCE 207 ===
+ <SAMPIRAN> hujan turun belum reda <CLS> airnya rembes dari talang <CLS> berpetualang selagi muda <CLS> hatimu bebas bagaikan elang <CLS> 
+=== GENERATED SEQUENCE 208 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 209 ===
+ <SAMPIRAN> buah apel berwarna merah <CLS> ketika digigit renyah sekali <CLS> ada banyak wanita cantik <CLS> cuma kamu yang aku cinta <CLS> 
+=== GENERATED SEQUENCE 210 ===
+ <SAMPIRAN> burung nuri burung dara <CLS> terbang jauh ke rawa <CLS> ayahku memang sangat penyabar <CLS> jadilah aku suka belajar <CLS> 
+=== GENERATED SEQUENCE 211 ===
+ <SAMPIRAN> ada yang puasa d ni <CLS> ada yang ntar pengen jadi jodohmu <CLS> aku pengen cepat menikah <CLS> kamu itu keliatan makin cantik <CLS> 
+=== GENERATED SEQUENCE 212 ===
+ <SAMPIRAN> makan nasi di pinggir kali <CLS> nasi dimakan pakai pecel <CLS> puasa ramadhan di penghujung dunia <CLS> moga nanti lancar di akhirat <CLS> 
+=== GENERATED SEQUENCE 213 ===
+ <SAMPIRAN> saat pulang dari hutan <CLS> bertemu dengan anak pak tani <CLS> apalah artinya cinta <CLS> bila belum mendapatkan apaat <CLS> 
+=== GENERATED SEQUENCE 214 ===
+ <SAMPIRAN> yang baru di tandu <CLS> besok akan ke surabaya <CLS> aku lagi kangen kamu banget <CLS> karena aku ndak bisa ngeliat fotomu <CLS> 
+=== GENERATED SEQUENCE 215 ===
+ <SAMPIRAN> di taman bunga ada melati <CLS> mawar merah mawar merah <CLS> buat apa kamu malu <CLS> lebih baik kita berpacaran <CLS> 
+=== GENERATED SEQUENCE 216 ===
+ <SAMPIRAN> sekarang hari senin <CLS> dua puluh dua maret <CLS> senyummu emang manis <CLS> karenanya aku sering ngelamun <CLS> 
+=== GENERATED SEQUENCE 217 ===
+ <SAMPIRAN> buah pepaya matang berwarna merah <CLS> dimakan di jalan dengan teman <CLS> selamat hari ibu tercinta <CLS> semoga senantiasa dalam lindungannya <CLS> 
+=== GENERATED SEQUENCE 218 ===
+ <SAMPIRAN> ambil air di dalam perigi <CLS> mandi di perigi panjang sejengkal <CLS> tidak perlu bersua dengan malu <CLS> karena menghina teman selagi muda <CLS> 
+=== GENERATED SEQUENCE 219 ===
+ <SAMPIRAN> bunga kenanga diatas kubur <CLS> pucuk sari pandan jawa <CLS> apa guna sombong dan takabur <CLS> rusak hati badan binasa <CLS> 
+=== GENERATED SEQUENCE 220 ===
+ <SAMPIRAN> pagipagi pergi ke sawah <CLS> di sawah bertemu pak haji <CLS> kalau bekerja jangan lelah <CLS> nanti rezekimu akan berkurang <CLS> 
+=== GENERATED SEQUENCE 221 ===
+ <SAMPIRAN> pergi merantau ke kota paris <CLS> bertemu kawan lama <CLS> jangan lupa gosok gigi <CLS> agar tidak terlambat sekolah <CLS> 
+=== GENERATED SEQUENCE 222 ===
+ <SAMPIRAN> buah cempedak diluar pagar <CLS> ambil galah tolong jolokkan <CLS> saya budak baru belajar <CLS> kalau salah tolong tunjukkan <CLS> 
+=== GENERATED SEQUENCE 223 ===
+ <SAMPIRAN> di dalam karung ada sepuluh <CLS> hasil panen tidak ada satu <CLS> semoga dapat bermanfaat <CLS> kita buka puasa kuucapkan wudu <CLS> 
+=== GENERATED SEQUENCE 224 ===
+ <SAMPIRAN> ambil arang dari rawa <CLS> bawa bekal bawa ke kampung <CLS> sebelum kumulai pidato ini <CLS> izinkan saya menyapa hadirin sekalian <CLS> 
+=== GENERATED SEQUENCE 225 ===
+ <SAMPIRAN> burung bangau turun ke rawa <CLS> datang dari selat malaka <CLS> ayahku memang sangat penyabar <CLS> jadilah aku suka belajar <CLS> 
+=== GENERATED SEQUENCE 226 ===
+ <SAMPIRAN> ke medan membeli ulos <CLS> singgah sejenak di kota blitar <CLS> jika kamu ingin pintar <CLS> belajarlah dengan rajin <CLS> 
+=== GENERATED SEQUENCE 227 ===
+ <SAMPIRAN> jika petang suasana sepi <CLS> hanya angin yang menderu <CLS> untukmu guru yang terhormat <CLS> semoga engkau sehat selalu <CLS> 
+=== GENERATED SEQUENCE 228 ===
+ <SAMPIRAN> ada mawar dan melati <CLS> rempahrempah banyak gunanya <CLS> hidup di dunia tidak akan lama <CLS> jika tidak ada guna <CLS> 
+=== GENERATED SEQUENCE 229 ===
+ <SAMPIRAN> kalau tuan muda teruna <CLS> pakai seluar dengan gayanya <CLS> kalau tuan bijak laksana <CLS> biji di luar apa buahnya <CLS> 
+=== GENERATED SEQUENCE 230 ===
+ <SAMPIRAN> jalanjalan ke kota medan <CLS> jangan lupa beli pepaya <CLS> jika kamu ingin pintar <CLS> belajarlah sungguhsungguh <CLS> 
+=== GENERATED SEQUENCE 231 ===
+ <SAMPIRAN> kalau tuan ke kota tua <CLS> jangan lupa ke kota tua <CLS> rajinlah belajar menuntut ilmu <CLS> agar kau jadi anak pintar <CLS> 
+=== GENERATED SEQUENCE 232 ===
+ <SAMPIRAN> jalanjalan ke yogyakarta <CLS> bertemu dengan sahabat lama <CLS> semoga esokmu bahagia <CLS> aku pengen lekas bertemu <CLS> 
+=== GENERATED SEQUENCE 233 ===
+ <SAMPIRAN> sungguh indah kota mekah <CLS> ada dua makam <CLS> mari kita menjaga adat <CLS> agar terpelihara dan rukun <CLS> 
+=== GENERATED SEQUENCE 234 ===
+ <SAMPIRAN> pergi ke hutan untuk bertemu <CLS> bertemu rusa belang kaki <CLS> berguru kepalang ajar <CLS> bagai bunga kembang tak jadi <CLS> 
+=== GENERATED SEQUENCE 235 ===
+ <SAMPIRAN> hari jumat penuh berkah <CLS> bersilaturahmi dengan keluarga <CLS> semakin jauh usia kita <CLS> semakin rindu di dada <CLS> 
+=== GENERATED SEQUENCE 236 ===
+ <SAMPIRAN> buah pepaya dibelah tiga <CLS> dimakan satu tinggal satu <CLS> jangan malas belajar <CLS> agar jadi anak pintar <CLS> 
+=== GENERATED SEQUENCE 237 ===
+ <SAMPIRAN> kain tenun dari sumbawa <CLS> kain batik dari pekalongan <CLS> jika ingin jadi mahasiswa <CLS> sekolah dasar jangan diabaikan <CLS> 
+=== GENERATED SEQUENCE 238 ===
+ <SAMPIRAN> di kebun binatang banyak hewan <CLS> hewannya banyak bulunya <CLS> hormati juga ibu <CLS> agar kelak masuk surga <CLS> 
+=== GENERATED SEQUENCE 239 ===
+ <SAMPIRAN> ada udang ada merica <CLS> pedasnya membuat daging <CLS> aku selalu berdoa dan bersyukur <CLS> setelah mendapat berkahnya <CLS> 
+=== GENERATED SEQUENCE 240 ===
+ <SAMPIRAN> dari ke jakarta naiklah pesawat <CLS> pesawat terbang landingnya susah <CLS> kalau cinta sudah melekat <CLS> siang terbayang malam mimpi basah <CLS> 
+=== GENERATED SEQUENCE 241 ===
+ <SAMPIRAN> jika ada bunga bangkai baunya pekat <CLS> janganlah lupa dibuat suam <CLS> jika ada teman yang bersedih <CLS> jangan harap kita saling bersedih <CLS> 
+=== GENERATED SEQUENCE 242 ===
+ <SAMPIRAN> ada kain dari malaka <CLS> kainnya berulam sutra <CLS> kalau ingin jadi anak yang baik <CLS> jangan lupa terus bekerja <CLS> 
+=== GENERATED SEQUENCE 243 ===
+ <SAMPIRAN> pergi ke kebun tanam pepaya <CLS> di tengah jalan bertemu pak kusir <CLS> hai kekasih hatiku ini <CLS> jangan <SAMPIRAN> ai lupa sembahyang <CLS> 
+=== GENERATED SEQUENCE 244 ===
+ <SAMPIRAN> di jalanan ketemu tukang becak <CLS> sedang menggosok gigi <CLS> aku bukan lelaki romantis <CLS> tapi kesetiaanku setinggi gunung <CLS> 
+=== GENERATED SEQUENCE 245 ===
+ <SAMPIRAN> ke hulu membuat pagar <CLS> jangan terpotong batang durian <CLS> cari guru tempat belajar <CLS> supaya jangan sesal kemudian <CLS> 
+=== GENERATED SEQUENCE 246 ===
+ <SAMPIRAN> jalanjalan ke kota paris <CLS> singgah sejenak di desa mahad <CLS> ilmu dunia jangan dilupa <CLS> guru jasamu takkan terlupakan <CLS> 
+=== GENERATED SEQUENCE 247 ===
+ <SAMPIRAN> sebelum hujan sediakan payung <CLS> setelah hujan datang pelangi <CLS> ingatlah dinda mantanku <CLS> sumpah aku ingat tuhan padanya <CLS> 
+=== GENERATED SEQUENCE 248 ===
+ <SAMPIRAN> air asam rasanya asin <CLS> dicampur dengan gula untuk membuat gula <CLS> jika ingin rejeki berkah <CLS> jangan lupa kerjakan ibadah <CLS> 
+=== GENERATED SEQUENCE 249 ===
+ <SAMPIRAN> lagi makan talas <CLS> di buang di sumur agar tak kotor <CLS> jangan <SAMPIRAN> ai lupa belajar <CLS> agar kelak bisa naik kelas <CLS> 
+=== GENERATED SEQUENCE 250 ===
+ <SAMPIRAN> di india ada himalaya <CLS> banyak kawat dijadikan paku <CLS> jika ingin jadi pandai <CLS> maka rajinlah belajar <CLS> 
+=== GENERATED SEQUENCE 251 ===
+ <SAMPIRAN> burung terbang menari serempet <CLS> serong kekanan dan kekiri <CLS> siapa yang ingin jadi orang pintar <CLS> maka carilah guru yang tulus ikhlas <CLS> 
+=== GENERATED SEQUENCE 252 ===
+ <SAMPIRAN> makan bubur diatas meja <CLS> minumnya jus diatas rak <CLS> rajin belajar pangkal pandai <CLS> senang rasanya jadi orang pandai <CLS> 
+=== GENERATED SEQUENCE 253 ===
+ <SAMPIRAN> kain songket dari sumbawa <CLS> kain batik dari pekalongan <CLS> jika ingin jadi mahasiswa <CLS> sekolah dasar jangan diabaikan <CLS> 
+=== GENERATED SEQUENCE 254 ===
+ <SAMPIRAN> ada bebek ada angsa <CLS> bebek muda angsa tua <CLS> kasih ibu sepanjang masa <CLS> kasih ayah sepanjang hayat <CLS> 
+=== GENERATED SEQUENCE 255 ===
+ <SAMPIRAN> sungguh indah syait setanggi <CLS> menyusun kata bagai hiasan <CLS> ilmu itu mesti tinggi <CLS> jangan dunia sebagai batasan <CLS> 
+=== GENERATED SEQUENCE 256 ===
+ <SAMPIRAN> pergi ke kota naik taksi <CLS> naik motor dengan sepedela <CLS> kalau memang kau punya ilmu <CLS> coba tebak apa yang kau miliki <CLS> 
+=== GENERATED SEQUENCE 257 ===
+ <SAMPIRAN> pulang dari jumatan <CLS> tidak lupa mampir ke mushola <CLS> agar jauh di mata dekat <CLS> jauh kan dekat di hati <CLS> 
+=== GENERATED SEQUENCE 258 ===
+ <SAMPIRAN> yang baru ngambil buku <CLS> langsung dibaikui temanmu <CLS> aku pengen banget menikah denganmu <CLS> tapi menikahnya sama kamu <CLS> 
+=== GENERATED SEQUENCE 259 ===
+ <SAMPIRAN> banyak sayur dijual di pasar <CLS> banyak juga menjual ikan <CLS> kalau kamu sudah lapar <CLS> cepat cepatlah pergi makan <CLS> 
+=== GENERATED SEQUENCE 260 ===
+ <SAMPIRAN> jangan suka makan mentimun <CLS> mentimun itu banyak getah nya <CLS> jangan suka banyak melamun <CLS> melamun itu tiada gunanya <CLS> 
+=== GENERATED SEQUENCE 261 ===
+ <SAMPIRAN> yang pake rok mini <CLS> kabarnya baru pulang dari italia <CLS> kamu itu emang oke banget <CLS> cantik tapi seksi <CLS> 
+=== GENERATED SEQUENCE 262 ===
+ <SAMPIRAN> makan nasi di atas meja <CLS> minumnya jus di balik rak <CLS> hari libur terus bekerja <CLS> dapat bonus ambilnya di irak <CLS> 
+=== GENERATED SEQUENCE 263 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 264 ===
+ <SAMPIRAN> kalau ada jarum yang patah <CLS> jangan simpan dalam peti <CLS> kalau ada kata yang salah <CLS> jangan simpan dalam hati <CLS> 
+=== GENERATED SEQUENCE 265 ===
+ <SAMPIRAN> di pinggir kolam makan bubur <CLS> jangan lupa pakai keripik <CLS> dari semalem aye ga bisa tidur <CLS> selalu teringat wajahmu yang cantik <CLS> 
+=== GENERATED SEQUENCE 266 ===
+ <SAMPIRAN> kain katun dari sumbawa <CLS> kain batik dari pekalongan <CLS> kalau ingin jadi mahasiswa <CLS> sekolah dasar jangan diabaikan <CLS> 
+=== GENERATED SEQUENCE 267 ===
+ <SAMPIRAN> pergi ke pasar naik sepeda <CLS> membeli celana dan baju batik <CLS> kalau kamu jadi jodohku <CLS> katakanlah aku cinta padamu <CLS> 
+=== GENERATED SEQUENCE 268 ===
+ <SAMPIRAN> burung nuri burung dara <CLS> terbang tinggi ke tanah jawa <CLS> melihat dia berwajah tampan <CLS> bolehkah aku bertekuk lutut <CLS> 
+=== GENERATED SEQUENCE 269 ===
+ <SAMPIRAN> yang lagi sakit mata <CLS> semua barang milik kakakmu <CLS> yang lagi sakit mata <CLS> boleh kita ninggalin sholat <CLS> 
+=== GENERATED SEQUENCE 270 ===
+ <SAMPIRAN> jalanjalan naik pesawat <CLS> <SAMPIRAN> ai lupa beli topi <CLS> sayang kamu met bobok <CLS> salam rindu untukmu <CLS> 
+=== GENERATED SEQUENCE 271 ===
+ <SAMPIRAN> jalan jalan ke hutan belantara <CLS> jangan lupa membawa rotan <CLS> selamat datang kami ucapkan <CLS> semoga senantiasa bersemangat <CLS> 
+=== GENERATED SEQUENCE 272 ===
+ <SAMPIRAN> hujan deras di sore hari <CLS> menyiram bunga yang kembang <CLS> hari ini aku senang <CLS> melihat kamu kok goyanggoyang <CLS> 
+=== GENERATED SEQUENCE 273 ===
+ <SAMPIRAN> anak kepala suku <CLS> besok akan ke rumah temanmu <CLS> kalau aku tak mencintai kamu <CLS> aku pengen langsung kamu halalin kamu <CLS> 
+=== GENERATED SEQUENCE 274 ===
+ <SAMPIRAN> pergi memancing saat fajar <CLS> pulang siang membawa ikan <CLS> jika kita tidak lagi sekolah <CLS> fokuslah belajar setiap hari <CLS> 
+=== GENERATED SEQUENCE 275 ===
+ <SAMPIRAN> sekarang hari kamis <CLS> tanggal sepuluh januari <CLS> aku pengen ngeliat kamu bahagia <CLS> aku tuh kangen kamu banget <CLS> 
+=== GENERATED SEQUENCE 276 ===
+ <SAMPIRAN> di tepi kali saya menyinggah <CLS> menghilang penat menahan jerat <CLS> orang tua jangan disanggah <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 277 ===
+ <SAMPIRAN> buah duku buah durian <CLS> lebih enak buah semangka <CLS> bagaimana hati tak sakit <CLS> melihat pacarnya sangat cantik <CLS> 
+=== GENERATED SEQUENCE 278 ===
+ <SAMPIRAN> kalau kamu tidak berkain batik <CLS> tidak pakai baju warna merah <CLS> kalau kamu tidak pakai baju biru <CLS> apa yang tampak tidak punya ilmu <CLS> 
+=== GENERATED SEQUENCE 279 ===
+ <SAMPIRAN> ikan sepat dimasak di daun talas <CLS> agar tidak terkena angin topan <CLS> agar ilmu tidak tersesat <CLS> carilah dengan rajin belajar <CLS> 
+=== GENERATED SEQUENCE 280 ===
+ <SAMPIRAN> ada cacing makan ikan <CLS> udah kenyang renang ke tangki <CLS> tidurmu tak nyenyak sekali <CLS> tidur aku tak punya gigi <CLS> 
+=== GENERATED SEQUENCE 281 ===
+ <SAMPIRAN> bunga mekar dipetik <CLS> jangan lupa membeli duku <CLS> jika ingin hidup sehat <CLS> taat selalu perintah tuhan <CLS> 
+=== GENERATED SEQUENCE 282 ===
+ <SAMPIRAN> makan tahu bumbu petis <CLS> ditambah sambal terasi pedas <CLS> ilmu dunia jangan di rejeki <CLS> niscaya sukses di rantau orang <CLS> 
+=== GENERATED SEQUENCE 283 ===
+ <SAMPIRAN> anak kecil bermain layanglayang <CLS> bermain sambil bersanda gurau <CLS> adik menangis sambil tertawa <CLS> melihat kuda asyik bernyanyi <CLS> 
+=== GENERATED SEQUENCE 284 ===
+ <SAMPIRAN> ikan melompatlompat di tengah sawah <CLS> sawah subur selalu basah <CLS> kalau ada teman bersedih <CLS> pergi bersama aku <SAMPIRAN> ai ke masjid atau ke rumah <CLS> 
+=== GENERATED SEQUENCE 285 ===
+ <SAMPIRAN> yang lagi goyang itik <CLS> langsung main di kolam renang <CLS> kamu itu emang cantik <CLS> tapi sayang aku lebih tau apa <CLS> 
+=== GENERATED SEQUENCE 286 ===
+ <SAMPIRAN> ke pulau seberang membawa barang <CLS> sore hari berangkat sekolah <CLS> begini nasib jadi jomblo <CLS> meski uang masih tersimpan di badan <CLS> 
+=== GENERATED SEQUENCE 287 ===
+ <SAMPIRAN> jangan pakai baju warna merah <CLS> karena merah adalah tanda kota <CLS> jangan suka menyebut budi <CLS> karena budi adalah sumber kehidupan <CLS> 
+=== GENERATED SEQUENCE 288 ===
+ <SAMPIRAN> jalanjalan ke kota medan <CLS> jangan lupa membeli kemiri <CLS> walaupun jauh dari quran <CLS> dunia tempat quran <CLS> 
+=== GENERATED SEQUENCE 289 ===
+ <SAMPIRAN> makan mie dengan garpu <CLS> nikmatnya tambah nikmatnya <CLS> rajinrajinlah belajar <CLS> agar kamu menjadi pintar <CLS> 
+=== GENERATED SEQUENCE 290 ===
+ <SAMPIRAN> anak ayam turun sembilan <CLS> mati satu tinggal sembilan <CLS> hidup harus penuh harapan <CLS> jadikan itu jalan yang dituju <CLS> 
+=== GENERATED SEQUENCE 291 ===
+ <SAMPIRAN> ke masjid pakai baju <CLS> pergi ke sekolah pakai celana <CLS> ayo bangun pagipagi <CLS> agar dapat masuk dlm mimpi <CLS> 
+=== GENERATED SEQUENCE 292 ===
+ <SAMPIRAN> di sana gunung di sini gunung <CLS> ditengahtengahnya danau toba <CLS> ke sana bingung ke situ bingung <CLS> lebih baik sekolah saja <CLS> 
+=== GENERATED SEQUENCE 293 ===
+ <SAMPIRAN> burung bangau turun ke rawa <CLS> mati satu tinggal sembilan <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> supaya engkau tidak ketinggalan <CLS> 
+=== GENERATED SEQUENCE 294 ===
+ <SAMPIRAN> di tepi kali saya menyinggah <CLS> menghilang penat menahan jerat <CLS> orang tua jangan disanggah <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 295 ===
+ <SAMPIRAN> ambil kayu jadikan jembatan <CLS> jembatan tempat jalan menuju kota <CLS> jadilah anak yang pintar <CLS> orang yang disayang tuhan <CLS> 
+=== GENERATED SEQUENCE 296 ===
+ <SAMPIRAN> pergi memancing saat fajar <CLS> pulang siang membawa ikan <CLS> aku tidak mau pulang <CLS> karena ku ingin kebahagiaan <CLS> 
+=== GENERATED SEQUENCE 297 ===
+ <SAMPIRAN> sungguh indah bunga melati <CLS> tumbuh dekat pohon kemangi <CLS> setiap pagi kuucapkan alhamdulillah <CLS> semoga selalu sehat dan riang <CLS> 
+=== GENERATED SEQUENCE 298 ===
+ <SAMPIRAN> pergi ke hutan cari rusa <CLS> hendaklah kau bawa tali <CLS> wahai anak cucu bangsa <CLS> hendaklah kau bangun negeri <CLS> 
+=== GENERATED SEQUENCE 299 ===
+ <SAMPIRAN> malam hari makan martabak <CLS> minumnya air tumpah ke gelas <CLS> jika kamu mau hidup susah <CLS> jangan lupa kerjakan ibadah <CLS> 
+=== GENERATED SEQUENCE 300 ===
+ <SAMPIRAN> minum jamu sambil berdiri <CLS> sambil mendengar kicauan burung molor <CLS> kalau jauh terasa rindu <CLS> jika berjumpa terasa sebentar <CLS> 
+=== GENERATED SEQUENCE 301 ===
+ <SAMPIRAN> di bawah pohon duku <CLS> ada seekor orangutan <CLS> sejak kita menjalin cinta <CLS> bahagia bukan hanya karena kamu <CLS> 
+=== GENERATED SEQUENCE 302 ===
+ <SAMPIRAN> hari minggu pergi ke museum <CLS> ke museum lewati hutan pohon cemara <CLS> sekolah yang di surabaya <CLS> itulah tempatnya menyenangkan <CLS> 
+=== GENERATED SEQUENCE 303 ===
+ <SAMPIRAN> buah manggis buah mangga <CLS> dijual di pasar bersama mama <CLS> jangan risau jangan gundah <CLS> karena hidupmu tak akan selamanya <CLS> 
+=== GENERATED SEQUENCE 304 ===
+ <SAMPIRAN> pergi ke pasar membeli pepaya <CLS> pepaya di pasar enak rasanya <CLS> rajinrajinlah menuntut ilmu <CLS> agar kelak mendapat rangkulan pun <CLS> 
+=== GENERATED SEQUENCE 305 ===
+ <SAMPIRAN> kain tenun dari sumbawa <CLS> kain batik dari pekalongan <CLS> jika ingin jadi mahasiswa <CLS> sekolah dasar jangan diabaikan <CLS> 
+=== GENERATED SEQUENCE 306 ===
+ <SAMPIRAN> anak bayi belum bergigi <CLS> tapi bisa makan ketupat <CLS> konsumsilah makanan bergizi <CLS> agar tubuh menjadi sehat <CLS> 
+=== GENERATED SEQUENCE 307 ===
+ <SAMPIRAN> ke pasar lama menanti <CLS> tunggu ibu beli terasi <CLS> jadilah anak yang baik hati <CLS> agar nanti bisa berprestasi <CLS> 
+=== GENERATED SEQUENCE 308 ===
+ <SAMPIRAN> di bawah pohon jati <CLS> ada yang nyalain lilin <CLS> iya kamu emang baik <CLS> tapi maaf aku ndak takut <CLS> 
+=== GENERATED SEQUENCE 309 ===
+ <SAMPIRAN> makan roti makan roti bakar <CLS> makan roti minumnya susu <CLS> janganlah adik merasa bimbang <CLS> semua kawan jangan bersua <CLS> 
+=== GENERATED SEQUENCE 310 ===
+ <SAMPIRAN> di pantai ada pohon pepaya <CLS> kelapa muda tolong dibelikan <CLS> happy thursday buatmu sayang <CLS> semoga senantiasa selalu sehat <CLS> 
+=== GENERATED SEQUENCE 311 ===
+ <SAMPIRAN> makan roti minumnya susu <CLS> susunya dicampur madu <CLS> belajarlah kamu selagi muda <CLS> agar cerah masa depan <CLS> 
+=== GENERATED SEQUENCE 312 ===
+ <SAMPIRAN> sungguh enak makan acar <CLS> apalagi ditambah dengan acar <CLS> banyak teman banyak rezeki <CLS> supaya hidup semakin nikmat <CLS> 
+=== GENERATED SEQUENCE 313 ===
+ <SAMPIRAN> pergi tamasya ke pekanbaru <CLS> singgah sejenak di pulau bukum <CLS> niatya adalah keinginanmu <CLS> akan ku raih nantinya <CLS> 
+=== GENERATED SEQUENCE 314 ===
+ <SAMPIRAN> sekarang hari selasa <CLS> ramadhan ke dua puluh tujuh <CLS> kalau pengen ketemu kamu <CLS> jujur saja aku jadi orangnya <CLS> 
+=== GENERATED SEQUENCE 315 ===
+ <SAMPIRAN> ada kain ada suji <CLS> suji dipakai buat makan <CLS> belajar sewaktu kecil <CLS> bagai menulis di atas batu <CLS> 
+=== GENERATED SEQUENCE 316 ===
+ <SAMPIRAN> makan bakso ditambah bakso <CLS> sambil makan bakwan dan bakwan <CLS> kamu emang cantik <CLS> tapi maaf aku udah punya pacar <CLS> 
+=== GENERATED SEQUENCE 317 ===
+ <SAMPIRAN> sekarang sabtu juni <CLS> bertepatan hari raya nyepi <CLS> cintaku ini jaminan mutu <CLS> kamu harus rajin dan rajin dalam usaha <CLS> 
+=== GENERATED SEQUENCE 318 ===
+ <SAMPIRAN> jalan jalan ke kota surabaya <CLS> jangan lupa mampir di traktiran <CLS> jika kamu ingin jadi pintar <CLS> belajarlah dengan giat <CLS> 
+=== GENERATED SEQUENCE 319 ===
+ <SAMPIRAN> kalau ranting sudah bertangkai <CLS> janganlah dililitlilit juga <CLS> kalau berunding sudah selesai <CLS> jangan diungkitungkit juga <CLS> 
+=== GENERATED SEQUENCE 320 ===
+ <SAMPIRAN> pergi ke hajatan biar dapat jenang <CLS> nikmati ibuk kojeki <CLS> jangan menyerah mencari ilmu <CLS> sebab ilmu bermanfaat <CLS> 
+=== GENERATED SEQUENCE 321 ===
+ <SAMPIRAN> dari mana datangnya lalat <CLS> dari sawah turun ke kali <CLS> cobalah kamu mengerti <CLS> tapi nanti belum mengerti <CLS> 
+=== GENERATED SEQUENCE 322 ===
+ <SAMPIRAN> hari minggu sudahlah siang <CLS> setelah siang menuju petang <CLS> ditunggu tunggu gak juga datang <CLS> sekali datang kok nagih utang <CLS> 
+=== GENERATED SEQUENCE 323 ===
+ <SAMPIRAN> orang tua patut disegani <CLS> boleh mendapat ajar nasehat <CLS> ular yang bisa tidak begini <CLS> bisa lagi lidah yang jahat <CLS> 
+=== GENERATED SEQUENCE 324 ===
+ <SAMPIRAN> ada yang pingsan <CLS> saat dia memarahi ayahmu <CLS> selain baik dan cantik <CLS> kamu itu juga patuh dan baik <CLS> 
+=== GENERATED SEQUENCE 325 ===
+ <SAMPIRAN> kalau ada sumur di ladang <CLS> boleh kita menggosok gigi <CLS> kalau anda di warung padang <CLS> boleh kita ditraktir lagi <CLS> 
+=== GENERATED SEQUENCE 326 ===
+ <SAMPIRAN> jika hendak pergi mengaji <CLS> jangan lupa baca niat tarawih <CLS> jika siswa rajin belajar <CLS> sudah tentu pasti pasti lulus <CLS> 
+=== GENERATED SEQUENCE 327 ===
+ <SAMPIRAN> beli kain warnanya merah <CLS> dari kediri pakainya batik <CLS> siapa yang rajin belajar <CLS> maka hidupnya akan bahagia <CLS> 
+=== GENERATED SEQUENCE 328 ===
+ <SAMPIRAN> kalau tuan pergi ke rimba <CLS> ambil duku dan juga beras <CLS> saya budak baru belajar <CLS> kalau salah tolong tunjukkan <CLS> 
+=== GENERATED SEQUENCE 329 ===
+ <SAMPIRAN> buah duku dari palembang <CLS> pulau bali terkenal mangganya <CLS> baca buku janganlah jarang <CLS> sebab buku jendela dunia <CLS> 
+=== GENERATED SEQUENCE 330 ===
+ <SAMPIRAN> jalanjalan naik pesawat <CLS> ada gedung parkirnya gratis <CLS> cinta bukan kepalang <CLS> tapi kau buatku nyaman <CLS> 
+=== GENERATED SEQUENCE 331 ===
+ <SAMPIRAN> makan soto dengan garpu <CLS> soto babat dengan saos <CLS> puasa ramadhan kita jalankan <CLS> bersyukurlah kepada allah <CLS> 
+=== GENERATED SEQUENCE 332 ===
+ <SAMPIRAN> anak kepala suku <CLS> tadi siang membeli buku <CLS> sayang kamu met tidur <CLS> aku tak ingin ku ajak aku ke orang tua <CLS> 
+=== GENERATED SEQUENCE 333 ===
+ <SAMPIRAN> jalanjalan ke pinggir empang <CLS> nemu sendok di pinggir empang <CLS> hati siapa tak bimbang <CLS> saya botak minta dikepang <CLS> 
+=== GENERATED SEQUENCE 334 ===
+ <SAMPIRAN> kalau harimau sedang mengaum <CLS> bunyinya sangat berirama <CLS> kalau ada ulangan umum <CLS> marilah kita belajar bersama <CLS> 
+=== GENERATED SEQUENCE 335 ===
+ <SAMPIRAN> pergi ke hutan berburu rusa <CLS> rusa diburu karena lelah <CLS> wahai anakanak bangsa <CLS> cepat bangun lekas mandi <CLS> 
+=== GENERATED SEQUENCE 336 ===
+ <SAMPIRAN> beli balon warna merah <CLS> untuk para tamu <CLS> selamat ulang tahun untukmu <CLS> semoga selalu sehat dan sukses <CLS> 
+=== GENERATED SEQUENCE 337 ===
+ <SAMPIRAN> hari minggu pergi ke museum <CLS> ke museum lewati hutan pohon cemara <CLS> hari ini kita bertemu <CLS> jangan lupa untuk bertemu <CLS> 
+=== GENERATED SEQUENCE 338 ===
+ <SAMPIRAN> pulang sekolah naik sepeda <CLS> <SAMPIRAN> ai di rumah baca buku <CLS> sayang met pagi <CLS> salam rindu banget dariku <CLS> 
+=== GENERATED SEQUENCE 339 ===
+ <SAMPIRAN> yang ini hp kentang <CLS> yang itu hp tomat <CLS> aku tak pernah merasa jenuh <CLS> yang penting cium mesumalu <CLS> 
+=== GENERATED SEQUENCE 340 ===
+ <SAMPIRAN> jalanjalan ke kota paris <CLS> tidak lupa membeli durian <CLS> jika ingin juara kelas <CLS> kerjakan rutinitas dan rutinitas <CLS> 
+=== GENERATED SEQUENCE 341 ===
+ <SAMPIRAN> buah salak baru dipetik <CLS> buah duku buah delima <CLS> ada banyak wanita cantik <CLS> cuma kamu yang aku cinta <CLS> 
+=== GENERATED SEQUENCE 342 ===
+ <SAMPIRAN> jalan jalan ke jogja beli batik <CLS> pulangnya bawa sepeda baru <CLS> gepul dari ayah dan ibu <CLS> malam minggu selalu ada yang baru <CLS> 
+=== GENERATED SEQUENCE 343 ===
+ <SAMPIRAN> jalan jalan ke kota <CLS> jangan lupa naik bendi <CLS> di atas semua itu tak ada yang kenal <CLS> kalau di sini ada yang bilang suka <CLS> 
+=== GENERATED SEQUENCE 344 ===
+ <SAMPIRAN> sekarang hari kamis <CLS> tanggal tiga juli <CLS> senyummu emang manis <CLS> aku pengen banget ketemu kamu <CLS> 
+=== GENERATED SEQUENCE 345 ===
+ <SAMPIRAN> pohon ara dibuat gubuk <CLS> pasang pasak biar tegak <CLS> resiko asmara dunia facebook <CLS> cinta ditolak blokir bertindak <CLS> 
+=== GENERATED SEQUENCE 346 ===
+ <SAMPIRAN> lagi musim politik <CLS> fitnah tumbuh subur <CLS> jangan pernah luntur oleh dosa <CLS> ingat ibadah yang jauh di sana <CLS> 
+=== GENERATED SEQUENCE 347 ===
+ <SAMPIRAN> ada yang nawarin jamu <CLS> ada yang ndak mau puasa <CLS> sayang kamu met tidur <CLS> moga rindu ini bisa mempertemukan kita dalam mimpi <CLS> 
+=== GENERATED SEQUENCE 348 ===
+ <SAMPIRAN> ada anak kecil bermain batu <CLS> batu dilempar masuk ke sumur <CLS> anak kecil suka belajar <CLS> supaya menjadi anak yang cerdas <CLS> 
+=== GENERATED SEQUENCE 349 ===
+ <SAMPIRAN> pergi ke sungai mencari ikan <CLS> ada anak yang rambutnya lurus <CLS> happy birthday kuucapkan <CLS> semoga citacita terus tercapai <CLS> 
+=== GENERATED SEQUENCE 350 ===
+ <SAMPIRAN> yang lagi sakit mata <CLS> di larang minum susu <CLS> cintaku hanya untukmu <CLS> yang mampu menghidupi dan nyengkasih <CLS> 
+=== GENERATED SEQUENCE 351 ===
+ <SAMPIRAN> jalanjalan ke bukittinggi <CLS> jangan lupa naik bendi <CLS> cintaku padamu takkan hilang <CLS> meskipun sekarang sudah siang <CLS> 
+=== GENERATED SEQUENCE 352 ===
+ <SAMPIRAN> di dalam semak ada kemumu <CLS> di dalam bunga ada kemumu <CLS> dalam kitab ada terlarang <CLS> agar selalu diingat <CLS> 
+=== GENERATED SEQUENCE 353 ===
+ <SAMPIRAN> makan bubur di atas meja <CLS> minumnya jus di atas rak <CLS> daripada tidurtiduran di pagi hari <CLS> mending kamu sendirian <CLS> 
+=== GENERATED SEQUENCE 354 ===
+ <SAMPIRAN> saat membeli bubur <CLS> mereka menghentikan langkahmu <CLS> maaf aku udah move on <CLS> kalau pengen bahagia denganmu <CLS> 
+=== GENERATED SEQUENCE 355 ===
+ <SAMPIRAN> ada seekor ulat bulu <CLS> di antara kaki meja <CLS> sungguh aku benarbenar cinta <CLS> cuma dari rahim ibu <CLS> 
+=== GENERATED SEQUENCE 356 ===
+ <SAMPIRAN> ke pasar membeli kerang <CLS> ke pasar membeli daging <CLS> kuucapkan selamat pagi untuk dirimu <CLS> semoga senantiasa bersemangat bekerja <CLS> 
+=== GENERATED SEQUENCE 357 ===
+ <SAMPIRAN> anak gembala membawa karung <CLS> untuk membuat bangku <CLS> hari minggu tak lagi terasa <CLS> semua orang punya kabar <CLS> 
+=== GENERATED SEQUENCE 358 ===
+ <SAMPIRAN> di sawah ada seekor sapi <CLS> sedang sibuk membajak sawah <CLS> jika kamu rajin belajar <CLS> akan belajar sepanjang masa <CLS> 
+=== GENERATED SEQUENCE 359 ===
+ <SAMPIRAN> buah duku buah rambutan <CLS> cuci piring bawah jembatan <CLS> jangan sering kamu melamun <CLS> nanti kamu tau jodohku <CLS> 
+=== GENERATED SEQUENCE 360 ===
+ <SAMPIRAN> ada yang pacaran <CLS> ayahnya teman mantan <CLS> aku pengen punya anak <CLS> tapi pacarnya bukan kamu doang <CLS> 
+=== GENERATED SEQUENCE 361 ===
+ <SAMPIRAN> jika ingin mendulang cadas <CLS> jangan lupa palu baja <CLS> jika murid tumbuh cerdas <CLS> guru pun ikut bahagia <CLS> 
+=== GENERATED SEQUENCE 362 ===
+ <SAMPIRAN> sekarang sabtu desember <CLS> ramadhan ke dua puluh sembilan <CLS> kamu jangan sok ganteng <CLS> biar hidupku lebih bermakna <CLS> 
+=== GENERATED SEQUENCE 363 ===
+ <SAMPIRAN> pohon jati kuat kayunya <CLS> pohon nyiur tinggi batangnya <CLS> murid rajin banyak ilmunya <CLS> murid malas banyak bohongnya <CLS> 
+=== GENERATED SEQUENCE 364 ===
+ <SAMPIRAN> pohon sagu jatoh ditebang <CLS> pohon duku dibikin sarang <CLS> biar mati diujung keris <CLS> asal dapat dinda yang manis <CLS> 
+=== GENERATED SEQUENCE 365 ===
+ <SAMPIRAN> lagi musim politik <CLS> suara rakyat lagi laku <CLS> jangan kau khianati orang <CLS> aku ini tipikal kekasih yang setia <CLS> 
+=== GENERATED SEQUENCE 366 ===
+ <SAMPIRAN> hari minggu pergi ke pasar <CLS> tidak lupa membeli sayuran <CLS> jika kamu ingin jadi pintar <CLS> maka harus rajin belajar <CLS> 
+=== GENERATED SEQUENCE 367 ===
+ <SAMPIRAN> ambil kayu jadikan meja <CLS> untuk dibawa ke negeri jepang <CLS> selamat jalani tahun baru <CLS> semoga senantiasa dalam lindungannya <CLS> 
+=== GENERATED SEQUENCE 368 ===
+ <SAMPIRAN> jalanjalan ke pinggir empang <CLS> nemu katak di pinggir empang <CLS> hati siapa tak bimbang <CLS> kamu botak minta dikepang <CLS> 
+=== GENERATED SEQUENCE 369 ===
+ <SAMPIRAN> bunga mawar berwarna merah <CLS> sungguh indah dan menawan <CLS> rajinrajin bersedekah <CLS> rezeki akan berkah melimpah <CLS> 
+=== GENERATED SEQUENCE 370 ===
+ <SAMPIRAN> jika kamu pergi ke dusun <CLS> jangan lupa bawa beras <CLS> belajarlah dengan tekun <CLS> agar kamu naik kelas <CLS> 
+=== GENERATED SEQUENCE 371 ===
+ <SAMPIRAN> buah berangan dari jawa <CLS> kain terjemur di <SAMPIRAN> aian <CLS> jangan diri dapat kecewa <CLS> lihat contoh kiri dan kanan <CLS> 
+=== GENERATED SEQUENCE 372 ===
+ <SAMPIRAN> hari minggu pergi jalanjalan <CLS> ke kota kepasar beli gelang <CLS> abang hormati ibu <CLS> sayangi mereka yang jauh di sana <CLS> 
+=== GENERATED SEQUENCE 373 ===
+ <SAMPIRAN> ada ulat bulu <CLS> ada ulat di kaca <CLS> mari kita tanam pohon <CLS> agar lingkungan tidak gersang <CLS> 
+=== GENERATED SEQUENCE 374 ===
+ <SAMPIRAN> pohon jati tumbuh berjajar <CLS> tumbuh di lereng gunung <CLS> jadilah anak yang sopan <CLS> sopan santun pasti dicari <CLS> 
+=== GENERATED SEQUENCE 375 ===
+ <SAMPIRAN> kalau kamu pergi ke dusun <CLS> jangan lupa bawa beras <CLS> belajarlah dengan tekun <CLS> supaya kamu naik kelas <CLS> 
+=== GENERATED SEQUENCE 376 ===
+ <SAMPIRAN> anak penjual jamu <CLS> sedang mencari bukunya <CLS> ku kira kamu cantik <CLS> tapi sayang masih suka main <CLS> 
+=== GENERATED SEQUENCE 377 ===
+ <SAMPIRAN> makan sambal di tepi jalan <CLS> sambil lihat kuda lari kencang <CLS> anakku yang kubanggakan <CLS> jangan pernah lupa sembahyang <CLS> 
+=== GENERATED SEQUENCE 378 ===
+ <SAMPIRAN> sebelum mereka lari <CLS> jangan lupa beli donat <CLS> lebih baik aku sendiri <CLS> daripada bersama pacar barunya <CLS> 
+=== GENERATED SEQUENCE 379 ===
+ <SAMPIRAN> ikan sepat jangan di bumbu <CLS> banyak ikan sepat yang sudah tua <CLS> kalau nenek sudah tua <CLS> jangan di ajak balik <CLS> 
+=== GENERATED SEQUENCE 380 ===
+ <SAMPIRAN> ada yang pingsan <CLS> ada yang sedang bertanyatanya <CLS> aku ini tipikal wanita <CLS> aku selalu setia walau tanpa makeup <CLS> 
+=== GENERATED SEQUENCE 381 ===
+ <SAMPIRAN> pohon tinggi pohon beringin <CLS> pohon tinggi jadi dua <CLS> rajin belajar pangkal pandai <CLS> malas malas malas bodoh pangkal pandai <CLS> 
+=== GENERATED SEQUENCE 382 ===
+ <SAMPIRAN> air mendidih rasanya segar <CLS> minum segelas jamu rasanya segar <CLS> aku sangat senang <CLS> ketemu kamu dalam mimpi <CLS> 
+=== GENERATED SEQUENCE 383 ===
+ <SAMPIRAN> jalan lurus ke madinah <CLS> singgah sebentar di pekanbaru <CLS> aku dan kamu hidup bersama <CLS> bahagia selamanya karena berjutajuta jiwa <CLS> 
+=== GENERATED SEQUENCE 384 ===
+ <SAMPIRAN> orang bule pergi mengaji <CLS> pulang ke kampung halaman <CLS> jadi orang haruslah amanah <CLS> harus bekerja dengan semangat <CLS> 
+=== GENERATED SEQUENCE 385 ===
+ <SAMPIRAN> pergi ke medan membeli ulos <CLS> jangan lupa membeli gulai <CLS> anak pandai banyak akal <CLS> banyak akal hasil alam <CLS> 
+=== GENERATED SEQUENCE 386 ===
+ <SAMPIRAN> sungguh bahaya ular berbisa <CLS> jika tergigit akan koma <CLS> sungguh bahagia memanglah biasa <CLS> bila kita selalu bersama <CLS> 
+=== GENERATED SEQUENCE 387 ===
+ <SAMPIRAN> di pantai banyak ikan hiu <CLS> agar sehat tulang dan juga tulang <CLS> jadilah kamu anak yang pandai <CLS> sudah pasti banyak temannya <CLS> 
+=== GENERATED SEQUENCE 388 ===
+ <SAMPIRAN> kalaulah tuan muda teruna <CLS> pakai seluar dengan gayanya <CLS> bilalah tuan bijak laksana <CLS> biji diluar apa buahnya <CLS> 
+=== GENERATED SEQUENCE 389 ===
+ <SAMPIRAN> jalanjalan ke pantai kuta <CLS> singgah sebentar membeli kuaci <CLS> sebentar lagi ayah pulang <CLS> sekali lagi ayah pulang <CLS> 
+=== GENERATED SEQUENCE 390 ===
+ <SAMPIRAN> dari hulu <SAMPIRAN> ai ke hulu <CLS> sungai bersih dan indah <CLS> dari dulu hingga nanti <CLS> ku selalu dalam ingatan <CLS> 
+=== GENERATED SEQUENCE 391 ===
+ <SAMPIRAN> pergi ke pantai untuk berenang <CLS> ikan kerapu pakai topi <CLS> jika makan tidak berbunyi <CLS> karena tidak berbunyi <CLS> 
+=== GENERATED SEQUENCE 392 ===
+ <SAMPIRAN> makan roti pake roti <CLS> roti lembut tak ada nya <CLS> kalau cinta tak kau balas <CLS> tanda iman di dada <CLS> 
+=== GENERATED SEQUENCE 393 ===
+ <SAMPIRAN> sungguh bahaya ular berbisa <CLS> jika tergigit akan koma <CLS> sungguh bahagia kurasa <CLS> jika kita selalu bersama <CLS> 
+=== GENERATED SEQUENCE 394 ===
+ <SAMPIRAN> naik kereta turun di pekanbaru <CLS> pergi ke toko membeli pernakpernik <CLS> jangan lupa untuk sedekah <CLS> biar kita bisa sehat dan rezeki barokah <CLS> 
+=== GENERATED SEQUENCE 395 ===
+ <SAMPIRAN> sekarang hari minggu <CLS> tanggal delapan maret <CLS> aku tak bisa lagi <CLS> karena pengen punya cintamu <CLS> 
+=== GENERATED SEQUENCE 396 ===
+ <SAMPIRAN> pagi hari mencari nafkah <CLS> pergi ke pasar membeli ikan <CLS> hiduplah dengan bijaksana <CLS> emosi didapat dengan belajar <CLS> 
+=== GENERATED SEQUENCE 397 ===
+ <SAMPIRAN> yang itu hp kentang <CLS> tolong pindah ke alamatmu <CLS> apapun yang aku lakukan <CLS> aku akan selalu mencintaimu <CLS> 
+=== GENERATED SEQUENCE 398 ===
+ <SAMPIRAN> sekarang hari selasa <CLS> dua puluh tujuh ramadhan <CLS> tak ada yang mustahil <CLS> jika kita selalu bersama <CLS> 
+=== GENERATED SEQUENCE 399 ===
+ <SAMPIRAN> jika tuan pergi ke pasar <CLS> belilah ikan dalam kolam <CLS> kalau tuan bijak pintar <CLS> binatang apa tanduk di hidung <CLS> 
+=== GENERATED SEQUENCE 400 ===
+ <SAMPIRAN> anak penjual jamu <CLS> lagi asyik baca majalah <CLS> aku suka kamu apa adanya <CLS> karena itu aku tipikal kekasih yang setia <CLS> 
+=== GENERATED SEQUENCE 401 ===
+ <SAMPIRAN> kain katun dari sumbawa <CLS> kain batik dari pekalongan <CLS> kalau ingin jadi mahasiswa <CLS> sekolah dasar jangan diabaikan <CLS> 
+=== GENERATED SEQUENCE 402 ===
+ <SAMPIRAN> jalanjalan ke balikpapan <CLS> jangan lupa membeli tas <CLS> jika ingin ilmu manfaat <CLS> cari guru yang tulus ikhlas <CLS> 
+=== GENERATED SEQUENCE 403 ===
+ <SAMPIRAN> saat mereka naik <CLS> mereka tak sengajabrak pintu <CLS> untuk apa aku galau <CLS> jika itu hanya bisa membuatmu kecewa <CLS> 
+=== GENERATED SEQUENCE 404 ===
+ <SAMPIRAN> jalanjalan ke pariaman <CLS> ada kerbau ada sapi <CLS> selamat hari senin untuk kamu <CLS> selamat hari kamis buat semua <CLS> 
+=== GENERATED SEQUENCE 405 ===
+ <SAMPIRAN> ada wabah virus corona <CLS> patuhilah peraturan pemerintah <CLS> walaupun kita jauh di sana <CLS> hubungan kita akan abadi <CLS> 
+=== GENERATED SEQUENCE 406 ===
+ <SAMPIRAN> anak ayam turun sembilan <CLS> mati satu tinggal delapan <CLS> ilmu boleh sedikit ketinggalan <CLS> tapi jangan <SAMPIRAN> ai putus harapan <CLS> 
+=== GENERATED SEQUENCE 407 ===
+ <SAMPIRAN> di sana gunung di sini gunung <CLS> ditengahtengahnya danau toba <CLS> ke sana bingung ke situ bingung <CLS> lebih baik sekolah saja <CLS> 
+=== GENERATED SEQUENCE 408 ===
+ <SAMPIRAN> pagi hari makan nasi <CLS> minumnya es kelapa muda <CLS> meski rindu kadang menyiksa <CLS> tetap sahabat baik <CLS> 
+=== GENERATED SEQUENCE 409 ===
+ <SAMPIRAN> jika kamu pergi ke dusun <CLS> jangan lupa bawa beras <CLS> belajarlah dengan tekun <CLS> supaya kamu naik kelas <CLS> 
+=== GENERATED SEQUENCE 410 ===
+ <SAMPIRAN> jalanjalan ke pasar baru <CLS> pulangnya membeli buku <CLS> alangkah bahagianya aku <CLS> jika aku udah cinta ke orang tua <CLS> 
+=== GENERATED SEQUENCE 411 ===
+ <SAMPIRAN> yang duduk di ruang tamu <CLS> lagi ngeliat doraemon <CLS> gamau lagi ntar mau pacaran <CLS> kapanpunpun kau siap jadi menantunya <CLS> 
+=== GENERATED SEQUENCE 412 ===
+ <SAMPIRAN> lagi ngeliat berita <CLS> demo april rusuh <CLS> tak mengapa kamu mencintaiku <CLS> karena bagiku itu adalah cintaku <CLS> 
+=== GENERATED SEQUENCE 413 ===
+ <SAMPIRAN> beli kentang dibuat rujak <CLS> biar mantap ditambah sambal <CLS> tidur terlentang tiada nyenyak <CLS> tidur tengkurap ada yang mengganjal <CLS> 
+=== GENERATED SEQUENCE 414 ===
+ <SAMPIRAN> yang ntar mau puasa <CLS> puasa rajab di larang <CLS> kalau kamu memilih aku <CLS> pilihlah aku cinta kamu <CLS> 
+=== GENERATED SEQUENCE 415 ===
+ <SAMPIRAN> pergi ke hutan untuk bertemu <CLS> bertemu rusa jantan <CLS> ayo kita lekas ketemu <CLS> ayo kita jemput handai taulan <CLS> 
+=== GENERATED SEQUENCE 416 ===
+ <SAMPIRAN> saat mengambil bahan baku <CLS> ada yang ngasih saran <CLS> apapun yang terjadi <CLS> aku siap jadi menantu <CLS> 
+=== GENERATED SEQUENCE 417 ===
+ <SAMPIRAN> hari libur pergi bekerja <CLS> dapat bonus sebungkus bakpia <CLS> kalau kamu memilih dia <CLS> pilihlah yang baik dan setia <CLS> 
+=== GENERATED SEQUENCE 418 ===
+ <SAMPIRAN> buah manggis buah markisa <CLS> buah nanas buah semangka <CLS> tidak tahukah kau selingkuh <CLS> kan kukira ada salahnya <CLS> 
+=== GENERATED SEQUENCE 419 ===
+ <SAMPIRAN> pergi ke sawah menanam padi <CLS> sawah dibajak dengan sapi <CLS> masa muda harus berjuang <CLS> agar bahagia di masa tua <CLS> 
+=== GENERATED SEQUENCE 420 ===
+ <SAMPIRAN> di pinggir kolam makan bubur <CLS> jangan lupa pakai keripik <CLS> aku tersenyum malu sekali <CLS> ingat dulu suka mengompol <CLS> 
+=== GENERATED SEQUENCE 421 ===
+ <SAMPIRAN> ke kebun mencari layangan <CLS> pulangnya membawa burung dara <CLS> wahai teman jangan ngaku teman <CLS> kalau mau berteman lagi saja jangan <CLS> 
+=== GENERATED SEQUENCE 422 ===
+ <SAMPIRAN> air laut asin rasanya <CLS> lebih enak dari air payau <CLS> hormatilah ibu dan bapak guru <CLS> karena mereka adalah sumber air kehidupan <CLS> 
+=== GENERATED SEQUENCE 423 ===
+ <SAMPIRAN> di pinggir kolam makan bubur <CLS> jangan lupa pakai keripik <CLS> mantan mulu <CLS> kita tak bisa hidup tanpa mantan <CLS> 
+=== GENERATED SEQUENCE 424 ===
+ <SAMPIRAN> jika kamu pergi ke dusun <CLS> jangan lupa bawa beras <CLS> belajarlah dengan tekun <CLS> supaya kamu naik kelas <CLS> 
+=== GENERATED SEQUENCE 425 ===
+ <SAMPIRAN> bunga lada tingginya sama <CLS> petik setangkup bunga melati <CLS> adik jauh di waktu besar <CLS> bila besar selalu dekat <CLS> 
+=== GENERATED SEQUENCE 426 ===
+ <SAMPIRAN> buah salak baru dipetik <CLS> buah duku buah delima <CLS> ada banyak wanita cantik <CLS> cuma kamu yang aku cinta <CLS> 
+=== GENERATED SEQUENCE 427 ===
+ <SAMPIRAN> burung gagak sedang di atas bukit <CLS> janganlah lupa membawa pahat <CLS> janganlah adik merasa bimbang <CLS> segala kehendak abang tunaikan <CLS> 
+=== GENERATED SEQUENCE 428 ===
+ <SAMPIRAN> ke masjid pakai jubah <CLS> jubah dipakai di atas kepala <CLS> kasih sayang amat besar <CLS> tiada terhingga <SAMPIRAN> ai mati <CLS> 
+=== GENERATED SEQUENCE 429 ===
+ <SAMPIRAN> ke pasar raya naik sepeda <CLS> hatihati jalanan macet <CLS> jangan lupa membaca alquran <CLS> agar jadi anak yang pintar <CLS> 
+=== GENERATED SEQUENCE 430 ===
+ <SAMPIRAN> di tepi kali saya menyinggah <CLS> menghilang penat menahan jerat <CLS> orang tua jangan disanggah <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 431 ===
+ <SAMPIRAN> orang haji dari jeddah <CLS> buah kurma berlambaklambak <CLS> pekerjaan guru bukanlah mudah <CLS> bagai kerja menolak ombak <CLS> 
+=== GENERATED SEQUENCE 432 ===
+ <SAMPIRAN> sebelum tidur pasang kelambu <CLS> kuingin malam tak berdinding <CLS> jangan lupa rajin sholat <CLS> agar bisa masuk surga nanti <CLS> 
+=== GENERATED SEQUENCE 433 ===
+ <SAMPIRAN> jalanjalan ke kota banjar <CLS> jangan lupa membeli sukun <CLS> untukmu ibu yang aku sayangi <CLS> selamat hari sabtu di tahun depan <CLS> 
+=== GENERATED SEQUENCE 434 ===
+ <SAMPIRAN> anak ayam turun sepuluh <CLS> mati satu tinggal sembilan <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> supaya engkau tidak ketinggalan <CLS> 
+=== GENERATED SEQUENCE 435 ===
+ <SAMPIRAN> anak bayi belum bergigi <CLS> tapi bisa makan ketupat <CLS> konsumsilah makanan bergizi <CLS> agar tubuh menjadi sehat <CLS> 
+=== GENERATED SEQUENCE 436 ===
+ <SAMPIRAN> buah nanas buah semangka <CLS> lebih enak buah semangka <CLS> kalau malas belajar <CLS> pasti bodoh di kemudian hari <CLS> 
+=== GENERATED SEQUENCE 437 ===
+ <SAMPIRAN> ke hutan bertemu rusa jantan <CLS> kakinya berbulu dan juga tiada turi <CLS> kepada tuhan tempat berbagi <CLS> hati dan dada tenang <CLS> 
+=== GENERATED SEQUENCE 438 ===
+ <SAMPIRAN> pergi umrah ke kota mekah <CLS> jangan lupa bawa kewah <CLS> maafkanlah aku wahai sayang <CLS> aku takkan mendua lagi <CLS> 
+=== GENERATED SEQUENCE 439 ===
+ <SAMPIRAN> makan susu sapi perah <CLS> makan rumput dengan talas <CLS> jangan suka marahmarah <CLS> orang malas banyak yang benci <CLS> 
+=== GENERATED SEQUENCE 440 ===
+ <SAMPIRAN> pohon duku dibikin sarang <CLS> agar tidak jadi siasia <CLS> jadilah murid yang rajin <CLS> tentu banyak teman <CLS> 
+=== GENERATED SEQUENCE 441 ===
+ <SAMPIRAN> buah duku dari palembang <CLS> pulau bali terkenal mangganya <CLS> baca buku janganlah jarang <CLS> sebab buku jendela dunia <CLS> 
+=== GENERATED SEQUENCE 442 ===
+ <SAMPIRAN> di tepi kali saya menyinggah <CLS> menghilang penat menahan jerat <CLS> orang tua jangan disanggah <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 443 ===
+ <SAMPIRAN> bunga kenanga di atas kubur <CLS> pucuk sari pandan jawa <CLS> apa guna sombong dan takabur <CLS> rusak hati badan binasa <CLS> 
+=== GENERATED SEQUENCE 444 ===
+ <SAMPIRAN> air melurut ke tepian mandi <CLS> kembang berseri bunga senduduk <CLS> dalam kitab sudah tercatat <CLS> berbuat baiklah pada lingkungan <CLS> 
+=== GENERATED SEQUENCE 445 ===
+ <SAMPIRAN> di balik semak belukar <CLS> ada ular yang melompat <CLS> sejak cinta kita lukai <CLS> tak pernah pudar pula duka <CLS> 
+=== GENERATED SEQUENCE 446 ===
+ <SAMPIRAN> ambil mesin untuk membabat <CLS> rumput di halaman sudah tinggi <CLS> mari kita tanam pepohonan <CLS> agar lingkungan selalu terjaga <CLS> 
+=== GENERATED SEQUENCE 447 ===
+ <SAMPIRAN> sungguh keras kayu gaharu <CLS> apalagi ditambah dengan lada <CLS> belajar tak pernah berhenti <CLS> ketika tua tiada sudah <CLS> 
+=== GENERATED SEQUENCE 448 ===
+ <SAMPIRAN> pergi ke pasar membeli madu <CLS> tidak lupa membeli kucai <CLS> semangat kerja di hari rabu <CLS> semoga semangat selalu menyala <CLS> 
+=== GENERATED SEQUENCE 449 ===
+ <SAMPIRAN> kalau hendak pergi ke jakarta <CLS> carilah dulu batu permata <CLS> yang muda perlu bimbingan <CLS> supaya hidupnya dalam tuntunan <CLS> 
+=== GENERATED SEQUENCE 450 ===
+ <SAMPIRAN> dari desa memetik cengkeh <CLS> dari ladang itulah buah cengkeh <CLS> jangan suka berputus asa <CLS> kelak harimu akan merana <CLS> 
+=== GENERATED SEQUENCE 451 ===
+ <SAMPIRAN> buah duku dari palembang <CLS> pulau bali terkenal mangganya <CLS> baca buku janganlah jarang <CLS> sebab buku jendela dunia <CLS> 
+=== GENERATED SEQUENCE 452 ===
+ <SAMPIRAN> di <SAMPIRAN> ing pohon waru <CLS> di depan rumah tetanggamu <CLS> aku selalu setia menunggu <CLS> dalam hatiku ini <CLS> 
+=== GENERATED SEQUENCE 453 ===
+ <SAMPIRAN> yang di bawah pohon duku <CLS> di ruang tamu ngeliat tvone <CLS> aku suka kamu apa adanya <CLS> aku ingin menjadi jodohku itu impianku <CLS> 
+=== GENERATED SEQUENCE 454 ===
+ <SAMPIRAN> jalanjalan ke palangkaraya <CLS> singgah sejenak di kota tua <CLS> selamat hari rabu buat semua <CLS> semoga senantiasa mendapat faedah <CLS> 
+=== GENERATED SEQUENCE 455 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 456 ===
+ <SAMPIRAN> jalanjalan ke rawarawa <CLS> melihat ular melewati semak <CLS> perutku sakit menahan tawa <CLS> melihat kakek memakai gaun <CLS> 
+=== GENERATED SEQUENCE 457 ===
+ <SAMPIRAN> makan nasi dengan tangan kanan <CLS> minumnya es kelapa muda <CLS> jika hendak kamu melamar <CLS> pilihlah murid yang berbudi <CLS> 
+=== GENERATED SEQUENCE 458 ===
+ <SAMPIRAN> anak gembala menggiring sapi <CLS> sapi lelah disembelih rumputnya <CLS> selamat hari sabtu buat kalian <CLS> sahabat baikku disana <CLS> 
+=== GENERATED SEQUENCE 459 ===
+ <SAMPIRAN> pergi ke kota naik angkutan <CLS> naik mobil memakai kursi <CLS> meski tak lagi kita berdekatan <CLS> tapi kisah indah tetap terjaga <CLS> 
+=== GENERATED SEQUENCE 460 ===
+ <SAMPIRAN> air garam ada di gelas <CLS> menetes balik ke gelas <CLS> rajin belajar pangkal pandai <CLS> semangat terus jangan malas <CLS> 
+=== GENERATED SEQUENCE 461 ===
+ <SAMPIRAN> buah budi bedara mengkal <CLS> masak sebiji di pinggir pantai <CLS> hilang budi bicara akal <CLS> buah apa yang tidak bertangkai <CLS> 
+=== GENERATED SEQUENCE 462 ===
+ <SAMPIRAN> anak penjual jamu <CLS> sedang di kenal istrinya <CLS> bila kamu jadi anak <CLS> jangan ngajak balikan aku <CLS> 
+=== GENERATED SEQUENCE 463 ===
+ <SAMPIRAN> kalau ingin makan kelapa <CLS> pergi ke pasar naik becak <CLS> jika ingin menjadi mahasiswa <CLS> sekolah dasar jangan diabaikan <CLS> 
+=== GENERATED SEQUENCE 464 ===
+ <SAMPIRAN> buah jeruk ada pula madu <CLS> tambah pula dengan buah pir <CLS> didik hati untuk ibadah <CLS> agar kelak mendapat surga <CLS> 
+=== GENERATED SEQUENCE 465 ===
+ <SAMPIRAN> burung bangau turun ke rawa <CLS> mati terkena tinggalah ikan <CLS> dari jauh memang sulit <CLS> jadi teman memang sulit <CLS> 
+=== GENERATED SEQUENCE 466 ===
+ <SAMPIRAN> jika hendak kamu melamar <CLS> jangan banyak tulis dihapus <CLS> jika siswa rajin belajar <CLS> sudah tentu pasti lulus <CLS> 
+=== GENERATED SEQUENCE 467 ===
+ <SAMPIRAN> pagi hari pergi ke pasar <CLS> beli sayur dan juga beras <CLS> wahai wanita yang cantik <CLS> aku jadi wanita pemarah <CLS> 
+=== GENERATED SEQUENCE 468 ===
+ <SAMPIRAN> saat membeli jamu <CLS> dia nyarinyari temanmu <CLS> apapun yang mereka minta <CLS> aku bisa membuatmu bahagia <CLS> 
+=== GENERATED SEQUENCE 469 ===
+ <SAMPIRAN> sungguh indah bunga cempaka <CLS> bunga indah baunya harum <CLS> kepada ibu yang sangat sayang <CLS> hati ini sangat bahagia <CLS> 
+=== GENERATED SEQUENCE 470 ===
+ <SAMPIRAN> jalan jalan ke hutan rimba <CLS> untuk bertemu panda puyuh <CLS> kalau cinta sudah melekat <CLS> tai kucing dan anjing sama <CLS> 
+=== GENERATED SEQUENCE 471 ===
+ <SAMPIRAN> makan siang roti mari <CLS> jangan lupa sloki <CLS> untuk apa kamu bersedih <CLS> lebih baik kita belajar <CLS> 
+=== GENERATED SEQUENCE 472 ===
+ <SAMPIRAN> pergi berburu ke tepi hutan <CLS> bertemu rusa belang kaki <CLS> kepada sesama manusia mestilah menghormati <CLS> <SAMPIRAN> aii dengan hormat <CLS> 
+=== GENERATED SEQUENCE 473 ===
+ <SAMPIRAN> kalau keladi sudah ditanam <CLS> janganlah lagi meminta talas <CLS> kalau budi sudah ditanam <CLS> janganlah lagi meminta balas <CLS> 
+=== GENERATED SEQUENCE 474 ===
+ <SAMPIRAN> ke toko naik sepeda <CLS> naik sepeda keliling kota <CLS> betapa hatiku ini jatuh cinta <CLS> hanya wajahmu yang aku cinta <CLS> 
+=== GENERATED SEQUENCE 475 ===
+ <SAMPIRAN> ke hulu membuat pagar <CLS> jangan terpotong batang durian <CLS> cari guru tempat belajar <CLS> supaya jangan sesal kemudian <CLS> 
+=== GENERATED SEQUENCE 476 ===
+ <SAMPIRAN> anak kepala suku <CLS> besok akan kembali ke kampungmu <CLS> jangan lupa untuk berbagi <CLS> karena itu sebagai ujian <CLS> 
+=== GENERATED SEQUENCE 477 ===
+ <SAMPIRAN> kalau tuan ke kota tua <CLS> jangan lupa naik sepeda <CLS> belajarlah dengan gigih dan tekun <CLS> agar kita dapat meraih citacita <CLS> 
+=== GENERATED SEQUENCE 478 ===
+ <SAMPIRAN> ada ubi ada talas <CLS> ada budi ada balas <CLS> sebab pulut santan binasa <CLS> sebab mulut badan merana <CLS> 
+=== GENERATED SEQUENCE 479 ===
+ <SAMPIRAN> sekarang hari kamis <CLS> ramadhan ke dua puluh sembilan <CLS> senyummu emang manis <CLS> karenanya aku susah nangis <CLS> 
+=== GENERATED SEQUENCE 480 ===
+ <SAMPIRAN> beli ikan di warung guru <CLS> ikan patin dijual di pasar senayan <CLS> jangan lupa belajar yang serius <CLS> agar bisa masuk ke surga <CLS> 
+=== GENERATED SEQUENCE 481 ===
+ <SAMPIRAN> kalau keladi sudah ditanam <CLS> janganlah lagi meminta talas <CLS> kalau budi sudah ditanam <CLS> janganlah lagi meminta balas <CLS> 
+=== GENERATED SEQUENCE 482 ===
+ <SAMPIRAN> bunga melati tumbuh di taman <CLS> mawar indah terlihat di dalam taman <CLS> kepada yang tua menghormati <CLS> kepada yang muda menyayangi <CLS> 
+=== GENERATED SEQUENCE 483 ===
+ <SAMPIRAN> yang baru di tes kesehatan <CLS> lagi ngeliat doraemon <CLS> kalau pengen segera halalin <CLS> kamu akan selalu dalam ingatan <CLS> 
+=== GENERATED SEQUENCE 484 ===
+ <SAMPIRAN> sebelum tidur dia sering shalat <CLS> dia minta dibeliin jamu <CLS> sebelum tidur aku mintakankan <CLS> cintamu itu sangat aku butuhkan <CLS> 
+=== GENERATED SEQUENCE 485 ===
+ <SAMPIRAN> anak kucing mengejar tikus <CLS> tikus berlari terbiritbirit <CLS> jika ingin menjadi pintar <CLS> tentu harus belajar <CLS> 
+=== GENERATED SEQUENCE 486 ===
+ <SAMPIRAN> orang tua patut disegani <CLS> boleh mendapat ajar nasehat <CLS> ular yang bisa tidak begini <CLS> bisa lagi lidah yang jahat <CLS> 
+=== GENERATED SEQUENCE 487 ===
+ <SAMPIRAN> beli obat sakit mata <CLS> pulangnya bawa tas <CLS> kalau hati mencintai <CLS> cintailah dengan tulus ikhlas <CLS> 
+=== GENERATED SEQUENCE 488 ===
+ <SAMPIRAN> ambil lidi sebagai bekal <CLS> setelah itu pergi berenang <CLS> walaupun kau jauh di mata <CLS> tapi kau dekat di hati <CLS> 
+=== GENERATED SEQUENCE 489 ===
+ <SAMPIRAN> jalan kaki ke panti pijat <CLS> membawa teman ke pasar <CLS> sebelum acara kita buka <CLS> izinkan saya memperkenalkan diri <CLS> 
+=== GENERATED SEQUENCE 490 ===
+ <SAMPIRAN> sekarang hari rabu <CLS> ramadhan ke dua puluh lima <CLS> kalau kangen kamu banget <CLS> langsung aku halalin kamu <CLS> 
+=== GENERATED SEQUENCE 491 ===
+ <SAMPIRAN> ada yang main layanglayang <CLS> lagi asyik baca buku <CLS> alangkah bahagianya aku <CLS> bila kamu pengen ketemu kamu <CLS> 
+=== GENERATED SEQUENCE 492 ===
+ <SAMPIRAN> buah kelapa dimakan kera <CLS> kera tertawa sambil menyemburat <CLS> happy thursday buatmu sayang <CLS> semoga selalu sehat dan riang <CLS> 
+=== GENERATED SEQUENCE 493 ===
+ <SAMPIRAN> buah nanas buah nangka <CLS> ada juga buah anggur <CLS> jangan lupa berolahraga <CLS> agar sehat selalu <CLS> 
+=== GENERATED SEQUENCE 494 ===
+ <SAMPIRAN> ada anak yang suka mandi <CLS> tapi sayang airnya deras <CLS> maafin aku ya <CLS> aku pengen lekas ketemu jodohmu <CLS> 
+=== GENERATED SEQUENCE 495 ===
+ <SAMPIRAN> beli kain warnanya merah <CLS> dari kediri pakenya batik <CLS> gowes ini jangan <SAMPIRAN> ai lupa ajak aku <CLS> agar selalu laku <CLS> 
+=== GENERATED SEQUENCE 496 ===
+ <SAMPIRAN> hari minggu pergi ke pasar <CLS> pulangnya hari sudah senja <CLS> hidup di dunia tidak berguna <CLS> jika dunia tidak untuk dikerjakan <CLS> 
+=== GENERATED SEQUENCE 497 ===
+ <SAMPIRAN> pergi berburu ke dalam hutan <CLS> bertemu rusa belang kaki <CLS> hendaklah menghormati guru <CLS> itulah tanda murid yang budiman <CLS> 
+=== GENERATED SEQUENCE 498 ===
+ <SAMPIRAN> hari minggu bangun pagi <CLS> pergi ke taman untuk belajar <CLS> jangan lupa belajar <CLS> dengan ikhlas dan ikhlas <CLS> 
+=== GENERATED SEQUENCE 499 ===
+ <SAMPIRAN> beli tiket ke kota lahat <CLS> jangan lupa beli oleh <CLS> kalau kamu ingin menjadi pintar <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 500 ===
+ <SAMPIRAN> jalanjalan ke pulau jawa <CLS> jangan lupa membeli duku <CLS> jika kamu ingin pintar <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 501 ===
+ <SAMPIRAN> ke pasar lama menanti <CLS> tunggu ibu beli terasi <CLS> jadilah anak yang taat beribadah <CLS> tuntut ilmu hingga dapat <SAMPIRAN> ai mati <CLS> 
+=== GENERATED SEQUENCE 502 ===
+ <SAMPIRAN> ada ulat bulu <CLS> ada bebek ada angsa <CLS> daripada hidup kesepian <CLS> mending kamu menghulu <CLS> 
+=== GENERATED SEQUENCE 503 ===
+ <SAMPIRAN> hari minggu pergi ke pasar <CLS> beli sayur dan juga beras <CLS> meski dibungkus bukan kiriman <CLS> kabar baik tetap muncul <CLS> 
+=== GENERATED SEQUENCE 504 ===
+ <SAMPIRAN> kalau ada jarum yang patah <CLS> jangan simpan dalam peti <CLS> kalau ada kata yang salah <CLS> jangan simpan dalam hati <CLS> 
+=== GENERATED SEQUENCE 505 ===
+ <SAMPIRAN> jalanjalan ke surabaya <CLS> pulangnya membeli soto <CLS> malam ini aku selalu tenang <CLS> sejak bertemu kamu seharihari <CLS> 
+=== GENERATED SEQUENCE 506 ===
+ <SAMPIRAN> di atas piring ada donat <CLS> dimakan bersama di atas meja <CLS> walau libur tetap di bangun <CLS> jangan menyesal jangan menundanunda <CLS> 
+=== GENERATED SEQUENCE 507 ===
+ <SAMPIRAN> pulang belanja dari pasar baru <CLS> tidak lupa beli kacang <CLS> kalau kamu mau jujur <CLS> jujur saja semuanya <CLS> 
+=== GENERATED SEQUENCE 508 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 509 ===
+ <SAMPIRAN> kalau ada jarum yang patah <CLS> jangan simpan dalam peti <CLS> kalau ada kata yang salah <CLS> jangan simpan dalam hati <CLS> 
+=== GENERATED SEQUENCE 510 ===
+ <SAMPIRAN> pergi umrah ke kota mekah <CLS> disana banyak batu akik <CLS> bentuknya bulat bikin panas <CLS> benda apakah namanya <CLS> 
+=== GENERATED SEQUENCE 511 ===
+ <SAMPIRAN> naik kebukit membeli lada <CLS> lada sebiji dibelah tujuh <CLS> berapa hari pergi sekolah <CLS> kalau hari rugi tentu hatiku sakit <CLS> 
+=== GENERATED SEQUENCE 512 ===
+ <SAMPIRAN> pagi hari datang kabut <CLS> kabut di jalanan sedang sepi <CLS> jagalah kebersihan lingkungan <CLS> agar lingkungan menjadi bersih <CLS> 
+=== GENERATED SEQUENCE 513 ===
+ <SAMPIRAN> jangan lupa baca doa <CLS> semoga kamu sehat selalu <CLS> jagalah alam dari duri <CLS> karena itu adalah kunci ilmu <CLS> 
+=== GENERATED SEQUENCE 514 ===
+ <SAMPIRAN> kalau sudah namanya cinta <CLS> hati terasa berbungabunga <CLS> kalau sudah terbawa suasana <CLS> senyum sendiri seperti orang gila <CLS> 
+=== GENERATED SEQUENCE 515 ===
+ <SAMPIRAN> ke hulu membuat pagar <CLS> jangan terpotong batang durian <CLS> cari guru tempat belajar <CLS> supaya jangan sesal kemudian <CLS> 
+=== GENERATED SEQUENCE 516 ===
+ <SAMPIRAN> di aceh ada pantai duku <CLS> di sana banyak kelelawar <CLS> selamat pagi pejuang <CLS> buat para pejuang indonesia <CLS> 
+=== GENERATED SEQUENCE 517 ===
+ <SAMPIRAN> sungguh indah pintu dipahat <CLS> burung puyuh diatas dahan <CLS> kalau hidup hendak selamat <CLS> taat selalu perintah tuhan <CLS> 
+=== GENERATED SEQUENCE 518 ===
+ <SAMPIRAN> anak kucing mengejar tikus <CLS> tikus berlari terbiritbirit <CLS> jika belajar dengan giat <CLS> akan berguna jika dewasa <CLS> 
+=== GENERATED SEQUENCE 519 ===
+ <SAMPIRAN> jalanjalan ke kota blitar <CLS> jangan lupa membeli sukun <CLS> jika kamu ingin pintar <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 520 ===
+ <SAMPIRAN> kalau ingin makan kelapa <CLS> kupas kulit <SAMPIRAN> ai tak tersisa <CLS> kalau ingin dapat juara <CLS> belajarlah dengan giat <CLS> 
+=== GENERATED SEQUENCE 521 ===
+ <SAMPIRAN> hari minggu pergi ke pasar <CLS> untuk membeli sayuran <CLS> happy birthday pacar tercinta <CLS> tetaplah jadi sahabatku yang setia <CLS> 
+=== GENERATED SEQUENCE 522 ===
+ <SAMPIRAN> jalanjalan ke kota medan <CLS> ada rumah berbarisbaris <CLS> biar mati diujung keris <CLS> asal dapat dinda yang manis <CLS> 
+=== GENERATED SEQUENCE 523 ===
+ <SAMPIRAN> jalanjalan ke kota blitar <CLS> jangan lupa beli sukun <CLS> jika kamu ingin pintar <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 524 ===
+ <SAMPIRAN> sungguh indah batu permata <CLS> perhiasan yang banyak oleh sucinya <CLS> sungguh mulia dan mulia di mata dunia <CLS> wahai sahabat yang selalu setia <CLS> 
+=== GENERATED SEQUENCE 525 ===
+ <SAMPIRAN> kalau tuan muda teruna <CLS> pakai seluar dengan gayanya <CLS> kalau tuan bijak laksana <CLS> biji di luar apa buahnya <CLS> 
+=== GENERATED SEQUENCE 526 ===
+ <SAMPIRAN> naik gunung mengintai <CLS> jangan lupa bawa rakit <CLS> kepada tuhan kita mohonkan <CLS> agar kita diberi keselamatan <CLS> 
+=== GENERATED SEQUENCE 527 ===
+ <SAMPIRAN> ada anak sedang membaca <CLS> buku jendela toko buku <CLS> sayang met pagi <CLS> salam rindu banget dariku <CLS> 
+=== GENERATED SEQUENCE 528 ===
+ <SAMPIRAN> kalau ada sumur diladang <CLS> bolehlah kita menggosok gigi <CLS> kalau anda di warung padang <CLS> bolehkah kita ditraktir lagi <CLS> 
+=== GENERATED SEQUENCE 529 ===
+ <SAMPIRAN> yang baru selesai mandi <CLS> lagi nyarinyari sajadah <CLS> alangkah bahagianya aku <CLS> bila bisa ketemu kamu dalam mimpi <CLS> 
+=== GENERATED SEQUENCE 530 ===
+ <SAMPIRAN> anak sekolah duduk berjajar <CLS> duduk berjajar di bangku amat lebar <CLS> sekolahku belajar giat <CLS> guruku baik suka pamer <CLS> 
+=== GENERATED SEQUENCE 531 ===
+ <SAMPIRAN> jangan suka mencabut padi <CLS> kalau dicabut hilang buahnya <CLS> jangan suka menyebut budi <CLS> kalau disebut hilang tuahnya <CLS> 
+=== GENERATED SEQUENCE 532 ===
+ <SAMPIRAN> hari minggu pergi ke pasar <CLS> membeli jeruk dan juga buah <CLS> saat kau disana sendirian <CLS> aku hanya bisa bermimpi dan mimpi saja <CLS> 
+=== GENERATED SEQUENCE 533 ===
+ <SAMPIRAN> di tepi kali saya menyinggah <CLS> menghilang penat menahan jerat <CLS> orang tua jangan disanggah <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 534 ===
+ <SAMPIRAN> makan bubur minumnya nasi <CLS> setelah sarapan makan susu <CLS> jangankan suka menundanunda <CLS> karena di belakangku lah yang baik <CLS> 
+=== GENERATED SEQUENCE 535 ===
+ <SAMPIRAN> jalanjalan ke kota paris <CLS> jangan lupa membeli roti <CLS> untuk kawankawan semua <CLS> selamat berbuka puasa ramadhan ini <CLS> 
+=== GENERATED SEQUENCE 536 ===
+ <SAMPIRAN> sebelum kerja dahulukan sarapan <CLS> sebelum berangkat menuju desa <CLS> siapa yang ingin menjadi imam <CLS> agar ia menjadi imam <CLS> 
+=== GENERATED SEQUENCE 537 ===
+ <SAMPIRAN> yang baru bangun <CLS> tadi pagi diberi hadiah <CLS> sayang kamu met tidur <CLS> moga mimpi indahmu terwujud <CLS> 
+=== GENERATED SEQUENCE 538 ===
+ <SAMPIRAN> saat membeli buku <CLS> dia memanggil temanmu <CLS> moga nanti kita bisa ketemu <CLS> moga mimpi ketemu jodohku <CLS> 
+=== GENERATED SEQUENCE 539 ===
+ <SAMPIRAN> hujan lebat di hari rabu <CLS> air sungai dalam keruh <CLS> semakin berilmu janganlah suka <CLS> makin berilmu janganlah malas <CLS> 
+=== GENERATED SEQUENCE 540 ===
+ <SAMPIRAN> bunga kenanga diatas kubur <CLS> pucuk sari pandan jawa <CLS> apa guna sombong dan takabur <CLS> rusak hati badan binasa <CLS> 
+=== GENERATED SEQUENCE 541 ===
+ <SAMPIRAN> minum sirup di atas rak <CLS> baca mantra yang manjur <CLS> sayang kamu met bobok <CLS> mimpiin aku aja kamu aja <CLS> 
+=== GENERATED SEQUENCE 542 ===
+ <SAMPIRAN> lagi asyik ngopi <CLS> ngopi bareng mbah surip <CLS> udah ganteng maunya banget <CLS> tapi masih banci <CLS> 
+=== GENERATED SEQUENCE 543 ===
+ <SAMPIRAN> pergi kepasar beli koran <CLS> tidak lupa juga beli gulali <CLS> kalau memang aku berani <CLS> tapi sayang kamu tak mau sekolah <CLS> 
+=== GENERATED SEQUENCE 544 ===
+ <SAMPIRAN> anak ayam turun sembilan <CLS> mati satu tinggal delapan <CLS> ilmu boleh sedikit ketinggalan <CLS> tapi jangan <SAMPIRAN> ai putus harapan <CLS> 
+=== GENERATED SEQUENCE 545 ===
+ <SAMPIRAN> beli jeruk ke pasar minggu <CLS> jeruknya manis dari kampung <CLS> happy wednesday untukmu teman <CLS> semoga senantiasa selalu sehat <CLS> 
+=== GENERATED SEQUENCE 546 ===
+ <SAMPIRAN> air mawar pun segar <CLS> membuat air pun jernih <CLS> meski jarak memisahkan kita <CLS> kenangan manis takkan terlupa <CLS> 
+=== GENERATED SEQUENCE 547 ===
+ <SAMPIRAN> jangan kumbang dijolokan <CLS> walau hanya untuk mainan <CLS> jangan membantu dalam keburukan <CLS> karena berujung pada penyesalan <CLS> 
+=== GENERATED SEQUENCE 548 ===
+ <SAMPIRAN> saat ada di surabaya <CLS> mereka menghentikan langkah <CLS> sayang met makan sahur <CLS> moga berkah yang aku khianati <CLS> 
+=== GENERATED SEQUENCE 549 ===
+ <SAMPIRAN> di gunung kapur banyak batu <CLS> banyak orang mensuci jala <CLS> terima kasih banyak guruku <CLS> dan atas jasa para pahlawan <CLS> 
+=== GENERATED SEQUENCE 550 ===
+ <SAMPIRAN> kalau hendak menebang jati <CLS> carilah guru tempat belajar <CLS> kalau ingin hidup selamat <CLS> jangan lupa beribadah <CLS> 
+=== GENERATED SEQUENCE 551 ===
+ <SAMPIRAN> di tepi kali saya menyinggah <CLS> menghilang penat menahan jerat <CLS> orang tua jangan disanggah <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 552 ===
+ <SAMPIRAN> burung dara terbang ke awan <CLS> terbang tinggi tak terkejar <CLS> betapa sedih ibu di hati <CLS> melihat ayah sedang di sekolah <CLS> 
+=== GENERATED SEQUENCE 553 ===
+ <SAMPIRAN> hari hujan pergi membabat <CLS> rumput di dalam kali <CLS> kepada guru mestilah hormat <CLS> agar ilmu dapat manfaat <CLS> 
+=== GENERATED SEQUENCE 554 ===
+ <SAMPIRAN> sebelum membeli jamu <CLS> mereka nyarinyari adikmu <CLS> sayang met mimpiin aku <CLS> moga ntar kita bisa mimpiin kamu <CLS> 
+=== GENERATED SEQUENCE 555 ===
+ <SAMPIRAN> anak ayam turun sembilan <CLS> mati satu tinggal lah tujuh <CLS> hidup harus penuh harapan <CLS> jadikan itu jalan yang dituju <CLS> 
+=== GENERATED SEQUENCE 556 ===
+ <SAMPIRAN> di ujung jalan banyak ranjau <CLS> di ujung jalan banyak ranjau <CLS> untuk semua temanteman <CLS> mari d plin setiap hari <CLS> 
+=== GENERATED SEQUENCE 557 ===
+ <SAMPIRAN> makan siang dengan ketan <CLS> setelah itu pergilah siang <CLS> happy thursday buatmu sayang <CLS> semoga selalu sehat dan sukses <CLS> 
+=== GENERATED SEQUENCE 558 ===
+ <SAMPIRAN> anak elang jatuh ke rawa <CLS> ditolong oleh menjangan rusa <CLS> ayah pulang hati senang <CLS> wajah ibu juga riang <CLS> 
+=== GENERATED SEQUENCE 559 ===
+ <SAMPIRAN> pergi jauh ke kota paris <CLS> banyak rumah berbarisbaris <CLS> biar mati diujung keris <CLS> asal dapat dinda yang manis <CLS> 
+=== GENERATED SEQUENCE 560 ===
+ <SAMPIRAN> bunga mawar tangkai berduri <CLS> laris manis pedagang cendol <CLS> aku tersenyum malu sekali <CLS> ingat dahulu suka mengompol <CLS> 
+=== GENERATED SEQUENCE 561 ===
+ <SAMPIRAN> saat mereka mudik <CLS> di jalan ada ulat bulu <CLS> kalau aku boleh jujur <CLS> cintaku adalah kamu <CLS> 
+=== GENERATED SEQUENCE 562 ===
+ <SAMPIRAN> pergi umrah setiap waktu <CLS> airnya selalu naik <CLS> kalau kamu ingin citacita <CLS> gapai citacitaku tinggal <CLS> 
+=== GENERATED SEQUENCE 563 ===
+ <SAMPIRAN> saat membeli jamu <CLS> pulangnya sama si tukang jamu <CLS> aku lagi kangen kamu banget <CLS> karena aku udah punya pacar <CLS> 
+=== GENERATED SEQUENCE 564 ===
+ <SAMPIRAN> kalau tuan bawa keladi <CLS> bawakan juga si pucuk rebung <CLS> kalau tuan bijak bestari <CLS> binatang apa tanduk di hidung <CLS> 
+=== GENERATED SEQUENCE 565 ===
+ <SAMPIRAN> buah duku buah rambutan <CLS> cuci piring bawah jembatan <CLS> kamu pasti merugi <CLS> jika tidak ingin menjadi kaya <CLS> 
+=== GENERATED SEQUENCE 566 ===
+ <SAMPIRAN> di <SAMPIRAN> ing pohon jambu <CLS> ada sarang burung dara <CLS> buat kamu calon jodohku <CLS> jangan lupa kerjakan pr dan ibadah <CLS> 
+=== GENERATED SEQUENCE 567 ===
+ <SAMPIRAN> sebelum tidur pasang kelambu <CLS> jangan lupa makan <CLS> jadilah anak yang baik hati <CLS> supaya nanti bisa berprestasi <CLS> 
+=== GENERATED SEQUENCE 568 ===
+ <SAMPIRAN> ada anak bertengkar <CLS> tiada yang mau kalah <CLS> jika kau ingin pintar <CLS> rajinlah untuk belajar <CLS> 
+=== GENERATED SEQUENCE 569 ===
+ <SAMPIRAN> air terjun riam pada kolam <CLS> riam sungai keruh pada bukit <CLS> waktu muda selalu berjuang <CLS> sudah tua hidupnya senang <CLS> 
+=== GENERATED SEQUENCE 570 ===
+ <SAMPIRAN> hujan deras di hari selasa <CLS> mengguyur air di danau toba <CLS> hidup di dunia hanya sesaat <CLS> gunakan waktu untuk beramal <CLS> 
+=== GENERATED SEQUENCE 571 ===
+ <SAMPIRAN> ikan mujair dalam kolam <CLS> ikan sepat dalam kolam <CLS> siapa yang suka ilmu <CLS> tentu derajatnya ditinggikan <CLS> 
+=== GENERATED SEQUENCE 572 ===
+ <SAMPIRAN> minum jamu di atas meja <CLS> masukkan debu dalam gelas <CLS> betapa hatiku ini rindu <CLS> bila kamu melihat aku dalam mimpi <CLS> 
+=== GENERATED SEQUENCE 573 ===
+ <SAMPIRAN> ke pasar minggu membeli camilan <CLS> membeli sambal dan juga lada <CLS> jika anda ingin hidup tenang <CLS> tinggalkan ibadah jangan pernah lupa <CLS> 
+=== GENERATED SEQUENCE 574 ===
+ <SAMPIRAN> pergi ke kebun mencari benih <CLS> jangan lupa menanam padi <CLS> kalau kita tidak bersua lagi <CLS> jangan malu untuk bersua lagi <CLS> 
+=== GENERATED SEQUENCE 575 ===
+ <SAMPIRAN> ambil kue di atas papan <CLS> kue itu sangatlah ringan <CLS> jika ingin naik derajat <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 576 ===
+ <SAMPIRAN> hari minggu pergi ke museum <CLS> ke museum lewati hutan pohon cemara <CLS> ilmu dunia jangan ditinggal <CLS> ilmu akhirat harus dicari <CLS> 
+=== GENERATED SEQUENCE 577 ===
+ <SAMPIRAN> pagipagi baca koran <CLS> semoga saja kamu jarang <CLS> walau kamu jarang <CLS> tapi tetaplah hebat dalam hati <CLS> 
+=== GENERATED SEQUENCE 578 ===
+ <SAMPIRAN> di suruh pergi ke hutan <CLS> di hutan ada burung kancil <CLS> kalau lagi kangen gini <CLS> pengen ngajak balik lagi di rumah <CLS> 
+=== GENERATED SEQUENCE 579 ===
+ <SAMPIRAN> buah salak baru dipetik <CLS> buah duku buah delima <CLS> ada banyak wanita cantik <CLS> cuma kamu yang aku cinta <CLS> 
+=== GENERATED SEQUENCE 580 ===
+ <SAMPIRAN> makan mie ayam campur acar <CLS> nikmatnya telur puyuh di atas genteng <CLS> kamu memang cantik sekali <CLS> tapi kok badannya bau <CLS> 
+=== GENERATED SEQUENCE 581 ===
+ <SAMPIRAN> ada yang membaca buku <CLS> ada yang ndak tertarik <CLS> kalau aku boleh jujur <CLS> aku tuh pengen banget pacaran denganmu <CLS> 
+=== GENERATED SEQUENCE 582 ===
+ <SAMPIRAN> sungguh enak si ikan gabus <CLS> ikan gabus banyak dijual <CLS> meski lelah aku tetap berjuang <CLS> tetap berjuang walau mati <CLS> 
+=== GENERATED SEQUENCE 583 ===
+ <SAMPIRAN> buah jambu dimakan ratih <CLS> ratih memakan bersama ganu <CLS> ratih yang ada di atas sorga <CLS> janganlah kamu berbuat salah <CLS> 
+=== GENERATED SEQUENCE 584 ===
+ <SAMPIRAN> kalau ada sumur diladang <CLS> bolehlah kita menggosok gigi <CLS> kalau anda diwarung padang <CLS> bolehkah kita ditraktir lagi <CLS> 
+=== GENERATED SEQUENCE 585 ===
+ <SAMPIRAN> pergi ke hutan berburu <CLS> bertemu rusa belang kaki <CLS> jika kau mau pintar <CLS> maka rajinlah belajar <CLS> 
+=== GENERATED SEQUENCE 586 ===
+ <SAMPIRAN> burung gelatik di atas nampan <CLS> paling enak dijadikan pancingan <CLS> jadilah kamu anak yang pandai <CLS> sudah pasti banyak temannya <CLS> 
+=== GENERATED SEQUENCE 587 ===
+ <SAMPIRAN> pergi ke pasar membeli ikan <CLS> tak lupa juga membeli ketela <CLS> jangan hanya pandai bermain <CLS> kamu juga pandai menenun <CLS> 
+=== GENERATED SEQUENCE 588 ===
+ <SAMPIRAN> buah apel berwarna merah <CLS> hijau tua si buah delima <CLS> ada banyak wanita cantik <CLS> cuma kamu yang aku cinta <CLS> 
+=== GENERATED SEQUENCE 589 ===
+ <SAMPIRAN> ada yang tadarus <CLS> ada yang pake bikini <CLS> emang wanita yang paling cantik <CLS> tapi ngeblow bedaknya <CLS> 
+=== GENERATED SEQUENCE 590 ===
+ <SAMPIRAN> jalan jalan ke taman sungguh ramai <CLS> taman penuh bunga dan mawar <CLS> ilmu agama adalah utama <CLS> bekal akhirat dan juga dunia <CLS> 
+=== GENERATED SEQUENCE 591 ===
+ <SAMPIRAN> anak kecil belajar berenang <CLS> berenang ke sungai mengambil ikan <CLS> jangan lelah dalam ujian <CLS> bersyukur dan percayalah temanmu <CLS> 
+=== GENERATED SEQUENCE 592 ===
+ <SAMPIRAN> yang ada di ruang tamu <CLS> sedang ngobrol di ruang tamu <CLS> kalau ada jodoh di hati <CLS> aku siap langsung halalin kamu <CLS> 
+=== GENERATED SEQUENCE 593 ===
+ <SAMPIRAN> di bawah pohon duku <CLS> ada seorang wanita berkerudung biru <CLS> kamu itu emang cantik <CLS> tapi kok badannya bau <CLS> 
+=== GENERATED SEQUENCE 594 ===
+ <SAMPIRAN> jalanjalan ke kota padang <CLS> singgah sebentar makan pake selendang <CLS> wahai ananda pergi jauh merantau <CLS> jauhkan diri dari segala maksiat <CLS> 
+=== GENERATED SEQUENCE 595 ===
+ <SAMPIRAN> kalau ingin makan ketupat <CLS> beli tunjuk nama teman <CLS> sekolahlah dan bersyukur kepada guru <CLS> itulah jalan menuju ilmu <CLS> 
+=== GENERATED SEQUENCE 596 ===
+ <SAMPIRAN> ambil kelapa dengan galah <CLS> kelapa dibelah dua <CLS> selamat menua untukmu kasih <CLS> semoga senantiasa dalam lindungannya <CLS> 
+=== GENERATED SEQUENCE 597 ===
+ <SAMPIRAN> buah nanas buah naga <CLS> lebih manis buah semangka <CLS> rajinrajinlah belajar <CLS> agar dapat juara kelas <CLS> 
+=== GENERATED SEQUENCE 598 ===
+ <SAMPIRAN> pergi ke sawah menanam padi <CLS> padi ditanam di pagi hari <CLS> terima kasih wahai ayah <CLS> aku jadi semakin cinta padamu <CLS> 
+=== GENERATED SEQUENCE 599 ===
+ <SAMPIRAN> orangorang membersihkan reruntuhan <CLS> parang ditelak ke batang sena <CLS> buat apa punya pacar <CLS> jangan malu untuk bertanya di ruang tamu <CLS> 
+=== GENERATED SEQUENCE 600 ===
+ <SAMPIRAN> anak bangsawan menjahit tabir <CLS> sulam di tepi siku keluang <CLS> benci tuan cuma di bibir <CLS> dalam hati membara sayang <CLS> 
+=== GENERATED SEQUENCE 601 ===
+ <SAMPIRAN> buah jambu dipetik <CLS> d mpan dan kami timbun <CLS> wahai anakku si cantik <CLS> segeralah engkau bangun <CLS> 
+=== GENERATED SEQUENCE 602 ===
+ <SAMPIRAN> makan soto ditambah selai <CLS> biar nikmat tak terlalu pedas <CLS> jika kita rajin belajar <CLS> citacita pasti akan tercapai <CLS> 
+=== GENERATED SEQUENCE 603 ===
+ <SAMPIRAN> pagi hari membuat atap dari bambu <CLS> untuk dibawa ke kota <CLS> siapa yang rajin belajar <CLS> jadi orang sukses kemudian <CLS> 
+=== GENERATED SEQUENCE 604 ===
+ <SAMPIRAN> sekarang hari senin <CLS> ramadhan ke lima belas <CLS> sejak cinta kita bersatu <CLS> hatiku kini kian terasa indah <CLS> 
+=== GENERATED SEQUENCE 605 ===
+ <SAMPIRAN> kalau kita tidak bergalah <CLS> jangan takut membentang kajang <CLS> kalau kita tidak bersalah <CLS> jangan takut ditantang orang <CLS> 
+=== GENERATED SEQUENCE 606 ===
+ <SAMPIRAN> ke pasar beli ikan bawal <CLS> beli tomat dan sedikit kentang <CLS> tak mengapa kita jarang ketemu <CLS> karena cinta dan sayangmu amatlah penting <CLS> 
+=== GENERATED SEQUENCE 607 ===
+ <SAMPIRAN> malam hari makan martabak <CLS> minum kopi sambil baca koran <CLS> tak terasa aku lupa membaca buku <CLS> sejak kau ada di bumi <CLS> 
+=== GENERATED SEQUENCE 608 ===
+ <SAMPIRAN> di bawah pohon karet <CLS> ada anak penjual bubur <CLS> daripada ketemu doi <CLS> mendingan kondangan biar kondangan makin ringan <CLS> 
+=== GENERATED SEQUENCE 609 ===
+ <SAMPIRAN> dari jakarta ke semanggi <CLS> untuk berburu kuda <CLS> jika aku udah mencintai <CLS> makanya jangan suka bolos <CLS> 
+=== GENERATED SEQUENCE 610 ===
+ <SAMPIRAN> burung elang terbang melayang <CLS> karena jatuh ke dalam sumur <CLS> hati ini rasanya sedih <CLS> rindu ini amat terasa <CLS> 
+=== GENERATED SEQUENCE 611 ===
+ <SAMPIRAN> ada gula ada kopi <CLS> diminum di siang hari <CLS> kuucapkan selamat pagi untukmu <CLS> semoga selalu sehat selalu <CLS> 
+=== GENERATED SEQUENCE 612 ===
+ <SAMPIRAN> orang sasak pergi ke bali <CLS> membawa pelita semuanya <CLS> berb k pekak dengan tuli <CLS> tertawa si buta melihatnya <CLS> 
+=== GENERATED SEQUENCE 613 ===
+ <SAMPIRAN> banyak hutan di kalimantan <CLS> pulau jawa banyak sungainya <CLS> banyak sekolah yang sering berenang <CLS> kalau berenang tiada basah <CLS> 
+=== GENERATED SEQUENCE 614 ===
+ <SAMPIRAN> pagipagi pergi ke sawah <CLS> padi dibawa ke ladang <CLS> rajinrajinlah belajar <CLS> agar pintar di waktu kecil <CLS> 
+=== GENERATED SEQUENCE 615 ===
+ <SAMPIRAN> yang ada di ruang tamu <CLS> sedang ada yang pengen beli buku <CLS> sayang met mimpiin kamu <CLS> jangan lupa mimpiin aku <CLS> 
+=== GENERATED SEQUENCE 616 ===
+ <SAMPIRAN> pohon jati kuat kayunya <CLS> pohon nyiur tinggi batangnya <CLS> murid sejati banyak ilmunya <CLS> bekal mengabdi nusa bangsa <CLS> 
+=== GENERATED SEQUENCE 617 ===
+ <SAMPIRAN> saat membeli minyak <CLS> mereka nyarinyari kamu <CLS> udah cantik tapi kamu ganteng <CLS> tapi sayang hobinya hoax <CLS> 
+=== GENERATED SEQUENCE 618 ===
+ <SAMPIRAN> pergi ke pasar membeli sayuran <CLS> tidak lupa membeli roti <CLS> jika kau ingin berwawasan <CLS> maka rajinlah membaca <CLS> 
+=== GENERATED SEQUENCE 619 ===
+ <SAMPIRAN> di atas meja ada donat <CLS> dimakan ketika hujan lebat <CLS> terima kasih untukmu guru <CLS> di depan ada kue <CLS> 
+=== GENERATED SEQUENCE 620 ===
+ <SAMPIRAN> jika kita makan ubi <CLS> jangan lupa duduk beralas <CLS> jika kita berhutang budi <CLS> jangan lupa membalas <CLS> 
+=== GENERATED SEQUENCE 621 ===
+ <SAMPIRAN> minum air kelapa muda <CLS> biar tak lupa memakai alas kasur <CLS> hari jumat penuh berkah <CLS> mari tanam pohon kurma <CLS> 
+=== GENERATED SEQUENCE 622 ===
+ <SAMPIRAN> ada pohon roboh <CLS> menimpa penjual lumpia <CLS> aku dan kamu udah saling cinta <CLS> tapi tak direstui sama yang punya pacar <CLS> 
+=== GENERATED SEQUENCE 623 ===
+ <SAMPIRAN> hari minggu ramadhan terakhir <CLS> jangan lupa baca niat puasanya <CLS> jangan sesekali kamu menunggumu <CLS> karena bagiku kau akan berubah <CLS> 
+=== GENERATED SEQUENCE 624 ===
+ <SAMPIRAN> jangan minder jadi anak nakal <CLS> agar tidak masuk neraka <CLS> jangan mengelak <SAMPIRAN> ai sombong <CLS> kalau tidak mau masuk neraka <CLS> 
+=== GENERATED SEQUENCE 625 ===
+ <SAMPIRAN> anak pak tani melihat umpan <CLS> umpan jatuh di kolam air tenang <CLS> jangan lupa belajar di rumah <CLS> agar selalu mendapat nilai terbaik <CLS> 
+=== GENERATED SEQUENCE 626 ===
+ <SAMPIRAN> ke toko beli paku <CLS> tidak lupa membeli peti <CLS> meski kau sudah tersohor <CLS> janganlah lupa ayah ibunda <CLS> 
+=== GENERATED SEQUENCE 627 ===
+ <SAMPIRAN> jalan jalan ke sungai asahan <CLS> dari kediri pake papan <CLS> jangan kau harap kau pergi <CLS> wahai negera yang indah <CLS> 
+=== GENERATED SEQUENCE 628 ===
+ <SAMPIRAN> jalanjalan ke rumah nenek <CLS> pulangnya membeli kopi <CLS> meski aku tak punya uang <CLS> aku takkan mendua <CLS> 
+=== GENERATED SEQUENCE 629 ===
+ <SAMPIRAN> pergi ke pasar membeli kipas <CLS> kipasnya berwarna merah <CLS> malam minggu pergi nonton <CLS> bersama teman dan keluarga <CLS> 
+=== GENERATED SEQUENCE 630 ===
+ <SAMPIRAN> orang daik memacu kuda <CLS> kuda dipacu deras sekali <CLS> buat baik berpadapada <CLS> buat jahat jangan sekali <CLS> 
+=== GENERATED SEQUENCE 631 ===
+ <SAMPIRAN> banyak orang dari family <CLS> hanya bisa membeli di bali <CLS> bagaimana rasanya tidak sakit <CLS> melihat mantan di mana saja <CLS> 
+=== GENERATED SEQUENCE 632 ===
+ <SAMPIRAN> sungguh manis si buah pala <CLS> hendak dimakan dikala senja <CLS> selamat jalan ibu tercinta <CLS> selamat hari raya idul adha <CLS> 
+=== GENERATED SEQUENCE 633 ===
+ <SAMPIRAN> di <SAMPIRAN> ing rumah temanmu <CLS> disana ada pohon waru <CLS> bila kamu tak mencintai aku <CLS> maka kamu hanyalah milikmu <CLS> 
+=== GENERATED SEQUENCE 634 ===
+ <SAMPIRAN> di mana air mengalir <CLS> di atas lantai ada air <CLS> di mana kaki pergi bekerja <CLS> di mana kaki berjalan kaki <CLS> 
+=== GENERATED SEQUENCE 635 ===
+ <SAMPIRAN> kain batik ukuran lebar <CLS> sedang dibuat di zaman raja <CLS> jangan hanya jadi pemimpin <CLS> tapi juga di dalam perjuangan <CLS> 
+=== GENERATED SEQUENCE 636 ===
+ <SAMPIRAN> sungguh luas danau toba <CLS> ada rusa di hutan <CLS> hormatilah ibu dan bapak guru <CLS> supaya kelak mendapat syafaat <CLS> 
+=== GENERATED SEQUENCE 637 ===
+ <SAMPIRAN> kalau tuan bawa keladi <CLS> bawakan juga si pucuk rebung <CLS> kalau tuan bijak bestari <CLS> apa binatang tanduk di hidung <CLS> 
+=== GENERATED SEQUENCE 638 ===
+ <SAMPIRAN> buah duku buah delima <CLS> cuci piring bawah jembatan <CLS> kalau aku boleh jujur <CLS> kamu tuh lagi sakit susah <CLS> 
+=== GENERATED SEQUENCE 639 ===
+ <SAMPIRAN> anak raja memakai kebaya <CLS> kebaya di pakai oleh anak bangsawan <CLS> kalau belajar tidak serius <CLS> menjadi pintar pun makin sulit <CLS> 
+=== GENERATED SEQUENCE 640 ===
+ <SAMPIRAN> kain perca di buat lipatan <CLS> untuk sapu halaman dan halaman <CLS> jangan lelah untuk mengejar <CLS> terus berusaha jangan menyerah <CLS> 
+=== GENERATED SEQUENCE 641 ===
+ <SAMPIRAN> burung pipit di atas dahan <CLS> <SAMPIRAN> ailah ia ke dalam kolam <CLS> ketika kecil rajin belajar <CLS> ketika besar senanglah diri <CLS> 
+=== GENERATED SEQUENCE 642 ===
+ <SAMPIRAN> di sana gunung di sini gunung <CLS> ditengahtengahnya danau toba <CLS> ke sana bingung ke situ bingung <CLS> lebih baik sekolah saja <CLS> 
+=== GENERATED SEQUENCE 643 ===
+ <SAMPIRAN> jalan jalan ke madura <CLS> pergilah anak ke kota <CLS> banyak orang yang suka <CLS> padahal dia cuma teman <CLS> 
+=== GENERATED SEQUENCE 644 ===
+ <SAMPIRAN> pergi ke hajatan biar dapat jenang <CLS> nikmati puasa ramadhan yg kedua <CLS> selamat berbuka kekasih hati <CLS> itulah obat rindu paling mujarab <CLS> 
+=== GENERATED SEQUENCE 645 ===
+ <SAMPIRAN> di bawah pohon rambutan <CLS> ada seorang pengen membeli buku <CLS> alangkah cantik namanya kamu <CLS> bila tak pernah bosan belajar <CLS> 
+=== GENERATED SEQUENCE 646 ===
+ <SAMPIRAN> dari mana datangnya lalat <CLS> dari kebun mencari daun suji <CLS> dari mana datangnya ilmu <CLS> dari belajar dengan tekun <CLS> 
+=== GENERATED SEQUENCE 647 ===
+ <SAMPIRAN> hari sabtu yang pertama <CLS> besok di operon day <CLS> walau kamu lagi malas <CLS> aku ndak mau sekolah lagi <CLS> 
+=== GENERATED SEQUENCE 648 ===
+ <SAMPIRAN> pergi tamasya ke jakarta <CLS> bertemu teman sebangkumu <CLS> tak perlu kau ragukan lagi <CLS> cintaku ini bukan cinta <CLS> 
+=== GENERATED SEQUENCE 649 ===
+ <SAMPIRAN> sungguh manis buah manggis <CLS> dimakan di tepi pantai <CLS> sungguh senang hatiku <CLS> main dengan anak yang suka <CLS> 
+=== GENERATED SEQUENCE 650 ===
+ <SAMPIRAN> pergi ke pasar membeli kerang <CLS> kerang dimakan di siang hari <CLS> kalau pandai berhitung <CLS> rajinrajinlah mengaji <CLS> 
+=== GENERATED SEQUENCE 651 ===
+ <SAMPIRAN> ke kota beli kain kaca <CLS> naik mobil sama si eja <CLS> sungguh malang nasibku <CLS> ibu yang jadi bini adik <CLS> 
+=== GENERATED SEQUENCE 652 ===
+ <SAMPIRAN> di bawah pohon karet <CLS> ada pohon karet dan rotan <CLS> selamat datang buatmu sayang <CLS> semoga selalu sehat selalu <CLS> 
+=== GENERATED SEQUENCE 653 ===
+ <SAMPIRAN> pohon kelapa tinggi menjulang <CLS> pohonnya tinggi menjulang teguh <CLS> murid rajin banyak ilmunya <CLS> murid malas banyak bohongnya <CLS> 
+=== GENERATED SEQUENCE 654 ===
+ <SAMPIRAN> ada monyet tidur dipanah <CLS> kakinya luka lalu terjun <CLS> kita bersama selama dalam penjara <CLS> kita bersama selama tidak dapat makan <CLS> 
+=== GENERATED SEQUENCE 655 ===
+ <SAMPIRAN> ke hutan mencari rotan <CLS> rotan di buat anyaman <CLS> terima kasih kalau sudah <CLS> untukmu orang yang selalu di hati <CLS> 
+=== GENERATED SEQUENCE 656 ===
+ <SAMPIRAN> di dalam karung ada sepuluh <CLS> ada enaknya orang hamil <CLS> aku pengen segera menikah <CLS> karna calonnya masih belum ada <CLS> 
+=== GENERATED SEQUENCE 657 ===
+ <SAMPIRAN> bunga melati harum mewangi <CLS> petik bunga di pagi hari <CLS> selagi bekerja setiap hari <CLS> kaki dan pikiran tak bisa lelah <CLS> 
+=== GENERATED SEQUENCE 658 ===
+ <SAMPIRAN> minum obat sakit mata <CLS> lupa maskeran <CLS> jangankan kau ajak aku <CLS> untuk menikahlah aku <CLS> 
+=== GENERATED SEQUENCE 659 ===
+ <SAMPIRAN> ambil kayu jadikan papan <CLS> untuk segera membabat <CLS> selamat hari senin buat kalian <CLS> selamat hari minggu buat kalian <CLS> 
+=== GENERATED SEQUENCE 660 ===
+ <SAMPIRAN> jalanjalan ke kota medan <CLS> jangan lupa membeli rambutan <CLS> selamat hari minggu sayang <CLS> semoga kesehatan selalu menyertaimu <CLS> 
+=== GENERATED SEQUENCE 661 ===
+ <SAMPIRAN> jika ada bunga melati <CLS> marilah kita meminum kopi <CLS> rajin belajar rajin membaca <CLS> itu pertanda anak yang pandai <CLS> 
+=== GENERATED SEQUENCE 662 ===
+ <SAMPIRAN> ambil kayu jadikan papan <CLS> kayu jadikan meja <CLS> apa gunanya jadi guru <CLS> jika tidak tulus mengabdi <CLS> 
+=== GENERATED SEQUENCE 663 ===
+ <SAMPIRAN> yang lagi makan ubi <CLS> itulah ayah mertuamu <CLS> alangkah bahagianya aku <CLS> jika besok kita bisa bertemu lagi <CLS> 
+=== GENERATED SEQUENCE 664 ===
+ <SAMPIRAN> pergi ke kebun tanam pepaya <CLS> pepaya dimakan bersama papa <CLS> hormati ibu dan bapak <CLS> agar hidup mendapat berkah <CLS> 
+=== GENERATED SEQUENCE 665 ===
+ <SAMPIRAN> beli nasi di warung pak jokowi <CLS> jalan di depan toko buku <CLS> sebelum ulang tahunmu <CLS> alangkah bahagianya aku <CLS> 
+=== GENERATED SEQUENCE 666 ===
+ <SAMPIRAN> ada apa tanda air di gelas <CLS> mata beling di piring <CLS> apa tanda ilmu yang tinggi <CLS> niscaya mulia pula pada orang tua <CLS> 
+=== GENERATED SEQUENCE 667 ===
+ <SAMPIRAN> orang daik memacu kuda <CLS> kuda dipacu deras sekali <CLS> buat baik berpadapada <CLS> buat jahat jangan sekali <CLS> 
+=== GENERATED SEQUENCE 668 ===
+ <SAMPIRAN> jalanjalan ke kota paris <CLS> beli sayur dan juga beras <CLS> sholat itu perintah tuhan <CLS> jika ingkar masuk neraka <CLS> 
+=== GENERATED SEQUENCE 669 ===
+ <SAMPIRAN> kalau ada sumur diladang <CLS> bolehlah kita menggosok gigi <CLS> kalau anda di warung padang <CLS> bolehkah kita ditraktir lagi <CLS> 
+=== GENERATED SEQUENCE 670 ===
+ <SAMPIRAN> jalanjalan ke kota jepara <CLS> tidak lupa membeli pepaya <CLS> kalau ingin lulus ujian <CLS> rajin belajar pantang menyerah <CLS> 
+=== GENERATED SEQUENCE 671 ===
+ <SAMPIRAN> hari minggu pergi ke pasar <CLS> beli sayur dan juga bawang <CLS> di sekolah jangan berkelahi <CLS> jika berkelahi pasti reda <CLS> 
+=== GENERATED SEQUENCE 672 ===
+ <SAMPIRAN> kalau ada sumur diladang <CLS> bolehlah kita menggosok gigi <CLS> kalau anda di warung padang <CLS> bolehkah kita ditraktir lagi <CLS> 
+=== GENERATED SEQUENCE 673 ===
+ <SAMPIRAN> jangan takut makan mentimun <CLS> mentimun itu banyak getah nya <CLS> jangan takut kehilangan dirimu <CLS> kekasihmu pasti akan banyak masalah <CLS> 
+=== GENERATED SEQUENCE 674 ===
+ <SAMPIRAN> anak dara datuk tinggi <CLS> buat gulai ikan pari <CLS> datuk tua tak ada gigi <CLS> sebab ikan harus berenang <CLS> 
+=== GENERATED SEQUENCE 675 ===
+ <SAMPIRAN> jalan ke cimanggis banyak batu <CLS> jalan ke jogja nempel banyak batu <CLS> jika kita rajin membaca <CLS> baca alquran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 676 ===
+ <SAMPIRAN> burung terbang memakai topi <CLS> terbang tinggi hinggapnya tinggi <CLS> padamu wahai guru yang kami cintai <CLS> selamat menjalankan hari fitri <CLS> 
+=== GENERATED SEQUENCE 677 ===
+ <SAMPIRAN> beli balon sebanyak lima <CLS> kaki tersandung menjadi luka <CLS> selamat menikmati hari rabu <CLS> untukmu wanita tercantik di dunia <CLS> 
+=== GENERATED SEQUENCE 678 ===
+ <SAMPIRAN> air tumpah ke hilir <CLS> hilir rakit dijaga oleh kapal <CLS> sudah lama tidak berjumpa <CLS> tapi dia kan selalu dalam hati <CLS> 
+=== GENERATED SEQUENCE 679 ===
+ <SAMPIRAN> ikan tuna bukan di tambak <CLS> jangan masuk ke dalam peti <CLS> usia muda jangan d a <CLS> nanti tua sesal tak sudah <CLS> 
+=== GENERATED SEQUENCE 680 ===
+ <SAMPIRAN> jika ingin mendulang cadas <CLS> jangan lupa palu baja <CLS> jika murid tumbuh cerdas <CLS> guru pun ikut bahagia <CLS> 
+=== GENERATED SEQUENCE 681 ===
+ <SAMPIRAN> sekarang hari selasa <CLS> tanggal delapan maret <CLS> kalau ortu kamu nyari menantu <CLS> aku siap jadi menantu dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 682 ===
+ <SAMPIRAN> pergi tamasya ke penangkaran <CLS> singgah sejenak di tepi pantai <CLS> jika ingin menjadi pintar <CLS> harus rajin belajar <CLS> 
+=== GENERATED SEQUENCE 683 ===
+ <SAMPIRAN> sekarang hari sabtu <CLS> tanggal sepuluh april <CLS> kalau cinta dan setia kau pegang teguh <CLS> maka hidupmu akan indah <CLS> 
+=== GENERATED SEQUENCE 684 ===
+ <SAMPIRAN> pergi ke pasar membeli madu <CLS> tak lupa juga membeli buah <CLS> wahai ayah dan ibu tercinta <CLS> dunia akhirat aku tempuh <CLS> 
+=== GENERATED SEQUENCE 685 ===
+ <SAMPIRAN> beli kentang dibuat rujak <CLS> biar mantap ditambah sambal <CLS> tidur terlentang tiada nyenyak <CLS> tidur tengkurap ada yang mengganjal <CLS> 
+=== GENERATED SEQUENCE 686 ===
+ <SAMPIRAN> air jeruk dalam kulkas <CLS> makan roti dengan keju <CLS> sekolah adalah perjuangan <CLS> untuk meraih masa depan <CLS> 
+=== GENERATED SEQUENCE 687 ===
+ <SAMPIRAN> kalau tuan bawa keladi <CLS> bawakan juga si pucuk rebung <CLS> kalau tuan bijak bestari <CLS> apa binatang tanduk di hidung <CLS> 
+=== GENERATED SEQUENCE 688 ===
+ <SAMPIRAN> hari libur pergi ke rumah <CLS> di sana lupa membeli donat <CLS> semangat kerja di hari senin <CLS> untuk keluarga di desa <CLS> 
+=== GENERATED SEQUENCE 689 ===
+ <SAMPIRAN> jalanjalan ke kota padang <CLS> singgah sebentar membeli urap <CLS> jika hati tidak paduka tuan <CLS> jangan <SAMPIRAN> ai merendahkan diri <CLS> 
+=== GENERATED SEQUENCE 690 ===
+ <SAMPIRAN> malam minggu pergi ke hutan <CLS> untuk bertemu rusa betina <CLS> jika anak telah belajar <CLS> hati senang hatinya pun senang <CLS> 
+=== GENERATED SEQUENCE 691 ===
+ <SAMPIRAN> hari raya memakai batik <CLS> batik dipakai di kepala <CLS> sekolah adalah perjuangan <CLS> untuk meraih masa depan <CLS> 
+=== GENERATED SEQUENCE 692 ===
+ <SAMPIRAN> makan roti minumnya susu <CLS> agar tak kehabisan wangi <CLS> jangan malu untuk bertanya <CLS> karena ilmu segunung <CLS> 
+=== GENERATED SEQUENCE 693 ===
+ <SAMPIRAN> bunga seroja bunga selasih <CLS> petik tujuh manikmanik <CLS> barang siapa yang suka sedekah <CLS> hidupnya pasti menjadi berkah <CLS> 
+=== GENERATED SEQUENCE 694 ===
+ <SAMPIRAN> naik delman lihat arahnya <CLS> membawa mobil dan mobil tukaran <CLS> di sekolah banyak teman <CLS> di rumah bacalah ulang <CLS> 
+=== GENERATED SEQUENCE 695 ===
+ <SAMPIRAN> anak ayam turun sepuluh <CLS> mati satu tinggal delapan <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> supaya engkau tidak ketinggalan <CLS> 
+=== GENERATED SEQUENCE 696 ===
+ <SAMPIRAN> pagipagi baca koran <CLS> semoga saja kamu jarang <CLS> janganlah suka memfitnah <CLS> fitnah itu amat kejam <CLS> 
+=== GENERATED SEQUENCE 697 ===
+ <SAMPIRAN> buah duku buah rambutan <CLS> cuci piring bawah jembatan <CLS> ada wanita cantik dan menawan <CLS> bolehkan aku bertamu <CLS> 
+=== GENERATED SEQUENCE 698 ===
+ <SAMPIRAN> jika ingin mendulang cadas <CLS> jangan lupa palu baja <CLS> jika murid tumbuh cerdas <CLS> guru pun ikut bahagia <CLS> 
+=== GENERATED SEQUENCE 699 ===
+ <SAMPIRAN> jalanjalan ke yogyakarta <CLS> bertemu dengan sahabat karib <CLS> jika kau ingin berteman <CLS> maka rajinlah belajar <CLS> 
+=== GENERATED SEQUENCE 700 ===
+ <SAMPIRAN> jalan jalan ke taman safari <CLS> hatihati karena tergoda <CLS> kalau tidak karena kita <CLS> hidup kita akan terasa indah <CLS> 
+=== GENERATED SEQUENCE 701 ===
+ <SAMPIRAN> jalan jalan ke kota solo <CLS> jgn lupa membeli celana <CLS> kalau kamu mau jadi pacarku <CLS> bilang saja aku cinta kamu <CLS> 
+=== GENERATED SEQUENCE 702 ===
+ <SAMPIRAN> pergi liburan memancing ikan <CLS> mereka datang saat fajar <CLS> kalau tidak jumpa dengan sembarang <CLS> pastikan untuk mengucap selamat <CLS> 
+=== GENERATED SEQUENCE 703 ===
+ <SAMPIRAN> malam hari main kulintang <CLS> ditemani sobat sobat tersayang <CLS> garagara bangun kesiangan <CLS> pulang sekolah malah ketemu kamu <CLS> 
+=== GENERATED SEQUENCE 704 ===
+ <SAMPIRAN> kalau keladi sudah ditanam <CLS> janganlah lagi meminta talas <CLS> kalau budi sudah ditanam <CLS> janganlah lagi meminta balas <CLS> 
+=== GENERATED SEQUENCE 705 ===
+ <SAMPIRAN> pohon jati kuat kayunya <CLS> pohon nyiur tinggi batangnya <CLS> murid rajin banyak ilmunya <CLS> murid malas banyak bohongnya <CLS> 
+=== GENERATED SEQUENCE 706 ===
+ <SAMPIRAN> dari mana datangnya wahyu <CLS> kepada nabi wahyu turun <CLS> dari mana datangnya ilmu <CLS> dari belajar dengan tekun <CLS> 
+=== GENERATED SEQUENCE 707 ===
+ <SAMPIRAN> jalanjalan ke pulau jawa <CLS> singgah sejenak di sibolga <CLS> ilmu allah sangatlah luas <CLS> belajar itu tak pernah usai <CLS> 
+=== GENERATED SEQUENCE 708 ===
+ <SAMPIRAN> jalanjalan ke pasar minggu <CLS> naik wahana <SAMPIRAN> ai lelah <CLS> jika ingin menjadi pintar <CLS> maka harus rajin belajar <CLS> 
+=== GENERATED SEQUENCE 709 ===
+ <SAMPIRAN> orang haji dari jeddah <CLS> buah kurma berlambaklambak <CLS> pekerjaan guru bukanlah mudah <CLS> bagai kerja menolak ombak <CLS> 
+=== GENERATED SEQUENCE 710 ===
+ <SAMPIRAN> minum jamu sambil berdiri <CLS> minum jamu sambil berdiri <CLS> kalau kamu mau pintar <CLS> rajinlah belajar <CLS> 
+=== GENERATED SEQUENCE 711 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 712 ===
+ <SAMPIRAN> saat memberi contoh <CLS> saat memberi contoh <CLS> moga berkahnya move on <CLS> tapi moga ndak bisa ketemu kamu <CLS> 
+=== GENERATED SEQUENCE 713 ===
+ <SAMPIRAN> lagi ngeliat doraemon <CLS> saat ngelempari gadget <CLS> pengennya sih langsung tertidur <CLS> tapi bayanganmu udah bisa berubah <CLS> 
+=== GENERATED SEQUENCE 714 ===
+ <SAMPIRAN> jika ada lalat di dahi <CLS> jangan kau ia campaki <CLS> jika ada umur panjang <CLS> semoga ia akan menyesal <CLS> 
+=== GENERATED SEQUENCE 715 ===
+ <SAMPIRAN> sekarang hari kamis <CLS> tanggal sebelas april <CLS> kalau ortu kamu nyari menantu <CLS> aku siap jadi menantunya <CLS> 
+=== GENERATED SEQUENCE 716 ===
+ <SAMPIRAN> kalau kita menebang jati <CLS> biar serpih tumbangnya jangan <CLS> kalau kita mencari ganti <CLS> biar lebih kurang jangan <CLS> 
+=== GENERATED SEQUENCE 717 ===
+ <SAMPIRAN> air mengalir ke hulu <CLS> air mengalir ke hilir <CLS> jika ingin hidup damai <CLS> jangan lupa beribadah <CLS> 
+=== GENERATED SEQUENCE 718 ===
+ <SAMPIRAN> pergi ke pasar membeli semangka <CLS> semangka dibeli di pasar raya <CLS> kalau ingin punya hati <CLS> carilah ilmu setinggitingginya <CLS> 
+=== GENERATED SEQUENCE 719 ===
+ <SAMPIRAN> ada orang maluku dijitak <CLS> dijitak sama orang batak <CLS> selama jantungku masih berdetak <CLS> cintaku tak akan luluh lantak <CLS> 
+=== GENERATED SEQUENCE 720 ===
+ <SAMPIRAN> anak ayam turun sembilan <CLS> mati satu tinggal delapan <CLS> ilmu boleh sedikit ketinggalan <CLS> tapi jangan <SAMPIRAN> ai putus harapan <CLS> 
+=== GENERATED SEQUENCE 721 ===
+ <SAMPIRAN> kalau kita tidak bersuluh <CLS> jangan takut membentang kajang <CLS> kalau kita tidak bermusuh <CLS> jangan takut membentang kajang <CLS> 
+=== GENERATED SEQUENCE 722 ===
+ <SAMPIRAN> air mengalir ke arungan <CLS> air sungai berkelok tak rata <CLS> kalau tidak ingin salah <CLS> ikutilah petunjuk guru <CLS> 
+=== GENERATED SEQUENCE 723 ===
+ <SAMPIRAN> bunga kenanga diatas kubur <CLS> pucuk sari pandan jawa <CLS> apa guna sombong dan takabur <CLS> rusak hati badan binasa <CLS> 
+=== GENERATED SEQUENCE 724 ===
+ <SAMPIRAN> hujan turun rintikrintik <CLS> duduk berdua di teras rumah <CLS> rajin belajar pangkal pandai <CLS> itulah kunci menuju ilmu <CLS> 
+=== GENERATED SEQUENCE 725 ===
+ <SAMPIRAN> ke rumah nenek untuk meminang <CLS> untuk pesta pernikahan <CLS> ilmu agama mari nusa kita <CLS> untuk bekal di dunia dan akhirat <CLS> 
+=== GENERATED SEQUENCE 726 ===
+ <SAMPIRAN> saat membeli koran <CLS> mereka di suruh membantu <CLS> jangan lupa ngeliat fotomu <CLS> aku kini punya seorang istri <CLS> 
+=== GENERATED SEQUENCE 727 ===
+ <SAMPIRAN> bunga cantik namanya seroja <CLS> hewan hewan lentik namanya rusa <CLS> jalanjalan pergi ke mana <CLS> bertemu kawan lama namanya syawal <CLS> 
+=== GENERATED SEQUENCE 728 ===
+ <SAMPIRAN> anak kucing mengejar tikus <CLS> tikus berlari terbiritbirit <CLS> anak sombong tidak bisa berdusta <CLS> tapi takabur pada yang lain <CLS> 
+=== GENERATED SEQUENCE 729 ===
+ <SAMPIRAN> jalanjalan ke pinggir empang <CLS> nemu sendok di pinggir empang <CLS> hati siapa tak bimbang <CLS> saya botak minta dikepang <CLS> 
+=== GENERATED SEQUENCE 730 ===
+ <SAMPIRAN> ke sekolah naik sepeda <CLS> bersama guru berenang <CLS> rajin membaca rajin belajar <CLS> agar jadi anak yang pintar <CLS> 
+=== GENERATED SEQUENCE 731 ===
+ <SAMPIRAN> ke pasar membeli kain <CLS> untuk kondangan di hari sabtu <CLS> jadi anak jangan pemarah <CLS> kalau pemarah tak berani diamdiam <CLS> 
+=== GENERATED SEQUENCE 732 ===
+ <SAMPIRAN> yang baru bangun tidur <CLS> langsung nganterin makan roti <CLS> sejak kamu masuk surga <CLS> sih selalu kangen kamu banget <CLS> 
+=== GENERATED SEQUENCE 733 ===
+ <SAMPIRAN> jika hendak kita makan petai <CLS> jangan lupa makan olehmuna <CLS> kalau ingin hidup damai <CLS> taat selalu perintah tuhan <CLS> 
+=== GENERATED SEQUENCE 734 ===
+ <SAMPIRAN> pergi ke pasar membeli durian <CLS> durian bagus kuning dan kuning <CLS> happy birthday wahai mama <CLS> semoga tetap selamat sentosa <CLS> 
+=== GENERATED SEQUENCE 735 ===
+ <SAMPIRAN> di <SAMPIRAN> ing kotak amal <CLS> di goyanggoyang <CLS> kamu itu idola yang aku sayang <CLS> karena kamu yang paling setia <CLS> 
+=== GENERATED SEQUENCE 736 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 737 ===
+ <SAMPIRAN> ada yang bertanya <CLS> kenapa dia di tangkap pol <CLS> kalau nanti kita berjodoh <CLS> aku jadi kalau kau bisa membuatku kecewa <CLS> 
+=== GENERATED SEQUENCE 738 ===
+ <SAMPIRAN> sekarang hari kamis <CLS> tanggal satu januari <CLS> untuk apa kamu bersedih <CLS> aku minta maaf yang lebih utama <CLS> 
+=== GENERATED SEQUENCE 739 ===
+ <SAMPIRAN> pergi ke pasar naik onta <CLS> membeli anting intan permata <CLS> gak peduli situ udah tua <CLS> yang penting saling mencinta <CLS> 
+=== GENERATED SEQUENCE 740 ===
+ <SAMPIRAN> beli penggaris dari mika <CLS> cicak menatap hati merenung <CLS> kemana yang kamu suka <CLS> liburan ke pantai atau gunung <CLS> 
+=== GENERATED SEQUENCE 741 ===
+ <SAMPIRAN> sungguh indah si bunga melati <CLS> tumbuh subur di taman kota <CLS> ada banyak gadis cantik <CLS> cuma kamu yang aku cinta <CLS> 
+=== GENERATED SEQUENCE 742 ===
+ <SAMPIRAN> yang itu bensin <CLS> itu kompor gas <CLS> kamu itu emang curang <CLS> sayangnya kamu udah punya pacar <CLS> 
+=== GENERATED SEQUENCE 743 ===
+ <SAMPIRAN> jalanjalan ke kota blitar <CLS> jangan lupa membeli sukun <CLS> jika kamu ingin pintar <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 744 ===
+ <SAMPIRAN> jalanjalan ke rawarawa <CLS> untuk melihat buaya <CLS> jika engkau tidak mau mandi <CLS> harus belajar sepanjang hari <CLS> 
+=== GENERATED SEQUENCE 745 ===
+ <SAMPIRAN> sungguh indah kota mekah <CLS> kota tua banyak berkah <CLS> kepada allah kita mendoakan <CLS> agar ibu bapak diberi kebahagiaan <CLS> 
+=== GENERATED SEQUENCE 746 ===
+ <SAMPIRAN> pergi ke sawah mencari bekal <CLS> nasi masak di dalam peti <CLS> jangan suka berkeluh kesah <CLS> akan ku beri tanda diri <CLS> 
+=== GENERATED SEQUENCE 747 ===
+ <SAMPIRAN> ke hulu membuat pagar <CLS> jangan terpotong batang durian <CLS> cari guru tempat belajar <CLS> supaya jangan sesal kemudian <CLS> 
+=== GENERATED SEQUENCE 748 ===
+ <SAMPIRAN> anak bayi belum bergigi <CLS> tapi bisa makan ketupat <CLS> konsumsilah makanan bergizi <CLS> agar tubuh menjadi sehat <CLS> 
+=== GENERATED SEQUENCE 749 ===
+ <SAMPIRAN> di sini kosong di sana kosong <CLS> hanya ada di surabaya <CLS> di sini kosong di sini kosong <CLS> hanya ada di surabaya <CLS> 
+=== GENERATED SEQUENCE 750 ===
+ <SAMPIRAN> sungguh manis rasanya gula <CLS> gula di buang di sungai <CLS> di waktu kecil rajin belajar <CLS> akan pandai di waktu besar <CLS> 
+=== GENERATED SEQUENCE 751 ===
+ <SAMPIRAN> lagi asyik ngopi <CLS> ngopi sambil nwitangku <CLS> sayang met bobok <CLS> mimpiin aku aja aku pake sayang <CLS> 
+=== GENERATED SEQUENCE 752 ===
+ <SAMPIRAN> hujan gerimis deraslah amat <CLS> pohon ilalang dipinggir kali <CLS> aku ingin sekali berkenalan <CLS> namun ibu mu suka sukanya <CLS> 
+=== GENERATED SEQUENCE 753 ===
+ <SAMPIRAN> ikan cupang dalam jengkal <CLS> ikan lohan <CLS> adik manis abang ganteng <CLS> neng d ni aku mulu <CLS> 
+=== GENERATED SEQUENCE 754 ===
+ <SAMPIRAN> minum kopi sambil baca koran <CLS> sambil menunggu ibu pergi <CLS> kalau kamu lagi rindu <CLS> cepatlah pergi makan <CLS> 
+=== GENERATED SEQUENCE 755 ===
+ <SAMPIRAN> burung camar di tepi pantai <CLS> pantai indah banyak ombaknya <CLS> jadilah kamu anak yang pandai <CLS> sudah pasti banyak temannya <CLS> 
+=== GENERATED SEQUENCE 756 ===
+ <SAMPIRAN> orangorang dahulu hidup di goa <CLS> biawak hidup di dalam rawa <CLS> ikuti perintah orang tua <CLS> tiap solat tak lupa berdoa <CLS> 
+=== GENERATED SEQUENCE 757 ===
+ <SAMPIRAN> sebelum tidur pasang kelambu <CLS> jangan lupa menggosok gigi <CLS> sebelum tidur pasang kelambu <CLS> sebelum tidur pasang kelambu <CLS> 
+=== GENERATED SEQUENCE 758 ===
+ <SAMPIRAN> beli obat sakit mata <CLS> dapat bonus sapi <CLS> kamu harus berani <CLS> untuk melamar dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 759 ===
+ <SAMPIRAN> anak pak budi dorong <CLS> ayam jantan tidak berkotek <CLS> bangun pagi sembahyang subuh <CLS> minta ampun kepada tuhan <CLS> 
+=== GENERATED SEQUENCE 760 ===
+ <SAMPIRAN> kalau tuan pergi ke tuban <CLS> jangan lupa singgah di mushala <CLS> bolehlah tuan menjadi batu <CLS> kayu dimakan tuan raja <CLS> 
+=== GENERATED SEQUENCE 761 ===
+ <SAMPIRAN> jalanjalan ke kota paris <CLS> banyak rumah berbarisbaris <CLS> biar mati diujung keris <CLS> asal dapat dinda yang manis <CLS> 
+=== GENERATED SEQUENCE 762 ===
+ <SAMPIRAN> air panas dari talang <CLS> air mendidih terkena parang <CLS> kepada ibu guru aku doakan <CLS> agar cepat dipertemukan <CLS> 
+=== GENERATED SEQUENCE 763 ===
+ <SAMPIRAN> beli nasi di warung pak burhan <CLS> nasi enak ditambah ikan arwana <CLS> hati senang hati untuk pulang <CLS> karena selalu ke kota untuk menyapa <CLS> 
+=== GENERATED SEQUENCE 764 ===
+ <SAMPIRAN> beli telur di warung mpok ria <CLS> telurnya banyak bisa di buang <CLS> sayang met makan sahur <CLS> jangan lupa sholat isya dulu <CLS> 
+=== GENERATED SEQUENCE 765 ===
+ <SAMPIRAN> ikan tuna bukan di tambak <CLS> jangan masuk ke dalam peti <CLS> meski banyak yang bilang susah <CLS> karena buku jendela dunia <CLS> 
+=== GENERATED SEQUENCE 766 ===
+ <SAMPIRAN> ke pasar raya naik sepeda <CLS> naik sepeda keliling kota <CLS> jangan bosan dengan hidup <CLS> karena cintaku kepadamu sangat besar <CLS> 
+=== GENERATED SEQUENCE 767 ===
+ <SAMPIRAN> di bawah pohon karet <CLS> ada dua anak penjual lumpia <CLS> sejak aku mulai berdisko <CLS> aku tak pernah lagi ngerasain pacarmu <CLS> 
+=== GENERATED SEQUENCE 768 ===
+ <SAMPIRAN> orang pergi ke kota <CLS> banyak yang suka menyusuri <CLS> jangan mudahberani menyerah <CLS> jika ingin mati di depan mata <CLS> 
+=== GENERATED SEQUENCE 769 ===
+ <SAMPIRAN> kalau ingin makan kelapa <CLS> jangan lupa makan <CLS> kalau ingin dapat juara <CLS> belajarlah dan jangan menyerah <CLS> 
+=== GENERATED SEQUENCE 770 ===
+ <SAMPIRAN> sekarang hari senin <CLS> ramadhan ke enam belas <CLS> untuk apa kamu ragu <CLS> jika nanti bisa ketemu kamu <CLS> 
+=== GENERATED SEQUENCE 771 ===
+ <SAMPIRAN> di <SAMPIRAN> ing gunung jati <CLS> di gunung jati banyak batu <CLS> ayo kawan selagi muda <CLS> kita berlomba mencari ilmu <CLS> 
+=== GENERATED SEQUENCE 772 ===
+ <SAMPIRAN> hari senja suasana riang <CLS> ketika malam mulai sepi <CLS> jika sudah siap <CLS> carilah ilmu bermanfaat <CLS> 
+=== GENERATED SEQUENCE 773 ===
+ <SAMPIRAN> bunga melati bunga selasih <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 774 ===
+ <SAMPIRAN> hari panas jangan ke laut <CLS> kalau ke laut kapal terhalang <CLS> hati panas jangan diturut <CLS> kalau diturut akal pun hilang <CLS> 
+=== GENERATED SEQUENCE 775 ===
+ <SAMPIRAN> jangan suka makan mentimun <CLS> mentimun itu banyak getah nya <CLS> jangan suka banyak melamun <CLS> melamun itu tiada gunanya <CLS> 
+=== GENERATED SEQUENCE 776 ===
+ <SAMPIRAN> anak kecil suka permen <CLS> manisan buatan bapak buah duku <CLS> untukmu guru yang terhormat <CLS> semoga engkau sehat selalu <CLS> 
+=== GENERATED SEQUENCE 777 ===
+ <SAMPIRAN> ke pulau jawa bertemu kancil <CLS> putarputar di trengganu <CLS> pada teman banyak rezeki <CLS> itulah tanda murid yang budiman <CLS> 
+=== GENERATED SEQUENCE 778 ===
+ <SAMPIRAN> kain batik banyak sekodi <CLS> perca tersimpan di dalam goni <CLS> turun ke sawah menanam padi <CLS> bermain lumpur seperti petani <CLS> 
+=== GENERATED SEQUENCE 779 ===
+ <SAMPIRAN> buah jambu buah semangka <CLS> d mpan didalam lumbung padi <CLS> sungguh indah sebuah bunga <CLS> bukan hanya d mpan didalam lumbung padi <CLS> 
+=== GENERATED SEQUENCE 780 ===
+ <SAMPIRAN> jalan jalan ke cilacap <CLS> ke jakarta beli cijayanti <CLS> gamau pacaran lamalama <CLS> yang penting kamu religius <CLS> 
+=== GENERATED SEQUENCE 781 ===
+ <SAMPIRAN> kalau tuan ke jakarta <CLS> singgah sejenak di tanggerang <CLS> kalau tuan bijak bestari <CLS> apa binatang tanduk di hidung <CLS> 
+=== GENERATED SEQUENCE 782 ===
+ <SAMPIRAN> pergi ke hutan cari rusa <CLS> hendaklah kau bawa tali <CLS> wahai negeriku indonesia <CLS> sahurnya indonesia damai <CLS> 
+=== GENERATED SEQUENCE 783 ===
+ <SAMPIRAN> yang di ruang tamu <CLS> lagi ngomongin adikmu <CLS> aku selalu di dalam mimpimu <CLS> jangan pernah bikin aku rindu <CLS> 
+=== GENERATED SEQUENCE 784 ===
+ <SAMPIRAN> ada anak kecil bermain batu <CLS> batu dilempar masuk ke sumur <CLS> adakah sibunga merasa nyaman <CLS> mari kita teruskan di pelaminan <CLS> 
+=== GENERATED SEQUENCE 785 ===
+ <SAMPIRAN> jika kamu mau melamar <CLS> jangan banyak tulis dihapus <CLS> jika siswa rajin belajar <CLS> sudah tentu pasti lulus <CLS> 
+=== GENERATED SEQUENCE 786 ===
+ <SAMPIRAN> kalau kita menebang jati <CLS> biar serpih tumbangnya jangan <CLS> kalau kita mencari ganti <CLS> biar lebih kurang jangan <CLS> 
+=== GENERATED SEQUENCE 787 ===
+ <SAMPIRAN> orang dahulu hidup di goa <CLS> biawak hidup di dalam rawa <CLS> ikuti perintah orang tua <CLS> tiap solat tak lupa berdoa <CLS> 
+=== GENERATED SEQUENCE 788 ===
+ <SAMPIRAN> jika bulan merindukan mentari <CLS> tentu malam akan rindu siang <CLS> jika hati cinta ilahi <CLS> tentu dirinya akan merasa tenang <CLS> 
+=== GENERATED SEQUENCE 789 ===
+ <SAMPIRAN> buah budi bedara mengkal <CLS> masak sebiji di tepi pantai <CLS> hilang budi bicara akal <CLS> buah apa yang tidak bertangkai <CLS> 
+=== GENERATED SEQUENCE 790 ===
+ <SAMPIRAN> saat membeli tinta <CLS> ada yang ngajak ketemu <CLS> aku emang jelek <CLS> tapi aku udah kangen kamu banget <CLS> 
+=== GENERATED SEQUENCE 791 ===
+ <SAMPIRAN> ambil kayu jadikan meja <CLS> untuk dibawa ke batanghari <CLS> selamat malam aku ucapkan <CLS> untukmu kekasih hati <CLS> 
+=== GENERATED SEQUENCE 792 ===
+ <SAMPIRAN> ikan belanak dimasak kari <CLS> enak disantap pakai acar <CLS> kalau ingin bahagia dalam berumah tangga <CLS> yang penting kan beribadah <CLS> 
+=== GENERATED SEQUENCE 793 ===
+ <SAMPIRAN> pergi ke pasar membeli pasak <CLS> tali anyaman dari anyaman <CLS> meski kita terpisah jarak <CLS> tapi kau kan selalu kujaga <CLS> 
+=== GENERATED SEQUENCE 794 ===
+ <SAMPIRAN> anak lakilaki lahir batin <CLS> batin tenang bagaikan cincin <CLS> hidup mati pada saat ukhuwah <CLS> mati pula di tangan tuhan <CLS> 
+=== GENERATED SEQUENCE 795 ===
+ <SAMPIRAN> jika tidak ada kawat <CLS> jangan pernah d mpan <CLS> apabila engkau tak ada sekolah <CLS> jangan d mpan <SAMPIRAN> ai putus harapan <CLS> 
+=== GENERATED SEQUENCE 796 ===
+ <SAMPIRAN> pagi hari makan soto <CLS> sambil ngopi babat <CLS> ganteng sih kamu tampan <CLS> tapi sayang pacarmu hobinya bohong <CLS> 
+=== GENERATED SEQUENCE 797 ===
+ <SAMPIRAN> sekarang hari minggu <CLS> ramadhan ke duapuluhlima <CLS> aku pengen ngeliat kamu mulu <CLS> makan sahur sama dia <CLS> 
+=== GENERATED SEQUENCE 798 ===
+ <SAMPIRAN> buah duku buah rambutan <CLS> cuci piring bawah jembatan <CLS> semoga tetap selamat sentosa <CLS> di hari sabtu yang cerah ini <CLS> 
+=== GENERATED SEQUENCE 799 ===
+ <SAMPIRAN> sungguh enak sayur buncis <CLS> dipulam bulat si buah pete <CLS> banyak baca banyak tahu <CLS> sedikit tentang perasaan <CLS> 
+=== GENERATED SEQUENCE 800 ===
+ <SAMPIRAN> jalanjalan ke bukittinggi <CLS> jangan lupa membeli ceri <CLS> jika kalian hendak citacita <CLS> mulailah belajar dengan tekun <CLS> 
+=== GENERATED SEQUENCE 801 ===
+ <SAMPIRAN> kalau harimau sedang mengaum <CLS> bunyinya sangat berirama <CLS> kalau ada ulangan umum <CLS> marilah kita belajar bersama <CLS> 
+=== GENERATED SEQUENCE 802 ===
+ <SAMPIRAN> pohon jati kuat kayunya <CLS> pohon nyiur tinggi batangnya <CLS> murid rajin banyak ilmunya <CLS> murid malas banyak bohongnya <CLS> 
+=== GENERATED SEQUENCE 803 ===
+ <SAMPIRAN> buah duku buah rambutan <CLS> cuci piring bawah jembatan <CLS> entah jodoh ataupun bukan <CLS> mari kita semua sehat selalu <CLS> 
+=== GENERATED SEQUENCE 804 ===
+ <SAMPIRAN> jangan suka bermain kaca <CLS> nanti tangan bisa terluka <CLS> jangan suka bermain kaca <CLS> nanti tubuh jadi rusak <CLS> 
+=== GENERATED SEQUENCE 805 ===
+ <SAMPIRAN> pergi ke toko beli tempe <CLS> tempe di beli di toko bagusnya <CLS> kamu jangan sok pintar <CLS> orang pemalas suka bercanda <CLS> 
+=== GENERATED SEQUENCE 806 ===
+ <SAMPIRAN> pergi ke danau untuk mandi <CLS> karena air tidak akan mati <CLS> cari ilmu harus beradab <CLS> niscaya hidupmu akan mendapat faedah <CLS> 
+=== GENERATED SEQUENCE 807 ===
+ <SAMPIRAN> anak ayam turun sepuluh <CLS> mati satu tinggal sembilan <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> supaya engkau tidak ketinggalan <CLS> 
+=== GENERATED SEQUENCE 808 ===
+ <SAMPIRAN> di pagi hari pergi ke sawah <CLS> mencari kayu untuk membuat bata <CLS> selamat ulang tahun di hari yang baru <CLS> semoga panjang umur dan sehat selalu <CLS> 
+=== GENERATED SEQUENCE 809 ===
+ <SAMPIRAN> jalanjalan ke kota paris <CLS> tidak lupa membeli tomat <CLS> siapa yang mengaku cinta nabi <CLS> tentu perintahnya ditaati <CLS> 
+=== GENERATED SEQUENCE 810 ===
+ <SAMPIRAN> ke pasar membeli madu <CLS> banyak juga menjual ikan <CLS> selamat ulang tahun sayang <CLS> semoga sehat selalu menyertaimu <CLS> 
+=== GENERATED SEQUENCE 811 ===
+ <SAMPIRAN> banyak burung di dalam sangkar <CLS> sangkar dibuat dari bambu <CLS> kalau kita udah halal <CLS> ayo muslimin untuk semua <CLS> 
+=== GENERATED SEQUENCE 812 ===
+ <SAMPIRAN> sekarang hari kamis <CLS> ramadhan ke tiga belas <CLS> bila ketemu kamu dalam mimpi <CLS> bagiku itu hanya selingkuhan <CLS> 
+=== GENERATED SEQUENCE 813 ===
+ <SAMPIRAN> ambil mesin pergi membabat <CLS> rumput dipagari semak belukar <CLS> belajar rajin di waktu kecil <CLS> akan bahagia di masa tua <CLS> 
+=== GENERATED SEQUENCE 814 ===
+ <SAMPIRAN> saat mengambil getah karet <CLS> dia sedang memegang lilin <CLS> kamu udah tak lagi yang aku kangen <CLS> tapi ingatlah dulu darimu <CLS> 
+=== GENERATED SEQUENCE 815 ===
+ <SAMPIRAN> makan roti ditambah selai <CLS> roti tawar tak ada nya <CLS> jangan <SAMPIRAN> ai terlalu lama <CLS> nanti pacarnya pasti hilang <CLS> 
+=== GENERATED SEQUENCE 816 ===
+ <SAMPIRAN> ada orang maluku dijitak <CLS> dijitak sama orang batak <CLS> selama jantungku masih berdetak <CLS> cintaku tak akan luluh lantak <CLS> 
+=== GENERATED SEQUENCE 817 ===
+ <SAMPIRAN> di atas meja banyak ikan <CLS> ikan berenang di atas papan <CLS> walaupun kita udah berpisah <CLS> hati tetap hanya bisa bertemu <CLS> 
+=== GENERATED SEQUENCE 818 ===
+ <SAMPIRAN> pulang sekolah pakai dasi <CLS> jangan lupa pakai topi <CLS> wahai wanita cantik <CLS> bolehkah aku bertanya <CLS> 
+=== GENERATED SEQUENCE 819 ===
+ <SAMPIRAN> pohon selasih tumbuh melata <CLS> tumbuh perdu jauh disana <CLS> sepasang kekasih mabuk bercinta <CLS> siang merindu malam merana <CLS> 
+=== GENERATED SEQUENCE 820 ===
+ <SAMPIRAN> burung gagak turun ke rawa <CLS> naik ke atas dan bertemu rusa <CLS> sudah lama tiada bertemu <CLS> kini jadi makin semangat <CLS> 
+=== GENERATED SEQUENCE 821 ===
+ <SAMPIRAN> anak smp bermain batu <CLS> batu dilempar satu persatu <CLS> ayo kawan selagi muda <CLS> supaya baik jangan diturut <CLS> 
+=== GENERATED SEQUENCE 822 ===
+ <SAMPIRAN> dari mana datangnya lalat <CLS> dari kebun turun ke selokan <CLS> hari minggu cuma nonton tipi <CLS> karena rindumu kian membara <CLS> 
+=== GENERATED SEQUENCE 823 ===
+ <SAMPIRAN> anak bangsawan menjahit tabir <CLS> sulam di tepi siku keluang <CLS> benci tuan cuma di bibir <CLS> dalam hati membara sayang <CLS> 
+=== GENERATED SEQUENCE 824 ===
+ <SAMPIRAN> banyak makanan di atas meja <CLS> makanan dimakan dengan garpu <CLS> banyak ilmu dan iman <CLS> serta iman yang kekal <CLS> 
+=== GENERATED SEQUENCE 825 ===
+ <SAMPIRAN> jalan jalan ke kota tua <CLS> pulangnya hari sudah senja <CLS> carilah ilmu seikhlas <CLS> bukan sekedar mencari ijazah <CLS> 
+=== GENERATED SEQUENCE 826 ===
+ <SAMPIRAN> pergi ke toko beli kain kaca <CLS> kena air kainnya basah <CLS> jangan lupa belajar <CLS> karena derita bumbu cinta <CLS> 
+=== GENERATED SEQUENCE 827 ===
+ <SAMPIRAN> pergi tamasya ke pekanbaru <CLS> singgah sejenak di tepi pantai <CLS> rabu indah malam minggu <CLS> setelah bangun pagi langsung pulang <CLS> 
+=== GENERATED SEQUENCE 828 ===
+ <SAMPIRAN> burung dara terbang melayang <CLS> hinggapnya di pucuk dedahanan <CLS> setiap kali ayah pulang <CLS> selalu saja ada makanan <CLS> 
+=== GENERATED SEQUENCE 829 ===
+ <SAMPIRAN> anak ayam turun delapan <CLS> mati seekor tinggallah tujuh <CLS> hidup harus penuh harapan <CLS> jadikan itu jalan yang dituju <CLS> 
+=== GENERATED SEQUENCE 830 ===
+ <SAMPIRAN> ke hulu membuat pagar <CLS> jangan terpotong batang durian <CLS> cari guru tempat belajar <CLS> supaya jangan sesal kemudian <CLS> 
+=== GENERATED SEQUENCE 831 ===
+ <SAMPIRAN> ambil setangkup bunga melati <CLS> hiasan rambut putri jelita <CLS> mari kita ke surga menanti <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 832 ===
+ <SAMPIRAN> anak gembala bermain layangan <CLS> layangan putus jatuh ke genteng <CLS> siang dan malam turun ke sawah <CLS> padi dibeli dari balik layar <CLS> 
+=== GENERATED SEQUENCE 833 ===
+ <SAMPIRAN> anak kancil warnanya merah <CLS> merah tua si ikan pari <CLS> hidup ini tak pernah jemu <CLS> ayah ibu selalulah baik <CLS> 
+=== GENERATED SEQUENCE 834 ===
+ <SAMPIRAN> buah nangka buah rambutan <CLS> d mpan didalam lumbung padi <CLS> pantas tercium bau menyengat <CLS> rupanya kau belum mandi <CLS> 
+=== GENERATED SEQUENCE 835 ===
+ <SAMPIRAN> ada ular makan tikus <CLS> tikusnya bau tikus <CLS> sayang ayang udah tua <CLS> ayang hidup dan bukan <CLS> 
+=== GENERATED SEQUENCE 836 ===
+ <SAMPIRAN> minum kopi sambil baca koran <CLS> setelah itu pergi ke kota <CLS> aku tersenyum malu sekali <CLS> ingat dahulu suka mengompol <CLS> 
+=== GENERATED SEQUENCE 837 ===
+ <SAMPIRAN> buah jambu dipetik <CLS> d mpan dan kami timbun <CLS> wahai anakku si cantik <CLS> segeralah engkau bangun <CLS> 
+=== GENERATED SEQUENCE 838 ===
+ <SAMPIRAN> pergi berburu <SAMPIRAN> ai ke sempadan <CLS> dapat kancil badan berjalur <CLS> biar badan tak berjalur <CLS> 
+=== GENERATED SEQUENCE 839 ===
+ <SAMPIRAN> kain batik banyak sekodi <CLS> perca tersimpan di dalam goni <CLS> turun ke sawah menanam padi <CLS> bermain lumpur seperti petani <CLS> 
+=== GENERATED SEQUENCE 840 ===
+ <SAMPIRAN> makan mie ayam campur sawi <CLS> ditambah dengan sayur nikmat <CLS> jadilah insan beradab <CLS> suka membantu kepada tetangga <CLS> 
+=== GENERATED SEQUENCE 841 ===
+ <SAMPIRAN> orang haji dari jeddah <CLS> buah kurma berlambaklambak <CLS> pekerjaan guru bukanlah mudah <CLS> bagai kerja menolak ombak <CLS> 
+=== GENERATED SEQUENCE 842 ===
+ <SAMPIRAN> saat membeli buku <CLS> dia memukulmukul meja <CLS> apalah artinya cinta <CLS> jika tidak kau akan pernah ada <CLS> 
+=== GENERATED SEQUENCE 843 ===
+ <SAMPIRAN> yang lagi main catur <CLS> katanya cuma mau bersatur <CLS> moga tuhan mengabulkan doaku <CLS> dan maafkan aku udah bisa menikah <CLS> 
+=== GENERATED SEQUENCE 844 ===
+ <SAMPIRAN> jalanjalan ke semarang <CLS> tidak lupa membeli pepaya <CLS> hati siapa tak bimbang <CLS> kamu botak minta dikepang <CLS> 
+=== GENERATED SEQUENCE 845 ===
+ <SAMPIRAN> naik gunung ke puncak pauh <CLS> melihat gajah mati tersengat <CLS> anak pintar dan serius <CLS> tentu tahu yang tahu itu <CLS> 
+=== GENERATED SEQUENCE 846 ===
+ <SAMPIRAN> minum kopi sambil baca koran <CLS> sambil nonton upin ipin <CLS> selamat selasa buat kalian semua <CLS> semoga senantiasa diberi keselamatan <CLS> 
+=== GENERATED SEQUENCE 847 ===
+ <SAMPIRAN> sekarang hari jumat <CLS> tanggal satu maret <CLS> kamu itu emang jahat <CLS> baperin aku tapi jadiannya dimanamana <CLS> 
+=== GENERATED SEQUENCE 848 ===
+ <SAMPIRAN> beli baju beli celana <CLS> beli celana beli pita <CLS> belajar jangan asalasalan <CLS> nanti lupa diri sendiri <CLS> 
+=== GENERATED SEQUENCE 849 ===
+ <SAMPIRAN> hujan turun rintikrintik <CLS> duduk di teras rumah <CLS> cantik sih kamu cantik <CLS> sayangnya kamu itu nunggu <CLS> 
+=== GENERATED SEQUENCE 850 ===
+ <SAMPIRAN> ambil paku dengan galah <CLS> galah oleh si burung garuda <CLS> maafkanlah aku ucapkan <CLS> karena aku merasa lebih bahagia <CLS> 
+=== GENERATED SEQUENCE 851 ===
+ <SAMPIRAN> dari tungkal kuala johor <CLS> kuala johor bayu <CLS> jangan panggil namaku <CLS> karena di belakangku aku terjatuh <CLS> 
+=== GENERATED SEQUENCE 852 ===
+ <SAMPIRAN> ada orang maluku dijitak <CLS> dijitak sama orang batak <CLS> selama jantungku masih berdetak <CLS> cintaku tak akan luluh lantak <CLS> 
+=== GENERATED SEQUENCE 853 ===
+ <SAMPIRAN> pergi jauh ke kota bogor <CLS> jangan lupa membeli nangka <CLS> kepada sahabat hatiku <CLS> semoga diberi rezeki yang barokah <CLS> 
+=== GENERATED SEQUENCE 854 ===
+ <SAMPIRAN> sekarang hari jumat <CLS> dua puluh sembilan juli <CLS> aku rela mati kecelakaan <CLS> asalkan kau tetap cinta <CLS> 
+=== GENERATED SEQUENCE 855 ===
+ <SAMPIRAN> jika ada jarum yang patah <CLS> jangan simpan dalam peti <CLS> jika ada kata yang salah <CLS> jangan simpan dalam hati <CLS> 
+=== GENERATED SEQUENCE 856 ===
+ <SAMPIRAN> jangan nembak itik <CLS> nanti kena hama penyakit <CLS> jangan ngaku kamu anak pramuka <CLS> <SAMPIRAN> ai mati terlambat sekolah <CLS> 
+=== GENERATED SEQUENCE 857 ===
+ <SAMPIRAN> hujan turun rintikrintik <CLS> melihat hiu pakai bikini <CLS> jangan suka mengeluh <CLS> karena di belakangku kamu terluka <CLS> 
+=== GENERATED SEQUENCE 858 ===
+ <SAMPIRAN> yang tadi mencaricari <CLS> disuruh nawarin makan sahur <CLS> kalau ntar kamu cinta <CLS> mimpiin kamu itu adalah mimpi favoritku <CLS> 
+=== GENERATED SEQUENCE 859 ===
+ <SAMPIRAN> orang dahulu hidup di goa <CLS> biawak hidup di dalam rawa <CLS> ikuti perintah orang tua <CLS> tiap solat tak lupa berdoa <CLS> 
+=== GENERATED SEQUENCE 860 ===
+ <SAMPIRAN> saat mengambil air kelapa <CLS> mereka tertawa terbahakbahak <CLS> walau hidup sederhana denganmu <CLS> tapi kalau kamu tak punya teman <CLS> 
+=== GENERATED SEQUENCE 861 ===
+ <SAMPIRAN> jangan pegang kayu yang rapuh <CLS> nanti kamu jatuh ke tanah <CLS> jangan pegang kayu yang rapuh <CLS> nanti kamu tak bisa bergerak <CLS> 
+=== GENERATED SEQUENCE 862 ===
+ <SAMPIRAN> sekarang hari selasa <CLS> tanggal empat belas <CLS> buat apa kamu bersedih <CLS> bila masih masuk neraka <CLS> 
+=== GENERATED SEQUENCE 863 ===
+ <SAMPIRAN> jalan ke kota makassar <CLS> di sana ada palangkaraya <CLS> gak ada yang punya <CLS> punya wanita cantik tapi cantik <CLS> 
+=== GENERATED SEQUENCE 864 ===
+ <SAMPIRAN> pohon ara dibuat gubuk <CLS> pasang pasak biar tegak <CLS> resiko asmara dunia facebook <CLS> cinta ditolak blokir bertindak <CLS> 
+=== GENERATED SEQUENCE 865 ===
+ <SAMPIRAN> ambil bambu jadikan papan <CLS> bambu jadikan jembatan <CLS> walau jarak membentang jauh <CLS> kenangan bersama ayah tak pernah pudar <CLS> 
+=== GENERATED SEQUENCE 866 ===
+ <SAMPIRAN> pohon jati kuat kayunya <CLS> pohon nyiur tinggi batangnya <CLS> murid rajin banyak ilmunya <CLS> murid malas banyak bohongnya <CLS> 
+=== GENERATED SEQUENCE 867 ===
+ <SAMPIRAN> malam minggu bermain kulintang <CLS> ditemani sobat sobat tersayang <CLS> ketika malam minggu pergi membabat <CLS> setelah itu mencuci baju <CLS> 
+=== GENERATED SEQUENCE 868 ===
+ <SAMPIRAN> kain batik banyak sekodi <CLS> perca tersimpan di dalam goni <CLS> perca tersimpan di dalam goni <CLS> perca tersimpan di dalam hati <CLS> 
+=== GENERATED SEQUENCE 869 ===
+ <SAMPIRAN> dari mana hendak kemana <CLS> dari kebun turun ke rawa <CLS> dari mana datangnya tenang <CLS> coba jelaskan kalau kau tahu <CLS> 
+=== GENERATED SEQUENCE 870 ===
+ <SAMPIRAN> jika kamu membeli panci <CLS> jangan lupa membeli papan <CLS> kalau kamu udah cinta <CLS> jangan lupa belajar dan berlatih <CLS> 
+=== GENERATED SEQUENCE 871 ===
+ <SAMPIRAN> jika hendak kamu melamar <CLS> jangan banyak tulis dihapus <CLS> jika siswa rajin belajar <CLS> sudah tentu pasti lulus <CLS> 
+=== GENERATED SEQUENCE 872 ===
+ <SAMPIRAN> ada pohon di palembayan <CLS> sedang dibangun di kota palembayan <CLS> selamat hari kamis buat kalian <CLS> orang yang selalu aku cintai <CLS> 
+=== GENERATED SEQUENCE 873 ===
+ <SAMPIRAN> sungguh indah bunga cempaka <CLS> tumbuh dekat bunga kamboja <CLS> aku berharap pada seorang guru <CLS> karena itu akan menjadi persiapan diri <CLS> 
+=== GENERATED SEQUENCE 874 ===
+ <SAMPIRAN> beli obat sakit mata <CLS> pulangnya ke indonesia <CLS> boleh aja galau karna cinta <CLS> tapi ingatlah tentang kekasihmu tercinta <CLS> 
+=== GENERATED SEQUENCE 875 ===
+ <SAMPIRAN> kalau hendak pergi ke jawa <CLS> harus lupa bekal di pagi hari <CLS> kalau ingin naik kelas empat <CLS> kerjakan tugas guru nya <CLS> 
+=== GENERATED SEQUENCE 876 ===
+ <SAMPIRAN> makan nasi goreng dengan ikan lele <CLS> ikan belut enak rasanya <CLS> hari libur tetap bekerja <CLS> dapat bonus ambilnya di irak <CLS> 
+=== GENERATED SEQUENCE 877 ===
+ <SAMPIRAN> pergi ke pasar membeli semangka <CLS> semangka dibeli di pasar pagi <CLS> jangan ragu jangan bimbang <CLS> cintaku untukmu masih utuh <CLS> 
+=== GENERATED SEQUENCE 878 ===
+ <SAMPIRAN> ke pasar minggu bareng pacar <CLS> pergi bersama pacar lama <CLS> kita bertemu dengan yang baru <CLS> jangan <SAMPIRAN> ai ngiler bareng pacar baru <CLS> 
+=== GENERATED SEQUENCE 879 ===
+ <SAMPIRAN> hujan turun rintikrintik <CLS> duduk beralas daun keladi <CLS> aku mencintai kamu <CLS> karena aku cinta kepadamu <CLS> 
+=== GENERATED SEQUENCE 880 ===
+ <SAMPIRAN> pulang dari surabaya <CLS> mampir ke rumah teman <CLS> aku suka sama si kumis <CLS> yang pandai membuat sapu lidi <CLS> 
+=== GENERATED SEQUENCE 881 ===
+ <SAMPIRAN> ke sekolah naik sepeda <CLS> kayuh kencang di jalanan <CLS> jangan <SAMPIRAN> ai lelah <CLS> sekolah tetap semangat <CLS> 
+=== GENERATED SEQUENCE 882 ===
+ <SAMPIRAN> pergi ke medan membeli ulos <CLS> membeli ulos penuh bergambar <CLS> anak sekolah jangan membolos <CLS> jika membolos tak jadi pintar <CLS> 
+=== GENERATED SEQUENCE 883 ===
+ <SAMPIRAN> jangan kau suka merayu <CLS> wajahmu emang cantik <CLS> kaulah pahlawan dalam perjuangan <CLS> karena pahlawan yang tetap setia <CLS> 
+=== GENERATED SEQUENCE 884 ===
+ <SAMPIRAN> sungguhlah besar taman seri mahkota <CLS> tempat bermain bidadari lela utama <CLS> sungguhlah benar bagi orang yang takwa <CLS> tempat duduk terbaik untuk orang yang takwa <CLS> 
+=== GENERATED SEQUENCE 885 ===
+ <SAMPIRAN> burung bangau burung kutilang <CLS> terbang tinggi hinggapnya di bukit <CLS> jika memang tak pandai bicara <CLS> buah apa yang bijinya tidak berdaging <CLS> 
+=== GENERATED SEQUENCE 886 ===
+ <SAMPIRAN> yang lagi sakit mata <CLS> matanya lentiktempet <CLS> untuk apa bersedih hati <CLS> yang pernah lama tidak berjumpa <CLS> 
+=== GENERATED SEQUENCE 887 ===
+ <SAMPIRAN> jalan kaki ke kota solo <CLS> jangan lupa ngajak kepang <CLS> wahai adikadik yang cantik <CLS> bolehkah aku kenalan <CLS> 
+=== GENERATED SEQUENCE 888 ===
+ <SAMPIRAN> jangan remehkan burung hantu <CLS> sebab burung pun bisa masuk ke rawa <CLS> janganlah sombong jika berilmu <CLS> sebab hal itu tidaklah baik <CLS> 
+=== GENERATED SEQUENCE 889 ===
+ <SAMPIRAN> sungguh indah pintu dipahat <CLS> burung puyuh diatas dahan <CLS> rajin belajar pangkal pandai <CLS> itulah kunci dalam kehidupan <CLS> 
+=== GENERATED SEQUENCE 890 ===
+ <SAMPIRAN> saat membeli buku <CLS> mobilnya ditarik kuda <CLS> buat calon jodohku <CLS> rinduku dalam hatiku <CLS> 
+=== GENERATED SEQUENCE 891 ===
+ <SAMPIRAN> kalau ada sumur di ladang <CLS> boleh saya menumpang mandi <CLS> kalau ada umur yang panjang <CLS> boleh kita berjumpa lagi <CLS> 
+=== GENERATED SEQUENCE 892 ===
+ <SAMPIRAN> jangan lupa menggosok gigi <CLS> sikat giginya bisa dicabut <CLS> rajinlah menabung dan rajin menabung <CLS> agar kelak dapat masuk surga <CLS> 
+=== GENERATED SEQUENCE 893 ===
+ <SAMPIRAN> pagipagi minumnya jamu <CLS> untuk adik dan tetangga <CLS> jangan hanya lihat kamu sedang tertidur <CLS> aku jadikan sebagai teman setiaku <CLS> 
+=== GENERATED SEQUENCE 894 ===
+ <SAMPIRAN> naik delman ditarik kuda <CLS> melewati desa dan rawarawa <CLS> gayanya aja kayak orang kaya <CLS> tapi dompetnya kagak ber <CLS> 
+=== GENERATED SEQUENCE 895 ===
+ <SAMPIRAN> jalan raya banyak rambu <CLS> rambu dan tatakan sudah tentu <CLS> kalau ilmu hendak didapat <CLS> kepada guru mestilah hormat <CLS> 
+=== GENERATED SEQUENCE 896 ===
+ <SAMPIRAN> ada orang maluku dijitak <CLS> dijitak sama orang batak <CLS> selama jantungku masih berdetak <CLS> cintaku tak akan luluh lantak <CLS> 
+=== GENERATED SEQUENCE 897 ===
+ <SAMPIRAN> beli telur di pasar pagi <CLS> burung mati masuk ke ruang <CLS> anak baik suka berbagi <CLS> orang pintar tampang saja <CLS> 
+=== GENERATED SEQUENCE 898 ===
+ <SAMPIRAN> hari minggu pergi ke pasar <CLS> untuk membeli gulali <CLS> di jalan yang berliku <CLS> kamu bertemu dengan yang manis <CLS> 
+=== GENERATED SEQUENCE 899 ===
+ <SAMPIRAN> sekarang hari selasa <CLS> dua puluh tiga juli <CLS> aku udah merelakan mantemanmu <CLS> aku pengen punya pacar darimu <CLS> 
+=== GENERATED SEQUENCE 900 ===
+ <SAMPIRAN> sekarang kamis kliwon <CLS> tanggal sembilan belas <CLS> sejak cintaku kau ambil <CLS> bahagia di dunia ini <CLS> 
+=== GENERATED SEQUENCE 901 ===
+ <SAMPIRAN> di dalam semak ada kemumu <CLS> hinggap di daun di bawah mangga <CLS> di dalam surga ada penantian <CLS> setelah setahun menjadi pujaan <CLS> 
+=== GENERATED SEQUENCE 902 ===
+ <SAMPIRAN> pergi belanja ke pasar swalayan <CLS> <SAMPIRAN> ai ke toko depan <CLS> aku rela untuk bertahan <CLS> meskipun hanya untuk kamu saja <CLS> 
+=== GENERATED SEQUENCE 903 ===
+ <SAMPIRAN> minum air dari labu <CLS> airnya segar hilang dahaga <CLS> hormati yang tua sayangi yang muda <CLS> akan senang dan nikmatnya <CLS> 
+=== GENERATED SEQUENCE 904 ===
+ <SAMPIRAN> beli baju ke butik <CLS> pakaian jadi terurai <CLS> kalau kamu cinta padaku <CLS> pasti akan ku beri hadiah <CLS> 
+=== GENERATED SEQUENCE 905 ===
+ <SAMPIRAN> sekarang hari senin <CLS> ramadhan ke empat belas <CLS> lagi kangen kamu banget <CLS> chat dulu moga bisa di buka <CLS> 
+=== GENERATED SEQUENCE 906 ===
+ <SAMPIRAN> di sini jualan genteng <CLS> disana jualan sayur <CLS> banyak orang ngaku ganteng <CLS> tapi bopeng banyak yang ganteng <CLS> 
+=== GENERATED SEQUENCE 907 ===
+ <SAMPIRAN> anak itik mulailah terbang <CLS> ambilkan dedak berilah makan <CLS> janganlah adik merasa bimbang <CLS> segala kehendak abang tunaikan <CLS> 
+=== GENERATED SEQUENCE 908 ===
+ <SAMPIRAN> jika hendak kamu melamar <CLS> jangan banyak tulis dihapus <CLS> jika siswa rajin belajar <CLS> sudah tentu pasti lulus <CLS> 
+=== GENERATED SEQUENCE 909 ===
+ <SAMPIRAN> pagi hari ada ulat <CLS> jangan lupa makan bayam <CLS> selamat hari senin untuk kamu <CLS> bekerja keras dan terus membara <CLS> 
+=== GENERATED SEQUENCE 910 ===
+ <SAMPIRAN> sungguh indah kota mekah <CLS> kota tua banyak berkah <CLS> mari belajar dengan giat <CLS> agar dapat ilmu yang bermanfaat <CLS> 
+=== GENERATED SEQUENCE 911 ===
+ <SAMPIRAN> buah kelapa dibelah dua <CLS> dimakan satu tinggal dua <CLS> jangan lupakan orang tua <CLS> agar kita masuk surga <CLS> 
+=== GENERATED SEQUENCE 912 ===
+ <SAMPIRAN> pergi ke hutan cari rusa <CLS> hendaklah kau bawa tali <CLS> wahai anak cucu bangsa <CLS> hendaklah kau bangun negeri <CLS> 
+=== GENERATED SEQUENCE 913 ===
+ <SAMPIRAN> pagipagi minum kopi <CLS> minumnya es kelapa muda <CLS> jangan sering kamu melamun <CLS> nanti kau akan menyesal <CLS> 
+=== GENERATED SEQUENCE 914 ===
+ <SAMPIRAN> di pantai ada pohon bakau <CLS> pantai bersih di jakarta <CLS> jangankan bermain tangan <CLS> dunia ini pasti sengsara <CLS> 
+=== GENERATED SEQUENCE 915 ===
+ <SAMPIRAN> kalau harimau sedang mengaum <CLS> bunyinya sangat berirama <CLS> kalau ada ulangan umum <CLS> marilah kita belajar bersama <CLS> 
+=== GENERATED SEQUENCE 916 ===
+ <SAMPIRAN> jalanjalan ke kota blitar <CLS> jangan lupa membeli sukun <CLS> jika kamu ingin pintar <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 917 ===
+ <SAMPIRAN> sungguh manis si buah pepaya <CLS> begitu pula si buah pala <CLS> sungguh mulia jasa ibu bapak <CLS> tidak lupa ayah ibunda <CLS> 
+=== GENERATED SEQUENCE 918 ===
+ <SAMPIRAN> ambil kelapa jadikan santan <CLS> santan dimasak menjadi hidangan <CLS> kalau dikau bijaksana <CLS> binatang apakah yang naik dan turun <CLS> 
+=== GENERATED SEQUENCE 919 ===
+ <SAMPIRAN> anak bayi belum bergigi <CLS> tapi bisa makan ketupat <CLS> konsumsilah makanan bergizi <CLS> agar tubuh menjadi sehat <CLS> 
+=== GENERATED SEQUENCE 920 ===
+ <SAMPIRAN> dari mana datangnya lalat <CLS> dari sawah turun ke kali <CLS> dari mana datangnya cinta <CLS> dari mata turun ke hati <CLS> 
+=== GENERATED SEQUENCE 921 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 922 ===
+ <SAMPIRAN> jalanjalan ke surabaya <CLS> singgah sejenak di gedung milik ibu <CLS> jangan hanya memberi harapan <CLS> namun juga memberi harapan yang lain <CLS> 
+=== GENERATED SEQUENCE 923 ===
+ <SAMPIRAN> jalanjalan ke pinggir empang <CLS> nemu katak di pinggir empang <CLS> hati siapa tak bimbang <CLS> saya botak minta dikepang <CLS> 
+=== GENERATED SEQUENCE 924 ===
+ <SAMPIRAN> ada yang nyalain lilin <CLS> sedang ada yg nyalain lilin <CLS> sayang kamu met sahur ya <CLS> salam rindu banget dariku <CLS> 
+=== GENERATED SEQUENCE 925 ===
+ <SAMPIRAN> makan bubur diatas meja <CLS> minumnya jus diatas rak <CLS> kalau kamu cinta padaku <CLS> katakanlah aku cinta padamu <CLS> 
+=== GENERATED SEQUENCE 926 ===
+ <SAMPIRAN> sekarang hari kamis <CLS> ramadhan ke dua puluh tujuh <CLS> aku pengen mimpiin kamu <CLS> biar rinduku padamu degdegan <CLS> 
+=== GENERATED SEQUENCE 927 ===
+ <SAMPIRAN> ada seorang bujang mandi di kali <CLS> tersengat racun berbisa <CLS> hidup pasti terasa indah <CLS> jika cinta tak dibimbing oleh agama <CLS> 
+=== GENERATED SEQUENCE 928 ===
+ <SAMPIRAN> burung merpati burung dara <CLS> terbang tinggi mengejar <CLS> kalau kita bersikap jujur <CLS> jangan diturut salah <CLS> 
+=== GENERATED SEQUENCE 929 ===
+ <SAMPIRAN> kalau tuan muda teruna <CLS> pakai seluar dengan gayanya <CLS> kalau tuan bijak laksana <CLS> biji di luar apa buahnya <CLS> 
+=== GENERATED SEQUENCE 930 ===
+ <SAMPIRAN> yang baru pulang dari jakarta <CLS> kemarin nanya ke indonesia <CLS> sejak kita memutuskan berjodoh <CLS> moga berkah lekas tergapai <CLS> 
+=== GENERATED SEQUENCE 931 ===
+ <SAMPIRAN> makan bubur diatas meja <CLS> minumnya jus diatas rak <CLS> hari libur tetap bekerja <CLS> dapat bonus ambilnya di irak <CLS> 
+=== GENERATED SEQUENCE 932 ===
+ <SAMPIRAN> kalau harimau sedang mengaum <CLS> bunyinya sangat berirama <CLS> kalau ada ulangan umum <CLS> marilah kita belajar bersama <CLS> 
+=== GENERATED SEQUENCE 933 ===
+ <SAMPIRAN> burung belibis terbang tinggi <CLS> hinggap di atas dahan <CLS> dengan ilmu terus diamalkan <CLS> terus diamalkan <CLS> 
+=== GENERATED SEQUENCE 934 ===
+ <SAMPIRAN> pohon ilalang jatoh ditebang <CLS> bunganya putih di atas kubur <CLS> ada anak yang rambutnya ikal <CLS> eh jangan dikasih makan <CLS> 
+=== GENERATED SEQUENCE 935 ===
+ <SAMPIRAN> orang daik memacu kuda <CLS> kuda dipacu deras sekali <CLS> buat baik berpadapada <CLS> buat jahat jangan sekali <CLS> 
+=== GENERATED SEQUENCE 936 ===
+ <SAMPIRAN> sekarang hari jumat <CLS> tanggal sepuluh april <CLS> kamu itu emang jahat <CLS> tiap kali bikin susah <CLS> 
+=== GENERATED SEQUENCE 937 ===
+ <SAMPIRAN> burung bangau turun ke rawa <CLS> masuk tanah yang berongga <CLS> kepada allah kita meminta <CLS> jangan meminta kepada yang tua <CLS> 
+=== GENERATED SEQUENCE 938 ===
+ <SAMPIRAN> di dalam semak ada kemumu <CLS> kemumu di dalam semak <CLS> kemumu di dalam semak <CLS> meski ilmu setinggi gunung <CLS> 
+=== GENERATED SEQUENCE 939 ===
+ <SAMPIRAN> jangan suka makan mentimun <CLS> mentimun itu banyak getahnya <CLS> jangan suka banyak melamun <CLS> melamun itu tiada gunanya <CLS> 
+=== GENERATED SEQUENCE 940 ===
+ <SAMPIRAN> kalau harimau sedang mengaum <CLS> bunyinya sangat berirama <CLS> kalau ada ulangan umum <CLS> marilah kita belajar bersama <CLS> 
+=== GENERATED SEQUENCE 941 ===
+ <SAMPIRAN> di jalanan banyak teman <CLS> di jalanan banyak teman <CLS> kamu itu emang jahat <CLS> sayangnya kamu udah ada yang punya <CLS> 
+=== GENERATED SEQUENCE 942 ===
+ <SAMPIRAN> makan nasi goreng kacang polong <CLS> minumnya es kelapa muda <CLS> jika ingin sebuah impian <CLS> maka haruslah memiliki allah <CLS> 
+=== GENERATED SEQUENCE 943 ===
+ <SAMPIRAN> air putih di atas meja <CLS> minumlah gelas berjuta <CLS> usia muda jangan d a <CLS> nanti tua sesal tak sudah <CLS> 
+=== GENERATED SEQUENCE 944 ===
+ <SAMPIRAN> makan bubur jangan diaduk <CLS> minumnya es kelapa muda <CLS> selamat malam kekasihku <CLS> semoga cintamu tetap terjaga <CLS> 
+=== GENERATED SEQUENCE 945 ===
+ <SAMPIRAN> makan roti pake nampan <CLS> roti tawar tak ada nya <CLS> jangan bilangbilang pacarmu <CLS> karena kalau ntar kita di sini ketemu dlm mimpi <CLS> 
+=== GENERATED SEQUENCE 946 ===
+ <SAMPIRAN> ada gula ada semut <CLS> tidak manis namanya semut <CLS> hormati guru sayangi teman <CLS> itu namanya murid budiman <CLS> 
+=== GENERATED SEQUENCE 947 ===
+ <SAMPIRAN> malam hari hidupkan lampu <CLS> cahaya temaram bercahaya <CLS> jika cinta sudah melekat <CLS> di waktu besar moga berhasil <CLS> 
+=== GENERATED SEQUENCE 948 ===
+ <SAMPIRAN> banyak bekerja setiap hari <CLS> pergi sekolah untuk menuntut ilmu <CLS> kalau kau ingin menjadi pandai <CLS> belajarlah sepanjang hari <CLS> 
+=== GENERATED SEQUENCE 949 ===
+ <SAMPIRAN> anak penjual jamu <CLS> ayahnya penjual jamu <CLS> kalau kamu cintanya ama pacarku <CLS> aku pengen banget jadi pacarmu <CLS> 
+=== GENERATED SEQUENCE 950 ===
+ <SAMPIRAN> anak ayam turun delapan <CLS> mati satu tinggal delapan <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> supaya engkau tidak ketinggalan <CLS> 
+=== GENERATED SEQUENCE 951 ===
+ <SAMPIRAN> di bulan ramadhan orang puasa <CLS> jangan takut berfikir berlebihan <CLS> jagalah kesucian kehadirat allah <CLS> agar beriman selalu kau pegang <CLS> 
+=== GENERATED SEQUENCE 952 ===
+ <SAMPIRAN> jika ada bunga melati <CLS> marilah kau cium harum baunya <CLS> jika ada teman yang bersedih <CLS> marilah kita untuk bersama <CLS> 
+=== GENERATED SEQUENCE 953 ===
+ <SAMPIRAN> jalanjalan ke kota banjar <CLS> jangan lupa membeli padi <CLS> alangkah senangnya hati <CLS> jika jadi orang baik <CLS> 
+=== GENERATED SEQUENCE 954 ===
+ <SAMPIRAN> di bawah pohon duku <CLS> ada dua buku <CLS> jangan lupa bersedekah <CLS> karena rezeki yang tak perlu <CLS> 
+=== GENERATED SEQUENCE 955 ===
+ <SAMPIRAN> di bawah pohon karet <CLS> ada dua di atas meja <CLS> selamat hari selasa buat kalian <CLS> semoga selalu sehat dan selalu <CLS> 
+=== GENERATED SEQUENCE 956 ===
+ <SAMPIRAN> ambil ranting daun berduri <CLS> semak belukar diambil sebagai bukti <CLS> kalau pandai jangan malas <CLS> pasti bodoh saat belajar <CLS> 
+=== GENERATED SEQUENCE 957 ===
+ <SAMPIRAN> pohon rambutan pohon mangga <CLS> d mpan didalam goa <CLS> kamu tak pernah lupa sembahyang <CLS> itulah tanda murid budiman <CLS> 
+=== GENERATED SEQUENCE 958 ===
+ <SAMPIRAN> beli kain warna merah <CLS> dari kediri pakainya batik <CLS> kalau kamu suka marah <CLS> cepat cepatlah pergi makan <CLS> 
+=== GENERATED SEQUENCE 959 ===
+ <SAMPIRAN> kain katun berwarna luntur <CLS> dipakai pergi ke sekolah <CLS> belajar harus selalu semangat <CLS> agar kelak menjadi pandai <CLS> 
+=== GENERATED SEQUENCE 960 ===
+ <SAMPIRAN> ke pasar membeli ikan <CLS> dapatnya itik buatan mama <CLS> agar adik menjadi pandai <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> 
+=== GENERATED SEQUENCE 961 ===
+ <SAMPIRAN> pergi ke pasar membeli tikar <CLS> tikar terbuat dari anyaman <CLS> jika kita rajin belajar <CLS> rajin membaca pasti akan pandai <CLS> 
+=== GENERATED SEQUENCE 962 ===
+ <SAMPIRAN> pergi ke sungai main kelereng <CLS> kelereng hilang entah kemana <CLS> gak peduli situ udah tua <CLS> yang penting saling mencinta <CLS> 
+=== GENERATED SEQUENCE 963 ===
+ <SAMPIRAN> ada pohon roboh <CLS> menimpa penjual jamu <CLS> kamu itu emang jahat <CLS> apalagi kamu yg kucinta <CLS> 
+=== GENERATED SEQUENCE 964 ===
+ <SAMPIRAN> anak ayam turun sepuluh <CLS> mati satu tinggal sembilan <CLS> tuntutlah ilmu dengan sungguhsungguh <CLS> supaya engkau tidak ketinggalan <CLS> 
+=== GENERATED SEQUENCE 965 ===
+ <SAMPIRAN> jika makan buah mengkudu <CLS> buah mengkudu tak dapat dimakan <CLS> jika kamu ingin pintar <CLS> belajarlah dengan rajin <CLS> 
+=== GENERATED SEQUENCE 966 ===
+ <SAMPIRAN> bunga mawar bunga melati <CLS> kala dicium harum baunya <CLS> banyak cara sembuhkan hati <CLS> baca quran paham maknanya <CLS> 
+=== GENERATED SEQUENCE 967 ===
+ <SAMPIRAN> kalau ada jarum yang patah <CLS> jangan simpan dalam peti <CLS> kalau ada kata yang salah <CLS> jangan simpan dalam hati <CLS> 
+=== GENERATED SEQUENCE 968 ===
+ <SAMPIRAN> jika tuan pergi ke tanjung <CLS> janganlah lupa bawa bekal <CLS> jika tuan menjadi burung <CLS> janganlah lupa panggil assalam <CLS> 
+=== GENERATED SEQUENCE 969 ===
+ <SAMPIRAN> lagi ngeliat berita <CLS> demo mei besok <CLS> jangan nggak pengen aku kangen kamu banget <CLS> kalau di suruh jadian aja chatku <CLS> 
+=== GENERATED SEQUENCE 970 ===
+ <SAMPIRAN> makan roti makan roti <CLS> roti tawar berwarna merah <CLS> kuucapkan selamat pagi bagi dirimu <CLS> untuk sahabat yang aku sayang <CLS> 
+=== GENERATED SEQUENCE 971 ===
+ <SAMPIRAN> jalan jalan ke taman safari <CLS> tidak lupa naik perahu <CLS> sungguh mulia jasamu guru <CLS> mendidik kami hingga nanti <CLS> 
+=== GENERATED SEQUENCE 972 ===
+ <SAMPIRAN> di tepi kali saya menyinggah <CLS> menghilang penat menahan jerat <CLS> orang tua jangan disanggah <CLS> agar selamat dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 973 ===
+ <SAMPIRAN> jalanjalan ke kota semarang <CLS> pulangnya membeli jeruk lima <CLS> hati siapa tak bimbang <CLS> kepala botak minta dikepang <CLS> 
+=== GENERATED SEQUENCE 974 ===
+ <SAMPIRAN> buah langsat buah mangga <CLS> dibeli di pasar oleh penjual <CLS> jangan ragu jangan bimbang <CLS> cintaku adalah anugerah <CLS> 
+=== GENERATED SEQUENCE 975 ===
+ <SAMPIRAN> sekarang hari selasa <CLS> tanggal sepuluh juli <CLS> apapun yang kau buat <CLS> aku tuh butuh kepastian darimu <CLS> 
+=== GENERATED SEQUENCE 976 ===
+ <SAMPIRAN> sungguh indah bunga cempaka <CLS> tumbuh satu di tengah taman <CLS> sudah cantik kok kumisan <CLS> sudah cantik sembahyang <CLS> 
+=== GENERATED SEQUENCE 977 ===
+ <SAMPIRAN> kalau kamu pergi ke dusun <CLS> jangan lupa bawa beras <CLS> belajarlah dengan tekun <CLS> agar kita naik kelas <CLS> 
+=== GENERATED SEQUENCE 978 ===
+ <SAMPIRAN> pohon selasih tumbuh melata <CLS> tumbuh perdu jauh disana <CLS> sepasang kekasih mabuk bercinta <CLS> siang merindu malam merana <CLS> 
+=== GENERATED SEQUENCE 979 ===
+ <SAMPIRAN> pergi ke hajatan biar dapat jenang <CLS> jenang lelaka dibawa pulang <CLS> hanya dengan berdoa dan doa kita bersyukur <CLS> supaya hidup tentram bahagia dunia akhirat <CLS> 
+=== GENERATED SEQUENCE 980 ===
+ <SAMPIRAN> orang tua patut disegani <CLS> boleh mendapat ajar nasehat <CLS> ular yang bisa tidak begini <CLS> bisa lagi lidah yang jahat <CLS> 
+=== GENERATED SEQUENCE 981 ===
+ <SAMPIRAN> jalan kelam disangka terang <CLS> hati kelam disangka suci <CLS> akal pendek banyak dipandang <CLS> janganlah hati kita dikunci <CLS> 
+=== GENERATED SEQUENCE 982 ===
+ <SAMPIRAN> jalanjalan ke kota blitar <CLS> jangan lupa membeli sukun <CLS> jika kamu ingin pintar <CLS> belajarlah dengan tekun <CLS> 
+=== GENERATED SEQUENCE 983 ===
+ <SAMPIRAN> ikan sepat sepat ikan panggang <CLS> beli di pasar pagi pagipagi <CLS> janganlah adik merasa malas <CLS> karena hal itu sangatlah ringan <CLS> 
+=== GENERATED SEQUENCE 984 ===
+ <SAMPIRAN> jalanjalan ke kota kedah <CLS> jangan lupa membeli rambutan <CLS> untuk abang yang sangat sayang <CLS> selamat hari ulang tahun <CLS> 
+=== GENERATED SEQUENCE 985 ===
+ <SAMPIRAN> beli jeruk di pasar minggu <CLS> jeruknya manis itu rasanya <CLS> mari menabung kita di waktu kecil <CLS> agar kita bisa hidup bersama <CLS> 
+=== GENERATED SEQUENCE 986 ===
+ <SAMPIRAN> beli obat sakit mata <CLS> pulangnya membawa ikan <CLS> kalau kau ingin berwawasan <CLS> maka rajinlah membaca <CLS> 
+=== GENERATED SEQUENCE 987 ===
+ <SAMPIRAN> saat membuka toko <CLS> ada yang nawarin gula <CLS> tak hanya berwajah cantik <CLS> kamu juga bisa diandalkan <CLS> 
+=== GENERATED SEQUENCE 988 ===
+ <SAMPIRAN> yang ada di ruang tamu <CLS> lagi ada di ruang tamu <CLS> aku ini cowok idaman <CLS> tapi aku lebih baik aku sendiri <CLS> 
+=== GENERATED SEQUENCE 989 ===
+ <SAMPIRAN> ikan sepat dalam kolam <CLS> burung nuri dalam sangkar <CLS> jika sudah terbawa suasana <CLS> senyummu semakin manis <CLS> 
+=== GENERATED SEQUENCE 990 ===
+ <SAMPIRAN> minum kopi sambil baca koran <CLS> setelah itu pergi ke kota <CLS> sebelum presentasi dimulai <CLS> izinkan saya memperkenalkan diri <CLS> 
+=== GENERATED SEQUENCE 991 ===
+ <SAMPIRAN> pohon yang tinggi menjulang teguh <CLS> janganlah <SAMPIRAN> ai ia ditebang <CLS> guru mengajarlah dengan sungguh <CLS> jangan sekadar mencari uang <CLS> 
+=== GENERATED SEQUENCE 992 ===
+ <SAMPIRAN> makan nasi di atas meja <CLS> minumnya jus di atas rak <CLS> jika ingin hidup sukses <CLS> makanlah makanan yang bergizi <CLS> 
+=== GENERATED SEQUENCE 993 ===
+ <SAMPIRAN> pulang memancing saat fajar <CLS> air hangat dari lautan <CLS> hati tergerak untuk makan <CLS> makan sahur yang berbau <CLS> 
+=== GENERATED SEQUENCE 994 ===
+ <SAMPIRAN> hari libur mencuci sepatu <CLS> sepatu letakkan di atas meja <CLS> sungguh hatiku beku <CLS> bagiku kau sudah menunggu <CLS> 
+=== GENERATED SEQUENCE 995 ===
+ <SAMPIRAN> yang baru pulang belanja <CLS> dari pasar baru beli jamu <CLS> sejak kamu datang kembali <CLS> hidupku ini terasa nyaman <CLS> 
+=== GENERATED SEQUENCE 996 ===
+ <SAMPIRAN> ikan sepat berwarna merah <CLS> ikan sepat merah ikan lohan <CLS> memang banyak yang suka <CLS> tetapi yang lebih baik suka <CLS> 
+=== GENERATED SEQUENCE 997 ===
+ <SAMPIRAN> ada yang nawarin nanas <CLS> nawarin makan duku <CLS> aku ndak bisa putus asa <CLS> aku siap langsung halalin kamu <CLS> 
+=== GENERATED SEQUENCE 998 ===
+ <SAMPIRAN> pergi ke sungai mencari ikan <CLS> di sungai ada ikan tenggiri <CLS> anak pandai selalu pintar <CLS> kelak menjadi pandai yang pandai <CLS> 
+=== GENERATED SEQUENCE 999 ===
+ <SAMPIRAN> ada anak petani <CLS> sedang memegang pelet <CLS> alangkah bahagianya aku <CLS> bila kamu berjodoh dengan orang <CLS> 
+=== GENERATED SEQUENCE 1000 ===
+ <SAMPIRAN> pergi ke pasar bersama kawan <CLS> membeli oleholeh dan boneka <CLS> belajar ilmu dunia boleh saja <CLS> tapi jangan <SAMPIRAN> ai putus harapan <CLS> 
